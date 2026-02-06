@@ -1,0 +1,122 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "nil,time()*-80,nil",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "704158067",
+						["VariableName"] = "Angles",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "3783140505",
+				["Model"] = "models/hunter/plates/plate1x1.mdl",
+				["EditorExpand"] = true,
+				["Scale"] = Vector(1, 1, 0.0099999997764826),
+				["Alpha"] = 0.999,
+				["Angles"] = Angle(0, -49948.7265625, 0),
+				["Size"] = 1.5,
+				["ClassName"] = "model",
+				["Fullbright"] = true,
+				["Bone"] = "none",
+				["Translucent"] = true,
+				["Material"] = "http://www.dundjinni.com/forums/uploads/Halebop/Magic_Circle-l.png",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "501813248",
+		["ClassName"] = "group",
+		["Hide"] = true,
+		["Name"] = "룬 마법진",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "nil,time()*-80,nil",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2776784423",
+						["VariableName"] = "Angles",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "143855210",
+				["Model"] = "models/hunter/plates/plate1x1.mdl",
+				["Angles"] = Angle(0, -50321.30859375, 0),
+				["EditorExpand"] = true,
+				["Bone"] = "none",
+				["Scale"] = Vector(1, 1, 0.0099999997764826),
+				["Alpha"] = 0.999,
+				["ClassName"] = "model",
+				["Size"] = 1.5,
+				["PositionOffset"] = Vector(0.60000002384186, 0, 0),
+				["Brightness"] = 20,
+				["Fullbright"] = true,
+				["Translucent"] = true,
+				["Material"] = "http://th04.deviantart.net/fs71/150/f/2013/132/6/4/fairy_tail___magic_circle_render_by_xxlunamizukixx-d651j88.png",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3473502179",
+		["ClassName"] = "group",
+		["Hide"] = true,
+		["Name"] = "눈꽃 마법진",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "nil,time()*-80,nil",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2608061812",
+						["VariableName"] = "Angles",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "113167757",
+				["Model"] = "models/hunter/plates/plate1x1.mdl",
+				["ClassName"] = "model",
+				["EditorExpand"] = true,
+				["Scale"] = Vector(1, 1, 0.0099999997764826),
+				["Alpha"] = 0.999,
+				["Angles"] = Angle(0, -54387.046875, 0),
+				["Size"] = 1.5,
+				["Brightness"] = 20,
+				["Fullbright"] = true,
+				["Bone"] = "none",
+				["Translucent"] = true,
+				["Material"] = "http://www.dundjinni.com/forums/uploads/Halebop/Magic_Circle-b.png",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "971612216",
+		["ClassName"] = "group",
+		["Name"] = "오망성 마법진",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},

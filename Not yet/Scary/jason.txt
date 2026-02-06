@@ -1,0 +1,4011 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.1099058610853e-005, 47.790390014648, 6.2965809775051e-006),
+										["UniqueID"] = "1417633264",
+										["Bone"] = "left foot",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-0.00025314389495179, -37.866302490234, 0.0002783302043099),
+										["UniqueID"] = "3679894388",
+										["Bone"] = "spine",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-12.954620361328, 1.091064453125, 3.4138793945313),
+										["ClassName"] = "model",
+										["UniqueID"] = "19570680",
+										["Size"] = 0.45,
+										["Color"] = Vector(120, 0, 0),
+										["Fullbright"] = true,
+										["Model"] = "models/pac/default.mdl",
+										["Scale"] = Vector(0.89999997615814, 0.80000001192093, 0.5),
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.7715803551255e-005, 3.4212582111359, 8.5377369032358e-006),
+										["UniqueID"] = "2530493885",
+										["Bone"] = "spine 2",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(7.6078677177429, 48.603355407715, 23.50121307373),
+										["UniqueID"] = "487424682",
+										["Bone"] = "left upperarm",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["UniqueID"] = "1909331971",
+										["DieTime"] = 1,
+										["Material"] = "particle/smokesprites_0015",
+										["Color1"] = Vector(0, 0, 0),
+										["FireDelay"] = 0,
+										["Position"] = Vector(-11.607147216797, 0.890380859375, 3.4357299804688),
+										["EndSize"] = 2,
+										["ClassName"] = "particles",
+										["Lighting"] = false,
+										["Spread"] = 0.2,
+										["EndLength"] = 100,
+										["Angles"] = Angle(7.4838594628091e-006, -38.36994934082, -1.7075473806472e-005),
+										["StartSize"] = 1,
+										["Gravity"] = Vector(0, 0, -4.3000001907349),
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["UniqueID"] = "3118922805",
+										["DieTime"] = 1,
+										["Material"] = "particle/smokesprites_0015",
+										["Color1"] = Vector(107, 0, 0),
+										["FireDelay"] = 0,
+										["Position"] = Vector(-11.197326660156, 0.17333984375, 4.435302734375),
+										["EndSize"] = 6.1,
+										["ClassName"] = "particles",
+										["Lighting"] = false,
+										["Spread"] = 0.3,
+										["EndLength"] = 120,
+										["Angles"] = Angle(7.4838594628091e-006, -38.36994934082, -1.7075473806472e-005),
+										["StartSize"] = 1,
+										["Gravity"] = Vector(0, 0, -6.4000000953674),
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-31.312469482422, 57.757354736328, -56.39001083374),
+										["EditorExpand"] = true,
+										["UniqueID"] = "4211902295",
+										["ClassName"] = "bone",
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["UniqueID"] = "1727677577",
+										["Scale"] = Vector(0.89999997615814, 0.10000000149012, 1.1000000238419),
+										["Angles"] = Angle(-9.3915095931152e-006, 34.009143829346, 5.0082802772522),
+										["EditorExpand"] = true,
+										["Size"] = 0.45,
+										["Position"] = Vector(-11.321319580078, -1.7451171875, -0.94476318359375),
+										["Color"] = Vector(49, 28, 28),
+										["Fullbright"] = true,
+										["Model"] = "models/pac/default.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[10] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-21.359394073486, 58.511211395264, -27.101957321167),
+										["Bone"] = "right upperarm",
+										["UniqueID"] = "3784727625",
+										["ClassName"] = "bone",
+									},
+								},
+								[11] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["DieTime"] = 1.6,
+										["UniqueID"] = "3933995354",
+										["3D"] = true,
+										["ParticleAngleVelocity"] = Vector(0, 0, 0),
+										["Color1"] = Vector(138, 0, 0),
+										["FireDelay"] = 0.3,
+										["Position"] = Vector(-73.212677001953, -11.94189453125, -2.0694580078125),
+										["EndSize"] = 60,
+										["ClassName"] = "particles",
+										["NumberParticles"] = 5,
+										["Material"] = "particle/Particle_Glow_04",
+										["Angles"] = Angle(89.329109191895, -0.0030624733772129, -9.6597537994385),
+										["ParticleAngle"] = Angle(-90, 0, 0),
+										["StartSize"] = 0,
+										["Gravity"] = Vector(0, 0, 0),
+									},
+								},
+								[12] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Bone"] = "left forearm",
+										["UniqueID"] = "2202321389",
+										["ClassName"] = "bone",
+									},
+								},
+								[13] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(22.270990371704, -35.305038452148, -14.84575843811),
+										["UniqueID"] = "625000690",
+										["Bone"] = "right forearm",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[14] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["DieTime"] = 0.3,
+										["UniqueID"] = "298322252",
+										["Material"] = "particle/smokesprites_0015",
+										["Position"] = Vector(-14.162139892578, 13.9990234375, -0.09002685546875),
+										["Color1"] = Vector(5, 5, 5),
+										["FireDelay"] = 1,
+										["NumberParticles"] = 10,
+										["EndSize"] = 4,
+										["ClassName"] = "particles",
+										["Lighting"] = false,
+										["Spread"] = 0.3,
+										["EndLength"] = 100,
+										["Angles"] = Angle(2.5613207981223e-006, -71.309936523438, -1.0245282282995e-005),
+										["StartSize"] = 1,
+										["Gravity"] = Vector(0, 0, -1),
+									},
+								},
+								[15] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.2379718100419e-005, -14.960001945496, 4.0127360989572e-005),
+										["Bone"] = "spine 4",
+										["UniqueID"] = "4111125280",
+										["ClassName"] = "bone",
+									},
+								},
+								[16] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Offset"] = 1,
+										["UniqueID"] = "447547907",
+										["Rate"] = -5.59,
+										["SequenceName"] = "ragdoll",
+										["EditorExpand"] = true,
+										["ClassName"] = "animation",
+									},
+								},
+								[17] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(3.6712270230055e-005, 50.066101074219, -3.756604201044e-005),
+										["UniqueID"] = "40685272",
+										["Bone"] = "right foot",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[18] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["UniqueID"] = "2164128942",
+										["DieTime"] = 1,
+										["Material"] = "particle/smokesprites_0015",
+										["Color1"] = Vector(107, 0, 0),
+										["FireDelay"] = 0,
+										["Position"] = Vector(-11.197326660156, 0.17333984375, 4.435302734375),
+										["EndSize"] = 6.1,
+										["ClassName"] = "particles",
+										["Lighting"] = false,
+										["Spread"] = 0.3,
+										["EndLength"] = 120,
+										["Angles"] = Angle(7.4838594628091e-006, -38.36994934082, -1.7075473806472e-005),
+										["StartSize"] = 1,
+										["Gravity"] = Vector(0, 0, -6.4000000953674),
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Angles"] = Angle(-4.5906195640564, -179.35321044922, -6.8373579978943),
+								["UniqueID"] = "1503859426",
+								["EditorExpand"] = true,
+								["Position"] = Vector(44.219665527344, 5.447509765625, 15.462535858154),
+								["Bone"] = "",
+								["Model"] = "models\\Humans/Group02/Female_02.mdl",
+								["Fullbright"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "4248808723",
+						["AffectChildren"] = true,
+						["Expression"] = "(floor((min(5.5,timeex()))/5.5)*(-5.5))+5.5",
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://www.dropbox.com/s/hitgvlrscpo5shw/strong%20choke.txt?dl=0",
+								["ClassName"] = "custom_animation",
+								["UniqueID"] = "3109378196",
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "3744540677",
+						["AffectChildren"] = true,
+						["Expression"] = "(floor((min(5.2,timeex()))/5.2)*(-5.2))+5.2",
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "animation",
+						["OwnerCycle"] = true,
+						["SequenceName"] = "idle_all_01",
+						["EditorExpand"] = true,
+						["UniqueID"] = "201457161",
+					},
+				},
+				[4] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.1099058610853e-005, 47.790390014648, 6.2965809775051e-006),
+										["UniqueID"] = "1417633264",
+										["Hide"] = true,
+										["Bone"] = "left foot",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(5.576000213623, 89.861999511719, 10.204999923706),
+										["UniqueID"] = "487424682",
+										["Bone"] = "left upperarm",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Offset"] = 1,
+										["UniqueID"] = "447547907",
+										["Rate"] = -5.59,
+										["SequenceName"] = "walk_aiming_p_all",
+										["Hide"] = true,
+										["ClassName"] = "animation",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(3.6712270230055e-005, 50.066101074219, -3.756604201044e-005),
+										["UniqueID"] = "40685272",
+										["Bone"] = "right foot",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-0.00025314389495179, -37.866302490234, 0.0002783302043099),
+										["UniqueID"] = "3679894388",
+										["Hide"] = true,
+										["Bone"] = "spine",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(0, 73.5, 9.6000003814697),
+										["UniqueID"] = "2202321389",
+										["Bone"] = "left forearm",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.2379718100419e-005, -14.960001945496, 4.0127360989572e-005),
+										["UniqueID"] = "4111125280",
+										["Bone"] = "spine 4",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-21.359394073486, 58.511211395264, -27.101957321167),
+										["UniqueID"] = "3784727625",
+										["Bone"] = "right upperarm",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.7715803551255e-005, 3.4212582111359, 8.5377369032358e-006),
+										["UniqueID"] = "2530493885",
+										["Bone"] = "spine 2",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+									},
+								},
+								[10] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(22.270990371704, -35.305038452148, -14.84575843811),
+										["UniqueID"] = "625000690",
+										["Bone"] = "right forearm",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+									},
+								},
+								[11] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-5.2065944671631, 30.108085632324, -5.0607824325562),
+										["UniqueID"] = "4211902295",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "1503859426",
+								["Hide"] = true,
+								["EditorExpand"] = true,
+								["Position"] = Vector(-9.8341064453125, 5.528076171875, -55.936614990234),
+								["Fullbright"] = true,
+								["ClassName"] = "model",
+								["Bone"] = "left hand",
+								["Model"] = "models\\Humans/Group02/Female_02.mdl",
+								["Angles"] = Angle(-6.0960049629211, 166.77058410645, -5.5387415885925),
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "1286279154",
+						["AffectChildren"] = true,
+						["Expression"] = "floor((min(5.5,timeex()))/5.5)",
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+				[5] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://www.dropbox.com/s/eqq6q3zki3q90ma/choke.txt?dl=0",
+								["ClassName"] = "custom_animation",
+								["UniqueID"] = "1137257531",
+								["Hide"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "2548177230",
+						["AffectChildren"] = true,
+						["Expression"] = "floor((min(5.2,timeex()))/5.2)",
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "https://www.dropbox.com/s/k3y730fzs4nuky2/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%20215.mp3?dl=0",
+						["ClassName"] = "webaudio",
+						["UniqueID"] = "2002132860",
+					},
+				},
+				[7] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Angles"] = Angle(-86.348152160645, 0.00026808754773811, -0.0002144700702047),
+												["ClassName"] = "clip",
+												["UniqueID"] = "933971101",
+												["Position"] = Vector(-13.694972991943, 0.00146484375, -0.151611328125),
+											},
+										},
+									},
+									["self"] = {
+										["Position"] = Vector(-13.230712890625, -2.818359375, 65.985687255859),
+										["ClassName"] = "model",
+										["UniqueID"] = "1728129209",
+										["EditorExpand"] = true,
+										["Color"] = Vector(128, 0, 0),
+										["Fullbright"] = true,
+										["Model"] = "models/props_debris/wood_chunk06b.mdl",
+										["Angles"] = Angle(-89.946548461914, 9.0336265563965, 0),
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "49374232",
+								["AffectChildren"] = true,
+								["Expression"] = "(floor((min(5.5,timeex()))/5.5)*(-5.5))+5.5",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-89.946548461914, 9.0336265563965, 0),
+								["UniqueID"] = "4145311445",
+								["Position"] = Vector(-13.277221679688, -2.8353271484375, 65.985916137695),
+								["EditorExpand"] = true,
+								["Fullbright"] = true,
+								["Model"] = "models/props_debris/wood_chunk06b.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "1827082841",
+						["Position"] = Vector(78.169250488281, -1.6614990234375, 0.63777542114258),
+						["Angles"] = Angle(-0.12839731574059, -11.265021324158, -0.64462900161743),
+						["Size"] = 0.25,
+						["Fullbright"] = true,
+						["ClassName"] = "model",
+						["Bone"] = "",
+						["Model"] = "models/harvest/tree/tree_big.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "t",
+				["Invert"] = true,
+				["Event"] = "button",
+				["UniqueID"] = "2199783007",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "FINISHING",
+		["ClassName"] = "group",
+		["UniqueID"] = "2925161366",
+		["EditorExpand"] = true,
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "3990179770",
+				["Position"] = Vector(-0.93756103515625, -0.317626953125, -9.2353515625),
+				["Angles"] = Angle(-8.1029302236857e-006, -2.1344344247609e-007, 90.107643127441),
+				["EditorExpand"] = true,
+				["Size"] = 10,
+				["ClassName"] = "model",
+				["Fullbright"] = true,
+				["Bone"] = "chest",
+				["Model"] = "https://www.dropbox.com/s/w06ymd3wu16v6kt/jacket.obj?dl=0",
+				["Material"] = "https://dl.dropboxusercontent.com/s/2txug3qeytgnv41/jason_voorhees_diffout.png?dl=0",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.2,
+						["Bone"] = "right toe",
+						["UniqueID"] = "3798251993",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "1740126874",
+						["Bone"] = "left calf",
+						["Size"] = 1.05,
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.1,
+						["Bone"] = "right upperarm",
+						["UniqueID"] = "2426133792",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "1969494723",
+						["Bone"] = "left toe",
+						["Size"] = 0.2,
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "3806638259",
+						["Bone"] = "spine 2",
+						["Size"] = 1.175,
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "4019832936",
+						["Bone"] = "right upperarm",
+						["Position"] = Vector(1.397216796875, 1.35546875, 0.05615234375),
+						["ClassName"] = "bone",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "1564201868",
+						["Bone"] = "right calf",
+						["Size"] = 1.05,
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "1909772957",
+						["Bone"] = "left upperarm",
+						["Size"] = 1.1,
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "3256571175",
+						["Bone"] = "left forearm",
+						["Size"] = 1.125,
+						["ClassName"] = "bone",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.15,
+						["Bone"] = "left thigh",
+						["UniqueID"] = "438053615",
+						["ClassName"] = "bone",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Bone"] = "spine 4",
+						["EditorExpand"] = true,
+						["UniqueID"] = "1484358701",
+						["ClassName"] = "bone",
+					},
+				},
+				[12] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.15,
+						["Bone"] = "right thigh",
+						["UniqueID"] = "3997204915",
+						["ClassName"] = "bone",
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "832463260",
+						["Bone"] = "spine",
+						["Size"] = 1.125,
+						["ClassName"] = "bone",
+					},
+				},
+				[14] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "3320687795",
+						["Bone"] = "right foot",
+						["Size"] = 0.2,
+						["ClassName"] = "bone",
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "160029533",
+						["Bone"] = "left foot",
+						["Size"] = 0.6,
+						["ClassName"] = "bone",
+					},
+				},
+				[16] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.05,
+						["Bone"] = "spine 1",
+						["UniqueID"] = "1866667900",
+						["ClassName"] = "bone",
+					},
+				},
+				[17] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "1913780903",
+						["Bone"] = "right forearm",
+						["Size"] = 1.125,
+						["ClassName"] = "bone",
+					},
+				},
+				[18] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["Position"] = Vector(1.397216796875, 1.35546875, 0.05615234375),
+						["Bone"] = "left upperarm",
+						["UniqueID"] = "59678974",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "487436812",
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Run"] = "walk_dual",
+				["ClassName"] = "holdtype",
+				["UniqueID"] = "2438549103",
+				["CrouchWalk"] = "walk_dual",
+				["StandIdle"] = "idle_all_01",
+				["Walk"] = "walk_dual",
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(74.721122741699, 27.438228607178, -153.39529418945),
+								["UniqueID"] = "1503838791",
+								["EditorExpand"] = true,
+								["Position"] = Vector(-28.34423828125, -3.150390625, -0.650146484375),
+								["ClassName"] = "clip",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "3961470705",
+						["Position"] = Vector(19.626953125, -6.7001953125, -6.301025390625),
+						["Scale"] = Vector(1.1000000238419, 1.3999999761581, 1),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(0.1122247800231, -30.020217895508, 179.03712463379),
+						["Size"] = 0.32,
+						["ClassName"] = "model",
+						["Fullbright"] = true,
+						["Bone"] = "left foot",
+						["Model"] = "https://www.dropbox.com/s/vl4wlsn1batehg9/foot.obj?dl=0",
+						["Material"] = "https://dl.dropboxusercontent.com/s/2txug3qeytgnv41/jason_voorhees_diffout.png?dl=0",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-88.90544128418, 6.7041357397102e-005, 0.00055867887567729),
+								["ClassName"] = "clip",
+								["UniqueID"] = "1071337041",
+								["Position"] = Vector(-64.69970703125, 0.005859375, 2.0319061279297),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "2561012540",
+						["Position"] = Vector(21.34375, -19.07861328125, 6.2489013671875),
+						["Angles"] = Angle(1.0991133451462, -92.530792236328, -178.1580657959),
+						["EditorExpand"] = true,
+						["Size"] = 0.32,
+						["ClassName"] = "model",
+						["Fullbright"] = true,
+						["Bone"] = "right calf",
+						["Model"] = "https://www.dropbox.com/s/6k5k47ucex85j68/bottom.obj?dl=0",
+						["Material"] = "https://dl.dropboxusercontent.com/s/2txug3qeytgnv41/jason_voorhees_diffout.png?dl=0",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "336873809",
+						["Position"] = Vector(10.748046875, -0.14306640625, 3.115234375),
+						["Angles"] = Angle(-10.23633480072, -62.619159698486, 123.00436401367),
+						["EditorExpand"] = true,
+						["Size"] = 10,
+						["ClassName"] = "model",
+						["Fullbright"] = true,
+						["Bone"] = "left forearm",
+						["Model"] = "https://www.dropbox.com/s/ay7opwlrwvrdsxn/left.obj?dl=0",
+						["Material"] = "https://dl.dropboxusercontent.com/s/2txug3qeytgnv41/jason_voorhees_diffout.png?dl=0",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "neck",
+						["UniqueID"] = "4138012849",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-76.372055053711, 179.99931335449, 179.99978637695),
+								["ClassName"] = "clip",
+								["UniqueID"] = "3856785078",
+								["Position"] = Vector(-27.811279296875, -0.025390625, -2.81884765625),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "3299825060",
+						["Position"] = Vector(19.69189453125, -7.0234375, 7.5816650390625),
+						["Scale"] = Vector(1.1000000238419, 1.3999999761581, 1),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-2.4137260913849, -30.106382369995, -178.04734802246),
+						["Size"] = 0.32,
+						["ClassName"] = "model",
+						["Fullbright"] = true,
+						["Bone"] = "right foot",
+						["Model"] = "https://www.dropbox.com/s/vl4wlsn1batehg9/foot.obj?dl=0",
+						["Material"] = "https://dl.dropboxusercontent.com/s/2txug3qeytgnv41/jason_voorhees_diffout.png?dl=0",
+					},
+				},
+				[6] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																				[1] = {
+																					["children"] = {
+																					},
+																					["self"] = {
+																						["RimlightBoost"] = 76.5,
+																						["UniqueID"] = "3931499736",
+																						["PhongAlbedoTint"] = true,
+																						["EditorExpand"] = true,
+																						["PhongTint"] = Vector(5.8000001907349, -22.700000762939, -15.300000190735),
+																						["RimlightExponent"] = 0.5,
+																						["Rimlight"] = true,
+																						["BaseTexture"] = "https://dl.dropboxusercontent.com/s/fpkxyv6rc2oyzk4/MetalTexture.jpg?dl=0",
+																						["ClassName"] = "material",
+																						["PhongExponent"] = 20,
+																						["PhongBoost"] = 20,
+																						["BumpMap"] = "models/combine_advisor/face5",
+																						["Color"] = Vector(255, 255, 255),
+																						["PhongFresnelRanges"] = Vector(7, 5, 15),
+																						["Phong"] = true,
+																					},
+																				},
+																			},
+																			["self"] = {
+																				["Position"] = Vector(19.1484375, -1.1588134765625, -0.0263671875),
+																				["Fullbright"] = true,
+																				["Angles"] = Angle(-7.7543740272522, -2.2833804905531e-005, 0.00018525538325775),
+																				["EditorExpand"] = true,
+																				["ClassName"] = "model",
+																				["Size"] = 0.1,
+																				["Material"] = "https://dl.dropboxusercontent.com/s/fpkxyv6rc2oyzk4/MetalTexture.jpg?dl=0",
+																				["Color"] = Vector(120, 120, 120),
+																				["Bone"] = "spine 2",
+																				["Model"] = "https://www.dropbox.com/s/m92yui57jdomxoo/axe.obj?dl=0",
+																				["UniqueID"] = "2982151751",
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["Position"] = Vector(-8.697265625, -8.6449584960938, 4.48583984375),
+																		["Fullbright"] = true,
+																		["Angles"] = Angle(68.303428649902, 20.453731536865, -160.51815795898),
+																		["EditorExpand"] = true,
+																		["ClassName"] = "model",
+																		["Size"] = 0.1,
+																		["Material"] = "https://dl.dropboxusercontent.com/s/uqcwqg8dv94xj6m/Texture2.jpg?dl=0",
+																		["Color"] = Vector(127, 127, 127),
+																		["Bone"] = "right hand",
+																		["Model"] = "https://www.dropbox.com/s/hechcob1jwpkvmh/axe%20b.obj?dl=0",
+																		["UniqueID"] = "1174638337",
+																	},
+																},
+																[2] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Arguments"] = "r",
+																		["UniqueID"] = "90734068",
+																		["Event"] = "button",
+																		["ClassName"] = "event",
+																		["EditorExpand"] = true,
+																	},
+																},
+															},
+															["self"] = {
+																["ClassName"] = "group",
+																["UniqueID"] = "2087744732",
+																["EditorExpand"] = true,
+															},
+														},
+													},
+													["self"] = {
+														["Arguments"] = "e",
+														["UniqueID"] = "697149309",
+														["Event"] = "button",
+														["ClassName"] = "event",
+														["EditorExpand"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "1208509772",
+												["EditorExpand"] = true,
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["UniqueID"] = "392313636",
+												["Position"] = Vector(-18.0126953125, 0.5811767578125, -10.701904296875),
+												["Angles"] = Angle(1.7088770866394, -2.9182126522064, -92.043968200684),
+												["EditorExpand"] = true,
+												["Size"] = 0.6,
+												["ClassName"] = "model",
+												["Fullbright"] = true,
+												["Bone"] = "spine 1",
+												["Model"] = "https://www.dropbox.com/s/z5u9muxpb26zpx9/kar.obj?dl=0",
+												["Material"] = "https://dl.dropboxusercontent.com/s/6th3hthwohbmszv/Machete_wire_115115115_AlbedoTransparency.png?dl=0",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "event",
+										["UniqueID"] = "2558815426",
+										["Event"] = "is_flashlight_on",
+										["EditorExpand"] = true,
+										["Invert"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "3182208062",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Name"] = "axe",
+						["ClassName"] = "group",
+						["UniqueID"] = "4232937077",
+						["EditorExpand"] = true,
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["EditorExpand"] = true,
+						["UniqueID"] = "217793170",
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(1.9636794604594e-005, -120.09072113037, -6.5313681261614e-005),
+								["UniqueID"] = "680314174",
+								["EditorExpand"] = true,
+								["Position"] = Vector(-13.209228515625, 10.9345703125, -0.0238037109375),
+								["ClassName"] = "clip",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "1786847044",
+						["Position"] = Vector(3.3544921875, -3.60205078125, -1.450439453125),
+						["Angles"] = Angle(-0.83589798212051, -69.086845397949, 0.52805483341217),
+						["EditorExpand"] = true,
+						["Size"] = 10,
+						["ClassName"] = "model",
+						["Fullbright"] = true,
+						["Bone"] = "neck",
+						["Model"] = "https://www.dropbox.com/s/44ux5xnhg1b8224/nec%20k23123.obj?dl=0",
+						["Material"] = "https://dl.dropboxusercontent.com/s/2txug3qeytgnv41/jason_voorhees_diffout.png?dl=0",
+					},
+				},
+				[9] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "384730777",
+								["Name"] = "default 2",
+								["Position"] = Vector(2.357666015625, 80.2236328125, 3.4221801757813),
+								["EditorExpand"] = true,
+								["Size"] = 0.125,
+								["Bone"] = "eyes",
+								["Color"] = Vector(0, 0, 0),
+								["Fullbright"] = true,
+								["Model"] = "models/pac/default.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "2521346125",
+								["Name"] = "default 1",
+								["Position"] = Vector(2.387451171875, 80.140625, 0.59210205078125),
+								["EditorExpand"] = true,
+								["Size"] = 0.125,
+								["Bone"] = "eyes",
+								["Color"] = Vector(0, 0, 0),
+								["Fullbright"] = true,
+								["Model"] = "models/pac/default.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "2070030684",
+						["Position"] = Vector(-76.0107421875, -10.22314453125, -4.757080078125),
+						["Material"] = "https://dl.dropboxusercontent.com/s/2txug3qeytgnv41/jason_voorhees_diffout.png?dl=0",
+						["Size"] = 10,
+						["Angles"] = Angle(-4.1962656974792, -85.097785949707, 2.306483745575),
+						["ClassName"] = "model",
+						["Fullbright"] = true,
+						["Model"] = "https://www.dropbox.com/s/wcqx5i04rxet3gr/mmxskadas.obj?dl=0",
+						["EditorExpand"] = true,
+					},
+				},
+				[10] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(87.78352355957, -119.58203887939, 60.398658752441),
+								["UniqueID"] = "1587442697",
+								["EditorExpand"] = true,
+								["Position"] = Vector(-64.62060546875, 0.9638671875, 5.0047607421875),
+								["ClassName"] = "clip",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "3435940573",
+						["Position"] = Vector(21.544921875, -18.576416015625, -6.4375),
+						["Angles"] = Angle(1.0991004705429, -92.530792236328, 175.71821594238),
+						["EditorExpand"] = true,
+						["Size"] = 0.32,
+						["ClassName"] = "model",
+						["Fullbright"] = true,
+						["Bone"] = "left calf",
+						["Model"] = "https://www.dropbox.com/s/6k5k47ucex85j68/bottom.obj?dl=0",
+						["Material"] = "https://dl.dropboxusercontent.com/s/2txug3qeytgnv41/jason_voorhees_diffout.png?dl=0",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "219308295",
+						["Fullbright"] = true,
+						["Material"] = "https://dl.dropboxusercontent.com/s/2txug3qeytgnv41/jason_voorhees_diffout.png?dl=0",
+						["Size"] = 10,
+						["Angles"] = Angle(29.904003143311, -62.838680267334, -114.29003143311),
+						["ClassName"] = "model",
+						["Bone"] = "right forearm",
+						["Model"] = "https://www.dropbox.com/s/bp1wr9ot61ebtxw/right.obj?dl=0",
+						["Position"] = Vector(9.52734375, 0.34033203125, -2.314453125),
+					},
+				},
+				[12] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["RimlightBoost"] = 76.5,
+														["UniqueID"] = "1865768661",
+														["PhongAlbedoTint"] = true,
+														["EditorExpand"] = true,
+														["PhongTint"] = Vector(5.8000001907349, -22.700000762939, -15.300000190735),
+														["RimlightExponent"] = 0.5,
+														["Rimlight"] = true,
+														["BaseTexture"] = "https://dl.dropboxusercontent.com/s/fpkxyv6rc2oyzk4/MetalTexture.jpg?dl=0",
+														["ClassName"] = "material",
+														["PhongExponent"] = 20,
+														["PhongBoost"] = 20,
+														["BumpMap"] = "models/combine_advisor/face5",
+														["Color"] = Vector(255, 255, 255),
+														["PhongFresnelRanges"] = Vector(7, 5, 15),
+														["Phong"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["Position"] = Vector(19.1484375, -1.1588134765625, -0.0263671875),
+												["Fullbright"] = true,
+												["Angles"] = Angle(-7.7543740272522, -2.2833804905531e-005, 0.00018525538325775),
+												["EditorExpand"] = true,
+												["ClassName"] = "model",
+												["Size"] = 0.1,
+												["Material"] = "https://dl.dropboxusercontent.com/s/fpkxyv6rc2oyzk4/MetalTexture.jpg?dl=0",
+												["Color"] = Vector(120, 120, 120),
+												["Bone"] = "spine 2",
+												["Model"] = "https://www.dropbox.com/s/m92yui57jdomxoo/axe.obj?dl=0",
+												["UniqueID"] = "1592121580",
+											},
+										},
+									},
+									["self"] = {
+										["Position"] = Vector(3.04296875, -8.958251953125, -9.3145751953125),
+										["Fullbright"] = true,
+										["Angles"] = Angle(-31.459325790405, -2.1015517711639, -171.68920898438),
+										["EditorExpand"] = true,
+										["ClassName"] = "model",
+										["Size"] = 0.1,
+										["Material"] = "https://dl.dropboxusercontent.com/s/uqcwqg8dv94xj6m/Texture2.jpg?dl=0",
+										["Color"] = Vector(127, 127, 127),
+										["Bone"] = "spine 2",
+										["Model"] = "https://www.dropbox.com/s/hechcob1jwpkvmh/axe%20b.obj?dl=0",
+										["UniqueID"] = "4051244629",
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["UniqueID"] = "4219584539",
+														["Fullbright"] = true,
+														["Material"] = "https://dl.dropboxusercontent.com/s/6th3hthwohbmszv/Machete_wire_115115115_AlbedoTransparency.png?dl=0",
+														["Size"] = 0.6,
+														["Angles"] = Angle(-82.859512329102, -168.96493530273, -18.356044769287),
+														["ClassName"] = "model",
+														["Bone"] = "right hand",
+														["Model"] = "https://www.dropbox.com/s/z5u9muxpb26zpx9/kar.obj?dl=0",
+														["Position"] = Vector(6.6396484375, -0.6756591796875, -11.4384765625),
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "2954643919",
+												["EditorExpand"] = true,
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Arguments"] = "h",
+												["UniqueID"] = "3006995883",
+												["Event"] = "button",
+												["ClassName"] = "event",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "3452991170",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Event"] = "is_flashlight_on",
+								["EditorExpand"] = true,
+								["UniqueID"] = "3079365145",
+								["ClassName"] = "event",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "1701032220",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["UniqueID"] = "617682074",
+				["Name"] = "base male",
+				["Material"] = "https://dl.dropboxusercontent.com/s/bp6alf890otlry6/jason%20test.png?dl=0",
+				["Fullbright"] = true,
+				["ClassName"] = "model",
+				["Bone"] = "",
+				["Model"] = "models/pac/male/base_male.mdl",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "3996524682",
+		["Name"] = "제이슨",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "https://www.dropbox.com/s/bv6sg38g1kxbo9o/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%20216.mp3?dl=0",
+						["ClassName"] = "webaudio",
+						["UniqueID"] = "931671574",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-9.0500005171634e-005, 50.072303771973, -3.9273589209188e-005),
+										["EditorExpand"] = true,
+										["UniqueID"] = "1309611504",
+										["ClassName"] = "bone",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["DieTime"] = 1.6,
+										["UniqueID"] = "3740765017",
+										["3D"] = true,
+										["ParticleAngleVelocity"] = Vector(0, 0, 0),
+										["Color1"] = Vector(138, 0, 0),
+										["FireDelay"] = 0.3,
+										["Position"] = Vector(-19.132690429688, 12.736877441406, 0.90185546875),
+										["EndSize"] = 100,
+										["ClassName"] = "particles",
+										["NumberParticles"] = 5,
+										["Material"] = "particle/Particle_Glow_04",
+										["Angles"] = Angle(89.329109191895, -0.0030624733772129, -9.6597537994385),
+										["ParticleAngle"] = Angle(-90, 0, 0),
+										["StartSize"] = 0,
+										["Gravity"] = Vector(0, 0, 0),
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["DieTime"] = 0.3,
+										["UniqueID"] = "3118922805",
+										["Material"] = "particle/smokesprites_0015",
+										["Position"] = Vector(-26.385986328125, 14.300964355469, -0.5838623046875),
+										["Color1"] = Vector(0, 0, 0),
+										["FireDelay"] = 1,
+										["NumberParticles"] = 20,
+										["EndSize"] = 10,
+										["ClassName"] = "particles",
+										["Lighting"] = false,
+										["Spread"] = 0.3,
+										["EndLength"] = 70,
+										["Angles"] = Angle(2.5613207981223e-006, -71.309936523438, -1.0245282282995e-005),
+										["StartSize"] = 1,
+										["Gravity"] = Vector(0, 0, -1),
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(33.933326721191, 1.6464480722789e-005, 6.0455513448687e-006),
+										["Bone"] = "right thigh",
+										["UniqueID"] = "104015529",
+										["ClassName"] = "bone",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(28.700141906738, -27.461963653564, 56.191482543945),
+										["Bone"] = "left forearm",
+										["UniqueID"] = "3792513167",
+										["ClassName"] = "bone",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-22.598224639893, 3.5141485568602e-005, -1.3004661923333e-005),
+										["Bone"] = "left thigh",
+										["UniqueID"] = "426886167",
+										["ClassName"] = "bone",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-45.393203735352, 63.889808654785, -14.339492797852),
+										["Bone"] = "left upperarm",
+										["UniqueID"] = "1105131986",
+										["ClassName"] = "bone",
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(2.4759434381849e-005, 52.465721130371, 3.0735853215447e-005),
+										["UniqueID"] = "2435048552",
+										["Bone"] = "left calf",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(6.3179249991663e-005, 55.612731933594, 9.7330193966627e-005),
+										["Bone"] = "right calf",
+										["UniqueID"] = "2823241996",
+										["ClassName"] = "bone",
+									},
+								},
+								[10] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(48.111991882324, 47.393096923828, 63.569042205811),
+										["Bone"] = "right upperarm",
+										["UniqueID"] = "2975312519",
+										["ClassName"] = "bone",
+									},
+								},
+								[11] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(3.2443396776216e-005, -38.158290863037, -1.7075473806472e-005),
+										["Bone"] = "spine 4",
+										["UniqueID"] = "997718975",
+										["ClassName"] = "bone",
+									},
+								},
+								[12] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["DieTime"] = 0.3,
+										["UniqueID"] = "2164128942",
+										["Material"] = "particle/smokesprites_0015",
+										["Position"] = Vector(-26.203369140625, 13.766967773438, -0.5831298828125),
+										["Color1"] = Vector(107, 0, 0),
+										["FireDelay"] = 1,
+										["NumberParticles"] = 20,
+										["EndSize"] = 10,
+										["ClassName"] = "particles",
+										["Lighting"] = false,
+										["Spread"] = 0.3,
+										["EndLength"] = 70,
+										["Angles"] = Angle(2.5613207981223e-006, -71.309936523438, -1.0245282282995e-005),
+										["StartSize"] = 1,
+										["Gravity"] = Vector(0, 0, -1),
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(-85.386001586914, -160.70286560059, 0),
+								["UniqueID"] = "624639990",
+								["Position"] = Vector(2.8193359375, 4.9498291015625, 16.397247314453),
+								["EditorExpand"] = true,
+								["Bone"] = "",
+								["Model"] = "models/humans/group03/female_06_bloody.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "1126983017",
+						["AffectChildren"] = true,
+						["Expression"] = "(floor((min(2.5,timeex()))/2.5)*(-2.5))+2.5",
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "animation",
+						["OwnerCycle"] = true,
+						["SequenceName"] = "idle_all_01",
+						["EditorExpand"] = true,
+						["UniqueID"] = "3356639943",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(46.599998474121, 0, 0),
+						["Bone"] = "pelvis",
+						["UniqueID"] = "2949216038",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Hide"] = true,
+										["ClassName"] = "animation",
+										["UniqueID"] = "1676490845",
+										["SequenceName"] = "idle_subtle",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-21.687242507935, -63.38648223877, -16.274059295654),
+										["UniqueID"] = "3828264214",
+										["Bone"] = "left upperarm",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(20.308967590332, -3.6414680835151e-006, -2.7311011763231e-006),
+										["UniqueID"] = "3600155796",
+										["Bone"] = "right thigh",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.2166275155323e-005, -45.091297149658, -3.2656840630807e-005),
+										["UniqueID"] = "101062834",
+										["Bone"] = "right forearm",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-2.2198115402716e-005, 33.658527374268, -8.1108497397508e-005),
+										["UniqueID"] = "3761113410",
+										["Hide"] = true,
+										["Bone"] = "left calf",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(39.702075958252, -79.542289733887, -29.133916854858),
+										["UniqueID"] = "4266449138",
+										["Bone"] = "right upperarm",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-8.2777462005615, -7.4197545472998e-005, -35.003246307373),
+										["UniqueID"] = "450307427",
+										["Bone"] = "left thigh",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(4.354245174909e-005, 43.868186950684, 3.9273589209188e-005),
+										["UniqueID"] = "1112336492",
+										["Bone"] = "right calf",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Hide"] = true,
+										["Angles"] = Angle(5.122642050992e-006, 29.145139694214, -2.3692218746874e-005),
+										["UniqueID"] = "506590389",
+										["ClassName"] = "bone",
+									},
+								},
+								[10] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-2.9882078251831e-006, -51.827228546143, -2.2198115402716e-005),
+										["UniqueID"] = "2913038864",
+										["Bone"] = "left forearm",
+										["Hide"] = true,
+										["ClassName"] = "bone",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "1129315420",
+								["Hide"] = true,
+								["EditorExpand"] = true,
+								["Position"] = Vector(-25.927352905273, -1.638427734375, -51.999237060547),
+								["Fullbright"] = true,
+								["ClassName"] = "model",
+								["Bone"] = "left hand",
+								["Model"] = "models\\Humans/Group03/Female_06.mdl",
+								["Angles"] = Angle(-32.958606719971, 179.28558349609, -8.6744541476946e-005),
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "262364695",
+						["AffectChildren"] = true,
+						["Expression"] = "floor((min(2.45,timeex()))/2.45)",
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "https://www.dropbox.com/s/l94qtu4ragp7ipt/chokeslam%20byt%20jason.txt?dl=0",
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "641154199",
+					},
+				},
+				[7] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "3093114015",
+								["Position"] = Vector(-4.3759765625, 5.2276611328125, 17.398860931396),
+								["Size"] = 0.7,
+								["Model"] = "models/props_debris/wood_chunk04f.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "3093114015",
+								["Position"] = Vector(0.849853515625, 5.3682861328125, 14.166542053223),
+								["Size"] = 0.7,
+								["Model"] = "models/props_debris/wood_chunk06f.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Size"] = 0.7,
+								["Position"] = Vector(-0.564453125, 0.1343994140625, 16.948593139648),
+								["Model"] = "models/props_debris/wood_chunk06b.mdl",
+								["UniqueID"] = "1701797641",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "3093114015",
+								["Position"] = Vector(4.154052734375, -7.158935546875, 15.972454071045),
+								["Size"] = 0.7,
+								["Model"] = "models/props_debris/wood_chunk08b.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Size"] = 0.7,
+								["Position"] = Vector(0.849853515625, 5.3682861328125, 14.166542053223),
+								["Model"] = "models/props_debris/wood_chunk06f.mdl",
+								["UniqueID"] = "4056382454",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(1.0388312339783, -179.99995422363, -180),
+								["Position"] = Vector(7.9532470703125, -0.538330078125, 9.9233474731445),
+								["ClassName"] = "model",
+								["Size"] = 0.7,
+								["Model"] = "models/props_debris/wood_chunk07c.mdl",
+								["UniqueID"] = "4056382454",
+							},
+						},
+						[7] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["ClassName"] = "model",
+										["UniqueID"] = "4056382454",
+										["TintColor"] = Vector(38, 0, 0),
+										["Color"] = Vector(118, 0, 0),
+										["Size"] = 0.7,
+										["Model"] = "models/props_debris/wood_chunk06b.mdl",
+										["Position"] = Vector(-0.5645751953125, 0.134521484375, 20.585647583008),
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Size"] = 0.7,
+										["Position"] = Vector(-0.564453125, 0.1343994140625, 18.493896484375),
+										["Model"] = "models/props_debris/wood_chunk06b.mdl",
+										["UniqueID"] = "2704171524",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "4056382454",
+										["EditorExpand"] = true,
+										["Color"] = Vector(61, 0, 0),
+										["Size"] = 0.7,
+										["Model"] = "models/props_debris/wood_chunk06b.mdl",
+										["Position"] = Vector(-0.5645751953125, 0.134521484375, 19.391120910645),
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "3093114015",
+										["Position"] = Vector(5.6712646484375, -0.4886474609375, 14.166542053223),
+										["Color"] = Vector(53, 0, 0),
+										["Size"] = 0.7,
+										["Model"] = "models/props_debris/wood_chunk04c.mdl",
+										["Angles"] = Angle(5.2320356369019, -179.99996948242, 180),
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(1.0388312339783, -179.99995422363, -180),
+										["Position"] = Vector(-4.98974609375, 0.7113037109375, 14.072540283203),
+										["ClassName"] = "model",
+										["Size"] = 0.7,
+										["EditorExpand"] = true,
+										["Model"] = "models/props_debris/wood_chunk07c.mdl",
+										["UniqueID"] = "2015498351",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "2704171524",
+										["EditorExpand"] = true,
+										["Color"] = Vector(85, 0, 0),
+										["Size"] = 0.7,
+										["Model"] = "models/props_debris/wood_chunk06f.mdl",
+										["Position"] = Vector(0.849853515625, 5.3682861328125, 15.808494567871),
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(5.4373779296875, -0.486083984375, 16.6789894104),
+										["ClassName"] = "model",
+										["UniqueID"] = "3093114015",
+										["Size"] = 0.7,
+										["Color"] = Vector(146, 0, 0),
+										["EditorExpand"] = true,
+										["Model"] = "models/props_debris/wood_chunk04c.mdl",
+										["Angles"] = Angle(5.2320356369019, -179.99996948242, 180),
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-2.604248046875, -9.05224609375, 12.773193359375),
+										["ClassName"] = "model",
+										["UniqueID"] = "2704171524",
+										["Size"] = 0.7,
+										["Color"] = Vector(20, 0, 0),
+										["EditorExpand"] = true,
+										["Model"] = "models/props_debris/wood_chunk07c.mdl",
+										["Angles"] = Angle(1.0388312339783, -179.99995422363, -180),
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(1.0388312339783, -179.99995422363, -180),
+										["Position"] = Vector(7.9532470703125, -0.538330078125, 9.9233474731445),
+										["ClassName"] = "model",
+										["Size"] = 0.7,
+										["Model"] = "models/props_debris/wood_chunk07c.mdl",
+										["UniqueID"] = "3093114015",
+									},
+								},
+								[10] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "2704171524",
+										["EditorExpand"] = true,
+										["Color"] = Vector(64, 0, 0),
+										["Size"] = 0.7,
+										["Model"] = "models/props_debris/wood_chunk04f.mdl",
+										["Position"] = Vector(-4.3760986328125, 5.2276611328125, 17.836448669434),
+									},
+								},
+								[11] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "4056382454",
+										["EditorExpand"] = true,
+										["Color"] = Vector(55, 0, 0),
+										["Size"] = 0.7,
+										["Model"] = "models/props_debris/wood_chunk08b.mdl",
+										["Position"] = Vector(4.154052734375, -7.158935546875, 15.972454071045),
+									},
+								},
+								[12] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "4056382454",
+										["Color"] = Vector(91, 0, 0),
+										["Size"] = 0.7,
+										["Model"] = "models/props_debris/wood_chunk06b.mdl",
+										["Position"] = Vector(-0.564453125, 0.1343994140625, 16.948593139648),
+									},
+								},
+								[13] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "2704171524",
+										["EditorExpand"] = true,
+										["Color"] = Vector(67, 0, 0),
+										["Size"] = 0.7,
+										["Model"] = "models/props_debris/wood_chunk08b.mdl",
+										["Position"] = Vector(4.154052734375, -7.158935546875, 15.972454071045),
+									},
+								},
+								[14] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "3093114015",
+										["Color"] = Vector(65, 0, 0),
+										["Size"] = 0.7,
+										["Model"] = "models/props_debris/wood_chunk06f.mdl",
+										["Position"] = Vector(0.849853515625, 5.3682861328125, 15.056114196777),
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "3412594905",
+								["AffectChildren"] = true,
+								["Expression"] = "(floor((min(2.5,timeex()))/2.5)*(-2.5))+2.5",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+						[8] = {
+							["children"] = {
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "1701797641",
+								["Position"] = Vector(-0.564453125, 0.1343994140625, 16.948593139648),
+								["Size"] = 0.7,
+								["Model"] = "models/props_debris/wood_chunk06b.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[9] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(1.0388312339783, -179.99995422363, -180),
+								["Position"] = Vector(-4.98974609375, 0.7113037109375, 14.072540283203),
+								["ClassName"] = "model",
+								["Size"] = 0.7,
+								["Model"] = "models/props_debris/wood_chunk07c.mdl",
+								["UniqueID"] = "2704171524",
+							},
+						},
+						[10] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Size"] = 0.7,
+								["Position"] = Vector(-0.564453125, 0.1343994140625, 18.493896484375),
+								["Model"] = "models/props_debris/wood_chunk06b.mdl",
+								["UniqueID"] = "3093114015",
+							},
+						},
+						[11] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(1.0388312339783, -179.99995422363, -180),
+								["Position"] = Vector(-2.583984375, -9.0533447265625, 11.816276550293),
+								["ClassName"] = "model",
+								["Size"] = 0.7,
+								["Model"] = "models/props_debris/wood_chunk07c.mdl",
+								["UniqueID"] = "3093114015",
+							},
+						},
+						[12] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(5.2320356369019, -179.99996948242, 180),
+								["Position"] = Vector(5.6712646484375, -0.4886474609375, 14.166542053223),
+								["ClassName"] = "model",
+								["Size"] = 0.7,
+								["Model"] = "models/props_debris/wood_chunk04c.mdl",
+								["UniqueID"] = "4056382454",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "2736457320",
+						["Scale"] = Vector(1.7000000476837, 1.7999999523163, 0.69999998807907),
+						["ClassName"] = "model",
+						["Size"] = 0.475,
+						["Bone"] = "",
+						["Position"] = Vector(41.683959960938, 19.015747070313, 0.19808197021484),
+						["Fullbright"] = true,
+						["Model"] = "models/props_forest/tree_pine_stump02.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "x",
+				["Invert"] = true,
+				["Event"] = "button",
+				["UniqueID"] = "3734282815",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "CHOCKSLAM",
+		["ClassName"] = "group",
+		["UniqueID"] = "273701979",
+		["EditorExpand"] = true,
+	},
+},
+[4] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Arguments"] = "x",
+														["UniqueID"] = "109858462",
+														["Event"] = "button",
+														["ClassName"] = "event",
+														["EditorExpand"] = true,
+													},
+												},
+												[2] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["Arguments"] = "y",
+																["UniqueID"] = "83740017",
+																["Event"] = "button",
+																["ClassName"] = "event",
+																["EditorExpand"] = true,
+															},
+														},
+														[2] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Arguments"] = "x",
+																		["UniqueID"] = "3437341291",
+																		["Event"] = "button",
+																		["ClassName"] = "event",
+																		["EditorExpand"] = true,
+																	},
+																},
+																[2] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["ClassName"] = "group",
+																		["UniqueID"] = "3275953828",
+																		["EditorExpand"] = true,
+																	},
+																},
+																[3] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Arguments"] = "t",
+																				["UniqueID"] = "3399138162",
+																				["Event"] = "button",
+																				["ClassName"] = "event",
+																				["EditorExpand"] = true,
+																			},
+																		},
+																		[2] = {
+																			["children"] = {
+																				[1] = {
+																					["children"] = {
+																						[1] = {
+																							["children"] = {
+																								[1] = {
+																									["children"] = {
+																									},
+																									["self"] = {
+																										["URL"] = "https://www.dropbox.com/s/egbwg2gepc6mlou/jason%20idle.txt?dl=0",
+																										["ClassName"] = "custom_animation",
+																										["UniqueID"] = "3921382554",
+																									},
+																								},
+																							},
+																							["self"] = {
+																								["ClassName"] = "group",
+																								["UniqueID"] = "2142925366",
+																								["EditorExpand"] = true,
+																							},
+																						},
+																					},
+																					["self"] = {
+																						["ClassName"] = "group",
+																						["UniqueID"] = "3920403727",
+																						["EditorExpand"] = true,
+																					},
+																				},
+																				[2] = {
+																					["children"] = {
+																					},
+																					["self"] = {
+																						["Arguments"] = "h",
+																						["UniqueID"] = "4240848742",
+																						["Event"] = "button",
+																						["ClassName"] = "event",
+																						["EditorExpand"] = true,
+																					},
+																				},
+																			},
+																			["self"] = {
+																				["ClassName"] = "group",
+																				["UniqueID"] = "467948096",
+																				["EditorExpand"] = true,
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["ClassName"] = "group",
+																		["UniqueID"] = "1523408381",
+																		["EditorExpand"] = true,
+																	},
+																},
+															},
+															["self"] = {
+																["ClassName"] = "group",
+																["UniqueID"] = "2817088573",
+																["EditorExpand"] = true,
+															},
+														},
+													},
+													["self"] = {
+														["ClassName"] = "group",
+														["UniqueID"] = "1808843196",
+														["EditorExpand"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "2119735518",
+												["EditorExpand"] = true,
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Arguments"] = "e",
+												["UniqueID"] = "1583616422",
+												["Event"] = "button",
+												["ClassName"] = "event",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "1568349222",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Arguments"] = "r",
+										["UniqueID"] = "1545919660",
+										["Event"] = "button",
+										["ClassName"] = "event",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "3258911264",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "0",
+						["Invert"] = true,
+						["UniqueID"] = "4075038120",
+						["Event"] = "speed",
+						["Operator"] = "equal or below",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["UniqueID"] = "4263563425",
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "서있는 자세(마체테)",
+		["ClassName"] = "group",
+		["UniqueID"] = "1882248501",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[5] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://www.dropbox.com/s/lh90nsax4a4b4kj/axe%20slash.txt?dl=0",
+								["ClassName"] = "custom_animation",
+								["UniqueID"] = "3553748428",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "animation",
+								["OwnerCycle"] = true,
+								["SequenceName"] = "idle_all_01",
+								["EditorExpand"] = true,
+								["UniqueID"] = "1117531802",
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "event",
+														["UniqueID"] = "3393847758",
+														["Event"] = "button",
+														["Arguments"] = "e",
+														["Invert"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["StartColor"] = Vector(111, 111, 111),
+												["UniqueID"] = "3247273381",
+												["Length"] = 40,
+												["ClassName"] = "trail",
+												["EditorExpand"] = true,
+												["Position"] = Vector(1.18798828125, 0.63670349121094, -1.0283203125),
+												["EndColor"] = Vector(111, 0, 0),
+												["StartSize"] = 20,
+												["TrailPath"] = "trails/smoke",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["RimlightBoost"] = 76.5,
+												["UniqueID"] = "2196851446",
+												["PhongAlbedoTint"] = true,
+												["EditorExpand"] = true,
+												["PhongTint"] = Vector(5.8000001907349, -22.700000762939, -15.300000190735),
+												["RimlightExponent"] = 0.5,
+												["Rimlight"] = true,
+												["BaseTexture"] = "https://dl.dropboxusercontent.com/s/fpkxyv6rc2oyzk4/MetalTexture.jpg?dl=0",
+												["ClassName"] = "material",
+												["PhongExponent"] = 20,
+												["PhongBoost"] = 20,
+												["BumpMap"] = "models/combine_advisor/face5",
+												["Color"] = Vector(255, 255, 255),
+												["PhongFresnelRanges"] = Vector(7, 5, 15),
+												["Phong"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["Position"] = Vector(19.1484375, -1.1588134765625, -0.0263671875),
+										["Fullbright"] = true,
+										["Angles"] = Angle(-7.7543740272522, -2.2833804905531e-005, 0.00018525538325775),
+										["EditorExpand"] = true,
+										["ClassName"] = "model",
+										["Size"] = 0.1,
+										["Material"] = "https://dl.dropboxusercontent.com/s/fpkxyv6rc2oyzk4/MetalTexture.jpg?dl=0",
+										["Color"] = Vector(120, 120, 120),
+										["Bone"] = "spine 2",
+										["Model"] = "https://www.dropbox.com/s/m92yui57jdomxoo/axe.obj?dl=0",
+										["UniqueID"] = "3779696033",
+									},
+								},
+							},
+							["self"] = {
+								["Position"] = Vector(-3.8056640625, -6.6792602539063, -9.78173828125),
+								["Fullbright"] = true,
+								["Angles"] = Angle(68.303428649902, 20.453731536865, -160.51815795898),
+								["EditorExpand"] = true,
+								["ClassName"] = "model",
+								["Size"] = 0.1,
+								["Material"] = "https://dl.dropboxusercontent.com/s/uqcwqg8dv94xj6m/Texture2.jpg?dl=0",
+								["Color"] = Vector(127, 127, 127),
+								["Bone"] = "right hand",
+								["Model"] = "https://www.dropbox.com/s/hechcob1jwpkvmh/axe%20b.obj?dl=0",
+								["UniqueID"] = "1025893811",
+							},
+						},
+						[4] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["UniqueID"] = "3303337639",
+										["Volume"] = 0.5,
+										["ClassName"] = "sound",
+										["Sound"] = "weapons/halloween_boss/knight_axe_hit.wav",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Volume"] = 0.5,
+										["ClassName"] = "sound",
+										["UniqueID"] = "19433547",
+										["Sound"] = "weapons/iceaxe/iceaxe_swing1.wav",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["DamageType"] = "slash",
+										["UniqueID"] = "1076502382",
+										["Speed"] = 5,
+										["Physical"] = true,
+										["Sticky"] = true,
+										["LifeTime"] = 0.12,
+										["ClassName"] = "projectile",
+										["Damage"] = 600,
+										["EyeAngles"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "2599296910",
+								["AffectChildren"] = true,
+								["Expression"] = "(floor((min(0.3,timeex()))/0.3)*(-0.3))+0.3",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "e",
+						["Invert"] = true,
+						["Event"] = "button",
+						["UniqueID"] = "518580914",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "2867760121",
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "1003077123",
+		["Name"] = "도끼베기",
+	},
+},
+[6] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://www.dropbox.com/s/5d7nismc8463ep1/spinning%20axe.txt?dl=0",
+								["ClassName"] = "custom_animation",
+								["UniqueID"] = "1761566556",
+								["EditorExpand"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Volume"] = 0.5,
+										["ClassName"] = "sound",
+										["UniqueID"] = "1846202818",
+										["Sound"] = "weapons/knife/knife_stab.wav",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["DamageType"] = "slash",
+										["UniqueID"] = "813506669",
+										["Speed"] = 5,
+										["Physical"] = true,
+										["Sticky"] = true,
+										["LifeTime"] = 0.12,
+										["ClassName"] = "projectile",
+										["Damage"] = 600,
+										["EyeAngles"] = true,
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Volume"] = 0.5,
+										["ClassName"] = "sound",
+										["UniqueID"] = "3429494398",
+										["Sound"] = "weapons/iceaxe/iceaxe_swing1.wav",
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "1497677590",
+								["AffectChildren"] = true,
+								["Expression"] = "(floor((min(0.3,timeex()))/0.3)*(-0.3))+0.3",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "animation",
+								["OwnerCycle"] = true,
+								["SequenceName"] = "idle_all_01",
+								["EditorExpand"] = true,
+								["UniqueID"] = "2313488702",
+							},
+						},
+						[4] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["DamageType"] = "slash",
+										["UniqueID"] = "3141143167",
+										["Speed"] = 5,
+										["Physical"] = true,
+										["Sticky"] = true,
+										["LifeTime"] = 0.12,
+										["ClassName"] = "projectile",
+										["Bone"] = "",
+										["Angles"] = Angle(-0, 166.48030090332, 0),
+										["Damage"] = 600,
+										["Hide"] = true,
+										["Position"] = Vector(0, 0, 56.4794921875),
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "2167448634",
+								["AffectChildren"] = true,
+								["Expression"] = "(floor((min(0.45,timeex()))/04.5)*(-0.45))+0.45",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+						[5] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["DamageType"] = "slash",
+										["UniqueID"] = "1393191463",
+										["Speed"] = 5,
+										["Physical"] = true,
+										["Sticky"] = true,
+										["LifeTime"] = 0.12,
+										["ClassName"] = "projectile",
+										["Bone"] = "",
+										["Damage"] = 600,
+										["Angles"] = Angle(-0, 24.258100509644, 0),
+										["Position"] = Vector(0, 0, 56.4794921875),
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "4270616759",
+								["AffectChildren"] = true,
+								["Expression"] = "(floor((min(0.3,timeex()))/0.3)*(-0.3))+0.3",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+						[6] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "event",
+														["UniqueID"] = "2007643001",
+														["Event"] = "button",
+														["Arguments"] = "r",
+														["Invert"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["StartColor"] = Vector(111, 111, 111),
+												["UniqueID"] = "568389358",
+												["Length"] = 40,
+												["ClassName"] = "trail",
+												["EditorExpand"] = true,
+												["Position"] = Vector(1.18798828125, 0.63670349121094, -1.0283203125),
+												["EndColor"] = Vector(111, 0, 0),
+												["StartSize"] = 20,
+												["TrailPath"] = "trails/smoke",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["RimlightBoost"] = 76.5,
+												["UniqueID"] = "1110667091",
+												["PhongAlbedoTint"] = true,
+												["EditorExpand"] = true,
+												["PhongTint"] = Vector(5.8000001907349, -22.700000762939, -15.300000190735),
+												["RimlightExponent"] = 0.5,
+												["Rimlight"] = true,
+												["BaseTexture"] = "https://dl.dropboxusercontent.com/s/fpkxyv6rc2oyzk4/MetalTexture.jpg?dl=0",
+												["ClassName"] = "material",
+												["PhongExponent"] = 20,
+												["PhongBoost"] = 20,
+												["BumpMap"] = "models/combine_advisor/face5",
+												["Color"] = Vector(255, 255, 255),
+												["PhongFresnelRanges"] = Vector(7, 5, 15),
+												["Phong"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["Position"] = Vector(19.1484375, -1.1588134765625, -0.0263671875),
+										["Fullbright"] = true,
+										["Angles"] = Angle(-7.7543740272522, -2.2833804905531e-005, 0.00018525538325775),
+										["EditorExpand"] = true,
+										["ClassName"] = "model",
+										["Size"] = 0.1,
+										["Material"] = "https://dl.dropboxusercontent.com/s/fpkxyv6rc2oyzk4/MetalTexture.jpg?dl=0",
+										["Color"] = Vector(120, 120, 120),
+										["Bone"] = "spine 2",
+										["Model"] = "https://www.dropbox.com/s/m92yui57jdomxoo/axe.obj?dl=0",
+										["UniqueID"] = "414802721",
+									},
+								},
+							},
+							["self"] = {
+								["Position"] = Vector(-3.8056640625, -6.6792602539063, -9.78173828125),
+								["Fullbright"] = true,
+								["Angles"] = Angle(68.303428649902, 20.453731536865, -160.51815795898),
+								["EditorExpand"] = true,
+								["ClassName"] = "model",
+								["Size"] = 0.1,
+								["Material"] = "https://dl.dropboxusercontent.com/s/uqcwqg8dv94xj6m/Texture2.jpg?dl=0",
+								["Color"] = Vector(127, 127, 127),
+								["Bone"] = "right hand",
+								["Model"] = "https://www.dropbox.com/s/hechcob1jwpkvmh/axe%20b.obj?dl=0",
+								["UniqueID"] = "3722091176",
+							},
+						},
+						[7] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["DamageType"] = "slash",
+										["UniqueID"] = "834522023",
+										["Speed"] = 5,
+										["Physical"] = true,
+										["Sticky"] = true,
+										["LifeTime"] = 0.12,
+										["ClassName"] = "projectile",
+										["Bone"] = "",
+										["Damage"] = 600,
+										["Angles"] = Angle(-0, 72.595405578613, 0),
+										["Position"] = Vector(0, 0, 56.4794921875),
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "2152527070",
+								["AffectChildren"] = true,
+								["Expression"] = "(floor((min(0.35,timeex()))/0.35)*(-0.35))+0.35",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+						[8] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["DamageType"] = "slash",
+										["UniqueID"] = "1743153231",
+										["Speed"] = 5,
+										["Physical"] = true,
+										["Sticky"] = true,
+										["LifeTime"] = 0.12,
+										["ClassName"] = "projectile",
+										["Bone"] = "",
+										["Damage"] = 600,
+										["Angles"] = Angle(-0, 119.98426055908, 0),
+										["Position"] = Vector(0, 0, 56.4794921875),
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "1153045032",
+								["AffectChildren"] = true,
+								["Expression"] = "(floor((min(0.4,timeex()))/0.4)*(-0.4))+0.4",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "r",
+						["Invert"] = true,
+						["Event"] = "button",
+						["UniqueID"] = "571887451",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "3251911708",
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2491207503",
+		["Name"] = "도끼 돌려서 베기",
+	},
+},
+[7] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Arguments"] = "r",
+														["UniqueID"] = "1480323335",
+														["Event"] = "button",
+														["ClassName"] = "event",
+														["EditorExpand"] = true,
+													},
+												},
+												[2] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["Arguments"] = "x",
+																["UniqueID"] = "3461306918",
+																["Event"] = "button",
+																["ClassName"] = "event",
+																["EditorExpand"] = true,
+															},
+														},
+														[2] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Angles"] = Angle(13.486434936523, 81.140441894531, 35.633781433105),
+																		["UniqueID"] = "231684657",
+																		["Bone"] = "left forearm",
+																		["ClassName"] = "bone",
+																		["EditorExpand"] = true,
+																	},
+																},
+																[2] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Angles"] = Angle(-0.85652977228165, -0.0002881808031816, -0.00012466488988139),
+																		["Bone"] = "spine 4",
+																		["UniqueID"] = "1792687839",
+																		["ClassName"] = "bone",
+																	},
+																},
+																[3] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Angles"] = Angle(-1.3929938077927, 21.834104537964, 9.6977100372314),
+																		["UniqueID"] = "1208539130",
+																		["Bone"] = "left upperarm",
+																		["ClassName"] = "bone",
+																		["EditorExpand"] = true,
+																	},
+																},
+																[4] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Angles"] = Angle(-1.7075473124351e-006, -8.5632152557373, 0.00014279363676906),
+																		["UniqueID"] = "539668325",
+																		["Bone"] = "spine 1",
+																		["ClassName"] = "bone",
+																		["EditorExpand"] = true,
+																	},
+																},
+																[5] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Angles"] = Angle(-4.5669841766357, 48.706062316895, 11.293212890625),
+																		["UniqueID"] = "3340501413",
+																		["Bone"] = "right upperarm",
+																		["ClassName"] = "bone",
+																		["EditorExpand"] = true,
+																	},
+																},
+																[6] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Angles"] = Angle(-9.41285470617e-005, 0.52879649400711, 0.00071546231629327),
+																		["UniqueID"] = "1592992455",
+																		["Bone"] = "spine 2",
+																		["ClassName"] = "bone",
+																		["EditorExpand"] = true,
+																	},
+																},
+																[7] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Angles"] = Angle(-22.926219940186, 30.950592041016, -29.865345001221),
+																		["UniqueID"] = "1688179632",
+																		["Bone"] = "right forearm",
+																		["ClassName"] = "bone",
+																		["EditorExpand"] = true,
+																	},
+																},
+																[8] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Angles"] = Angle(9.9607601165771, -13.854006767273, -3.8949511051178),
+																		["Bone"] = "left forearm",
+																		["UniqueID"] = "3688885993",
+																		["ClassName"] = "bone",
+																	},
+																},
+																[9] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Angles"] = Angle(0.49934801459312, -16.773555755615, 1.656455039978),
+																		["EditorExpand"] = true,
+																		["UniqueID"] = "2761502327",
+																		["ClassName"] = "bone",
+																	},
+																},
+															},
+															["self"] = {
+																["ClassName"] = "group",
+																["UniqueID"] = "2470414206",
+																["EditorExpand"] = true,
+															},
+														},
+													},
+													["self"] = {
+														["ClassName"] = "group",
+														["UniqueID"] = "3936990231",
+														["EditorExpand"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "357669176",
+												["EditorExpand"] = true,
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Arguments"] = "e",
+												["UniqueID"] = "4098857856",
+												["Event"] = "button",
+												["ClassName"] = "event",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "857939027",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Arguments"] = "t",
+										["UniqueID"] = "2409386358",
+										["Event"] = "button",
+										["ClassName"] = "event",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "3126924609",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "10",
+						["Invert"] = true,
+						["UniqueID"] = "1962762135",
+						["Event"] = "speed",
+						["Operator"] = "equal or above",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "3838146758",
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "달리는 자세(도끼)",
+		["ClassName"] = "group",
+		["UniqueID"] = "1780962339",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[8] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "282876585",
+				["Event"] = "button",
+				["Arguments"] = "g",
+				["Invert"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "command",
+				["UniqueID"] = "3415371203",
+				["String"] = "ulx teleport \"Kaonashi\"",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Velocity"] = 1,
+								["UniqueID"] = "393134234",
+								["ParticleAngleVelocity"] = Vector(0, 0, 0),
+								["EndSize"] = -1,
+								["Material"] = "particle/warp3_warp_NoZ",
+								["Color2"] = Vector(0, 0, 0),
+								["Gravity"] = Vector(0, 0, 0),
+								["Collide"] = false,
+								["Sliding"] = false,
+								["Hide"] = true,
+								["FireDelay"] = 0,
+								["ClassName"] = "particles",
+								["DieTime"] = 0.2,
+								["Spread"] = 0,
+								["EditorExpand"] = true,
+								["Color1"] = Vector(0, 0, 0),
+								["StartSize"] = -1,
+								["Lighting"] = false,
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "3603837254",
+						["AffectChildren"] = true,
+						["Expression"] = "floor((min(0.15,timeex()))/0.15)",
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["UniqueID"] = "3011585492",
+				["AffectChildren"] = true,
+				["Expression"] = "(floor((min(0,timeex()))/0)*(-0))+0",
+				["ClassName"] = "proxy",
+				["VariableName"] = "Hide",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["UniqueID"] = "4089476317",
+				["Hide"] = true,
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["URL"] = "https://www.dropbox.com/s/glxr7zetoysyd5f/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%20213%20%2801%29.mp3?dl=0",
+				["ClassName"] = "webaudio",
+				["UniqueID"] = "3776543054",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "사라지기",
+		["ClassName"] = "group",
+		["UniqueID"] = "3908062677",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[9] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "https://www.dropbox.com/s/58amzfus0a399d7/sword%20throw%20jason.txt?dl=0",
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "1505086309",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "https://www.dropbox.com/s/1li984lonia8jse/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%2095%20%2801%29.mp3?dl=0",
+						["ClassName"] = "webaudio",
+						["UniqueID"] = "2627336286",
+						["EditorExpand"] = true,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["OwnerCycle"] = true,
+						["ClassName"] = "animation",
+						["UniqueID"] = "436879006",
+						["SequenceName"] = "idle_all_01",
+					},
+				},
+				[4] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "trail",
+								["UniqueID"] = "2273546790",
+								["Length"] = 30,
+								["StartSize"] = 10,
+								["Position"] = Vector(-23.942749023438, -1.7451171875, 22.6708984375),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "1494595605",
+								["Fullbright"] = true,
+								["Material"] = "https://dl.dropboxusercontent.com/s/6th3hthwohbmszv/Machete_wire_115115115_AlbedoTransparency.png?dl=0",
+								["Size"] = 0.6,
+								["Angles"] = Angle(0.046668831259012, 175.30992126465, -173.38241577148),
+								["ClassName"] = "model",
+								["Bone"] = "",
+								["Model"] = "https://www.dropbox.com/s/z5u9muxpb26zpx9/kar.obj?dl=0",
+								["Position"] = Vector(-11.06884765625, 0.1785888671875, 23.47265625),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "3844091717",
+						["Hide"] = true,
+						["Name"] = "223423423",
+						["EditorExpand"] = true,
+						["Size"] = 0,
+						["Position"] = Vector(-47.63330078125, 0.64212036132813, 3),
+						["Angles"] = Angle(0.072102427482605, -2.2061853408813, 1.8709635734558),
+						["Bone"] = "",
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1845155785",
+						["Speed"] = 0.7,
+						["Physical"] = true,
+						["Sticky"] = true,
+						["Bone"] = "",
+						["ClassName"] = "projectile",
+						["Angles"] = Angle(-0.20355352759361, 6.1764988899231, 0.95742148160934),
+						["Position"] = Vector(-51.568359375, -16.8603515625, 45.021484375),
+						["OutfitPartUID"] = "3844091717",
+						["Damage"] = 100,
+						["OutfitPartName"] = "223423423",
+						["Gravity"] = false,
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Arguments"] = "h",
+						["Invert"] = true,
+						["Event"] = "button",
+						["UniqueID"] = "1362029837",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "camera",
+						["UniqueID"] = "3100508928",
+						["Position"] = Vector(-3.052734375, 72.36376953125, -36.793884277344),
+					},
+				},
+			},
+			["self"] = {
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["UniqueID"] = "3369219248",
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "738943400",
+		["Name"] = "칼던지기",
+	},
+},
+[10] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["DamageType"] = "slash",
+										["UniqueID"] = "2858068782",
+										["Speed"] = 5,
+										["Physical"] = true,
+										["Sticky"] = true,
+										["LifeTime"] = 0.1,
+										["ClassName"] = "projectile",
+										["Damage"] = 200,
+										["EyeAngles"] = true,
+										["Hide"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "3417380690",
+								["AffectChildren"] = true,
+								["Expression"] = "(floor((min(0.55,timeex()))/0.55)*(-0.55))+0.55",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://www.dropbox.com/s/wgdxbblxau1fqx6/mujabihan%20attack.txt?dl=0",
+								["ClassName"] = "custom_animation",
+								["UniqueID"] = "1428057614",
+								["EditorExpand"] = true,
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://www.dropbox.com/s/902igvi1fna54bb/222222222.MP3?dl=0",
+								["ClassName"] = "webaudio",
+								["UniqueID"] = "2144902873",
+							},
+						},
+						[4] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["DamageType"] = "slash",
+										["UniqueID"] = "3505709391",
+										["Speed"] = 5,
+										["Physical"] = true,
+										["Sticky"] = true,
+										["LifeTime"] = 0.1,
+										["ClassName"] = "projectile",
+										["Damage"] = 600,
+										["EyeAngles"] = true,
+										["Hide"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "333321624",
+								["AffectChildren"] = true,
+								["Expression"] = "(floor((min(2.65,timeex()))/2.65)*(-2.65))+2.65",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["OwnerCycle"] = true,
+								["ClassName"] = "animation",
+								["UniqueID"] = "1621725588",
+								["SequenceName"] = "idle_all_01",
+							},
+						},
+						[6] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "event",
+												["UniqueID"] = "1806594989",
+												["Event"] = "button",
+												["Arguments"] = "e",
+												["Invert"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["StartColor"] = Vector(111, 111, 111),
+										["UniqueID"] = "2414383247",
+										["Length"] = 30,
+										["ClassName"] = "trail",
+										["EditorExpand"] = true,
+										["Position"] = Vector(1.18798828125, 0.63670349121094, -1.0283203125),
+										["EndColor"] = Vector(111, 0, 0),
+										["StartSize"] = 10,
+										["TrailPath"] = "trails/smoke",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3576544670",
+								["Position"] = Vector(6.6396484375, -0.6756591796875, -11.4384765625),
+								["Angles"] = Angle(-82.859512329102, -168.96493530273, -18.356044769287),
+								["EditorExpand"] = true,
+								["Size"] = 0.6,
+								["ClassName"] = "model",
+								["Fullbright"] = true,
+								["Bone"] = "right hand",
+								["Model"] = "https://www.dropbox.com/s/z5u9muxpb26zpx9/kar.obj?dl=0",
+								["Material"] = "https://dl.dropboxusercontent.com/s/6th3hthwohbmszv/Machete_wire_115115115_AlbedoTransparency.png?dl=0",
+							},
+						},
+						[7] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["DamageType"] = "slash",
+										["UniqueID"] = "3731825980",
+										["Speed"] = 5,
+										["Physical"] = true,
+										["Sticky"] = true,
+										["LifeTime"] = 0.1,
+										["ClassName"] = "projectile",
+										["Damage"] = 5000,
+										["EyeAngles"] = true,
+										["Hide"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "3610319719",
+								["AffectChildren"] = true,
+								["Expression"] = "(floor((min(4.75,timeex()))/4.75)*(-4.75))+4.75",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "e",
+						["Invert"] = true,
+						["Event"] = "button",
+						["UniqueID"] = "1855351853",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["UniqueID"] = "157240214",
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2263477832",
+		["Name"] = "KILL FOR MOTHER",
+	},
+},
+[11] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "timer",
+						["Arguments"] = "30",
+						["UniqueID"] = "1295417248",
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["URL"] = "https://www.dropbox.com/s/ndfd7qpey9r4w43/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%20208%20%2801%29.mp3?dl=0",
+				["ClassName"] = "webaudio",
+				["UniqueID"] = "3751697471",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["HideEntity"] = true,
+				["Size"] = 1.15,
+				["UniqueID"] = "1493087988",
+				["DrawWeapon"] = false,
+				["ClassName"] = "entity",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "3627760311",
+		["Name"] = "앤티티",
+	},
+},
+[12] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "event",
+										["UniqueID"] = "82598951",
+										["Event"] = "timer",
+										["Arguments"] = "0.5",
+										["Invert"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "3640547569",
+								["Volume"] = 0.5,
+								["ClassName"] = "sound",
+								["Sound"] = "weapons/samurai/tf_katana_draw_02.wav",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://www.dropbox.com/s/9b59nxdyaskt2m4/jason%20sword%20repart.txt?dl=0",
+								["ClassName"] = "custom_animation",
+								["UniqueID"] = "2526394393",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["OwnerCycle"] = true,
+								["ClassName"] = "animation",
+								["UniqueID"] = "3528847183",
+								["SequenceName"] = "idle_all_01",
+							},
+						},
+						[4] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "event",
+										["UniqueID"] = "51152169",
+										["Event"] = "timer",
+										["Arguments"] = "0.5",
+										["Invert"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["DamageType"] = "slash",
+								["UniqueID"] = "1067241832",
+								["Speed"] = 5,
+								["Physical"] = true,
+								["Sticky"] = true,
+								["LifeTime"] = 0.1,
+								["ClassName"] = "projectile",
+								["EditorExpand"] = true,
+								["Damage"] = 50,
+								["EyeAngles"] = true,
+								["Gravity"] = false,
+							},
+						},
+						[5] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Arguments"] = "r",
+												["Invert"] = true,
+												["Event"] = "button",
+												["UniqueID"] = "2191202398",
+												["EditorExpand"] = true,
+												["ClassName"] = "event",
+											},
+										},
+									},
+									["self"] = {
+										["StartColor"] = Vector(111, 111, 111),
+										["UniqueID"] = "4079814044",
+										["Length"] = 30,
+										["ClassName"] = "trail",
+										["EditorExpand"] = true,
+										["Position"] = Vector(1.18798828125, 0.63670349121094, -1.0283203125),
+										["EndColor"] = Vector(111, 0, 0),
+										["StartSize"] = 10,
+										["TrailPath"] = "trails/smoke",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "1634939174",
+								["Position"] = Vector(6.6396484375, -0.6756591796875, -11.4384765625),
+								["Angles"] = Angle(-82.859512329102, -168.96493530273, -18.356044769287),
+								["EditorExpand"] = true,
+								["Size"] = 0.6,
+								["ClassName"] = "model",
+								["Fullbright"] = true,
+								["Bone"] = "right hand",
+								["Model"] = "https://www.dropbox.com/s/z5u9muxpb26zpx9/kar.obj?dl=0",
+								["Material"] = "https://dl.dropboxusercontent.com/s/6th3hthwohbmszv/Machete_wire_115115115_AlbedoTransparency.png?dl=0",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "r",
+						["Invert"] = true,
+						["Event"] = "button",
+						["UniqueID"] = "1066605754",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["UniqueID"] = "2017170926",
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "923018445",
+		["Name"] = "연속베기",
+	},
+},
+[13] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Arguments"] = "b",
+														["UniqueID"] = "4239360436",
+														["Event"] = "button",
+														["ClassName"] = "event",
+														["EditorExpand"] = true,
+													},
+												},
+												[2] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["Arguments"] = "r",
+																["UniqueID"] = "757232518",
+																["Event"] = "button",
+																["ClassName"] = "event",
+																["EditorExpand"] = true,
+															},
+														},
+														[2] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Arguments"] = "x",
+																		["UniqueID"] = "3649764359",
+																		["Event"] = "button",
+																		["ClassName"] = "event",
+																		["EditorExpand"] = true,
+																	},
+																},
+																[2] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["ClassName"] = "group",
+																		["UniqueID"] = "3337005484",
+																		["EditorExpand"] = true,
+																	},
+																},
+																[3] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Arguments"] = "t",
+																				["UniqueID"] = "536330547",
+																				["Event"] = "button",
+																				["ClassName"] = "event",
+																				["EditorExpand"] = true,
+																			},
+																		},
+																		[2] = {
+																			["children"] = {
+																				[1] = {
+																					["children"] = {
+																						[1] = {
+																							["children"] = {
+																								[1] = {
+																									["children"] = {
+																									},
+																									["self"] = {
+																										["URL"] = "https://www.dropbox.com/s/mei56ecvr9z13po/jason%20axe%20idle.txt?dl=0",
+																										["ClassName"] = "custom_animation",
+																										["UniqueID"] = "3332193135",
+																									},
+																								},
+																							},
+																							["self"] = {
+																								["ClassName"] = "group",
+																								["UniqueID"] = "2585048228",
+																								["EditorExpand"] = true,
+																							},
+																						},
+																					},
+																					["self"] = {
+																						["ClassName"] = "group",
+																						["UniqueID"] = "2232425430",
+																						["EditorExpand"] = true,
+																					},
+																				},
+																				[2] = {
+																					["children"] = {
+																					},
+																					["self"] = {
+																						["Arguments"] = "h",
+																						["UniqueID"] = "3913687192",
+																						["Event"] = "button",
+																						["ClassName"] = "event",
+																						["EditorExpand"] = true,
+																					},
+																				},
+																			},
+																			["self"] = {
+																				["ClassName"] = "group",
+																				["UniqueID"] = "14850797",
+																				["EditorExpand"] = true,
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["ClassName"] = "group",
+																		["UniqueID"] = "1629687350",
+																		["EditorExpand"] = true,
+																	},
+																},
+															},
+															["self"] = {
+																["ClassName"] = "group",
+																["UniqueID"] = "1472735009",
+																["EditorExpand"] = true,
+															},
+														},
+													},
+													["self"] = {
+														["ClassName"] = "group",
+														["UniqueID"] = "908567959",
+														["EditorExpand"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "904864866",
+												["EditorExpand"] = true,
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Arguments"] = "e",
+												["UniqueID"] = "4024345727",
+												["Event"] = "button",
+												["ClassName"] = "event",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "798531253",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Arguments"] = "r",
+										["UniqueID"] = "2750905588",
+										["Event"] = "button",
+										["ClassName"] = "event",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "2515209058",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "0",
+						["Invert"] = true,
+						["UniqueID"] = "1821876361",
+						["Event"] = "speed",
+						["Operator"] = "equal or below",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "2195345972",
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "서있는 자세(도끼)",
+		["ClassName"] = "group",
+		["UniqueID"] = "2505733677",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[14] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Arguments"] = "h",
+												["UniqueID"] = "3275433448",
+												["Event"] = "button",
+												["ClassName"] = "event",
+												["EditorExpand"] = true,
+											},
+										},
+										[2] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["Arguments"] = "r",
+																["UniqueID"] = "2907853276",
+																["Event"] = "button",
+																["ClassName"] = "event",
+																["EditorExpand"] = true,
+															},
+														},
+														[2] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Arguments"] = "x",
+																		["UniqueID"] = "3858606474",
+																		["Event"] = "button",
+																		["ClassName"] = "event",
+																		["EditorExpand"] = true,
+																	},
+																},
+																[2] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Angles"] = Angle(5.3519940376282, -0.87782871723175, 9.9917840957642),
+																				["Bone"] = "right thigh",
+																				["UniqueID"] = "1685295365",
+																				["ClassName"] = "bone",
+																			},
+																		},
+																		[2] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Angles"] = Angle(-9.41285470617e-005, 0.52879649400711, 0.00071546231629327),
+																				["UniqueID"] = "4162003354",
+																				["Bone"] = "spine 2",
+																				["ClassName"] = "bone",
+																				["EditorExpand"] = true,
+																			},
+																		},
+																		[3] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Angles"] = Angle(-4.5669841766357, 48.706062316895, 11.293212890625),
+																				["UniqueID"] = "1910264671",
+																				["Bone"] = "right upperarm",
+																				["ClassName"] = "bone",
+																				["EditorExpand"] = true,
+																			},
+																		},
+																		[4] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Angles"] = Angle(-2.2743237018585, -2.2029514312744, -15.960919380188),
+																				["Bone"] = "left thigh",
+																				["UniqueID"] = "1507077976",
+																				["ClassName"] = "bone",
+																			},
+																		},
+																		[5] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Angles"] = Angle(-0.85652977228165, -0.0002881808031816, -0.00012466488988139),
+																				["Bone"] = "spine 4",
+																				["UniqueID"] = "3581284340",
+																				["ClassName"] = "bone",
+																			},
+																		},
+																		[6] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Angles"] = Angle(-22.926219940186, 30.950592041016, -29.865345001221),
+																				["UniqueID"] = "1606992542",
+																				["Bone"] = "right forearm",
+																				["ClassName"] = "bone",
+																				["EditorExpand"] = true,
+																			},
+																		},
+																		[7] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Angles"] = Angle(13.486434936523, 81.140441894531, 35.633781433105),
+																				["UniqueID"] = "4031950828",
+																				["Bone"] = "left forearm",
+																				["ClassName"] = "bone",
+																				["EditorExpand"] = true,
+																			},
+																		},
+																		[8] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Angles"] = Angle(-1.7075473124351e-006, -8.5632152557373, 0.00014279363676906),
+																				["UniqueID"] = "1911851975",
+																				["Bone"] = "spine 1",
+																				["ClassName"] = "bone",
+																				["EditorExpand"] = true,
+																			},
+																		},
+																		[9] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Angles"] = Angle(9.9607601165771, -13.854006767273, -3.8949511051178),
+																				["Bone"] = "left forearm",
+																				["UniqueID"] = "3299345401",
+																				["ClassName"] = "bone",
+																			},
+																		},
+																		[10] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Angles"] = Angle(-1.3929938077927, 21.834104537964, 9.6977100372314),
+																				["UniqueID"] = "2477687951",
+																				["Bone"] = "left upperarm",
+																				["ClassName"] = "bone",
+																				["EditorExpand"] = true,
+																			},
+																		},
+																		[11] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Angles"] = Angle(0.49934801459312, -16.773555755615, 1.656455039978),
+																				["EditorExpand"] = true,
+																				["UniqueID"] = "1593751735",
+																				["ClassName"] = "bone",
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["ClassName"] = "group",
+																		["UniqueID"] = "3213105688",
+																		["EditorExpand"] = true,
+																	},
+																},
+															},
+															["self"] = {
+																["ClassName"] = "group",
+																["UniqueID"] = "2343567127",
+																["EditorExpand"] = true,
+															},
+														},
+													},
+													["self"] = {
+														["ClassName"] = "group",
+														["UniqueID"] = "1155786285",
+														["EditorExpand"] = true,
+													},
+												},
+												[2] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Arguments"] = "e",
+														["UniqueID"] = "1480323335",
+														["Event"] = "button",
+														["ClassName"] = "event",
+														["EditorExpand"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "2657789647",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "3972652033",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Arguments"] = "t",
+										["UniqueID"] = "81589483",
+										["Event"] = "button",
+										["ClassName"] = "event",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "888516510",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "10",
+						["Invert"] = true,
+						["UniqueID"] = "3103169717",
+						["Event"] = "speed",
+						["Operator"] = "equal or above",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["UniqueID"] = "3676320343",
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "달리는 자세",
+		["ClassName"] = "group",
+		["UniqueID"] = "4200414945",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},

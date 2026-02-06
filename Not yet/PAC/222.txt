@@ -1,0 +1,223 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "trail",
+										["UniqueID"] = "2312087040",
+										["Length"] = 20,
+										["StartSize"] = 10,
+										["Position"] = Vector(0, 0, 55),
+									},
+								},
+							},
+							["self"] = {
+								["Position"] = Vector(2.5, -1.5, 3),
+								["Angles"] = Angle(-10, 0, -180),
+								["UniqueID"] = "1009188305",
+								["Size"] = 0.5,
+								["EditorExpand"] = true,
+								["Bone"] = "right hand",
+								["Model"] = "models/props_c17/signpole001.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "150932550",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["AttackCrouchPrimaryfire"] = "range_rpg",
+										["ClassName"] = "holdtype",
+										["UniqueID"] = "3370985257",
+										["AttackStandPrimaryfire"] = "range_rpg",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "1617231828",
+								["EditorExpand"] = true,
+								["DrawWeapon"] = false,
+								["ClassName"] = "entity",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-30, 30, -40),
+										["UniqueID"] = "1249512786",
+										["Bone"] = "left forearm",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-10, -20, -50),
+										["Bone"] = "right forearm",
+										["UniqueID"] = "3934339595",
+										["ClassName"] = "bone",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(9, 5, -5),
+										["Bone"] = "right hand",
+										["UniqueID"] = "958654871",
+										["ClassName"] = "bone",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-30, 0, 0),
+										["Bone"] = "left upperarm",
+										["UniqueID"] = "137164181",
+										["ClassName"] = "bone",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(20, 0, 35),
+										["UniqueID"] = "2338424858",
+										["ClassName"] = "bone",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(10, 15, -50),
+										["Bone"] = "right upperarm",
+										["UniqueID"] = "1662805500",
+										["ClassName"] = "bone",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(0, 0, -20),
+										["UniqueID"] = "1430931748",
+										["Bone"] = "spine",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["WeaponHoldType"] = "range_rpg",
+								["ClassName"] = "animation",
+								["UniqueID"] = "3040105642",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "417642425",
+						["ClassName"] = "group",
+						["Name"] = "내 의상",
+						["Description"] = "나에게 파트를 추가하세요!",
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Arguments"] = "500",
+												["Invert"] = true,
+												["UniqueID"] = "3381825932",
+												["Event"] = "speed",
+												["Operator"] = "equal or below",
+												["EditorExpand"] = true,
+												["ClassName"] = "event",
+											},
+										},
+									},
+									["self"] = {
+										["Arguments"] = "0",
+										["Invert"] = true,
+										["UniqueID"] = "1548517302",
+										["Event"] = "speed",
+										["Operator"] = "equal or above",
+										["EditorExpand"] = true,
+										["ClassName"] = "event",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["URL"] = "https://www.dropbox.com/s/g7e6b9jnhy3v624/Lights%20sod.txt?dl=1",
+										["ClassName"] = "custom_animation",
+										["UniqueID"] = "646650797",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Arguments"] = "attack@@0.45",
+								["Invert"] = true,
+								["Event"] = "animation_event",
+								["UniqueID"] = "1262188504",
+								["EditorExpand"] = true,
+								["ClassName"] = "event",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "1585442124",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "모음",
+				["ClassName"] = "group",
+				["UniqueID"] = "2557030118",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "메인",
+		["ClassName"] = "group",
+		["UniqueID"] = "2858469649",
+		["EditorExpand"] = true,
+	},
+},

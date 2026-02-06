@@ -1,0 +1,146 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 1.5,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "550337034",
+						["Expression"] = "min(2,timeex()*3)",
+						["InputMultiplier"] = 10,
+						["Min"] = 1,
+						["VariableName"] = "Size",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "1468194248",
+				["Name"] = "min(크기,timeex()*속도)",
+				["ClassName"] = "model",
+				["Size"] = 2,
+				["Position"] = Vector(1, -58.21435546875, 50),
+				["Color"] = Vector(0, 0, 255),
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3387587485",
+		["ClassName"] = "group",
+		["Name"] = "파랑/점점 커지는",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "min(90,timeex()*300)",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2522800981",
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "2326092423",
+				["EditorExpand"] = true,
+				["Color"] = Vector(255, 0, 0),
+				["Bone"] = "",
+				["Name"] = "min(거리,timeex()*속도)",
+				["Position"] = Vector(90, -90, 50),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "1668652893",
+		["ClassName"] = "group",
+		["Name"] = "빨강/이동 프록시",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 1.5,
+						["ClassName"] = "proxy",
+						["UniqueID"] = "363462290",
+						["InputMultiplier"] = 10,
+						["Min"] = 1,
+						["VariableName"] = "Size",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "975421670",
+				["Name"] = "최소와 최대를 조정하세요",
+				["ClassName"] = "model",
+				["Size"] = 1.1643334645449,
+				["Position"] = Vector(1, 45.451904296875, 50),
+				["Color"] = Vector(0, 255, 0),
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2421315499",
+		["ClassName"] = "group",
+		["Name"] = "초록/커졌다 작아졌다",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[4] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "sin(time()*5)^1*20",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2709128149",
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "1853078096",
+				["EditorExpand"] = true,
+				["Color"] = Vector(255, 255, 0),
+				["Bone"] = "",
+				["Name"] = "sin(time()*속도)^딜레이*거리",
+				["Position"] = Vector(3.4797344207764, 91.050659179688, 48.630859375),
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "노랑/와리가리",
+		["ClassName"] = "group",
+		["UniqueID"] = "605341244",
+		["EditorExpand"] = true,
+	},
+},

@@ -1,0 +1,952 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "entity",
+				["DrawWeapon"] = false,
+				["UniqueID"] = "472998520",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "304250594",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(90, 0.00010499382915441, 8.1504098488949e-005),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "485122656",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(-4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(89.999954223633, 180, 0),
+											},
+										},
+									},
+									["self"] = {
+										["Model"] = "models/pac/default.mdl",
+										["ClassName"] = "model",
+										["UniqueID"] = "1617254023",
+										["Size"] = 0,
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "1075110663",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(90, 0.00010499382915441, 8.1504098488949e-005),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "2948159524",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(-4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(89.999954223633, 180, 0),
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(1.1642278877844e-005, -135, 8.6621112131979e-006),
+										["Size"] = 0,
+										["ClassName"] = "model",
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "3668576748",
+									},
+								},
+								[3] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "4230301183",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(90, 0.00010499382915441, 8.1504098488949e-005),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "2846439033",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(-4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(89.999954223633, 180, 0),
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(1.280331525777e-005, 90, 5.1710103434743e-006),
+										["Size"] = 0,
+										["ClassName"] = "model",
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "732935190",
+									},
+								},
+								[4] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "4030830904",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(90, 0.00010499382915441, 8.1504098488949e-005),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "2376814659",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(-4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(89.999954223633, 180, 0),
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(1.4925773939467e-005, 135, 8.171022273018e-006),
+										["Size"] = 0,
+										["ClassName"] = "model",
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "3813705763",
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(45, -1.088272256311e-005, -5.7328648836119e-005),
+								["Size"] = 0,
+								["ClassName"] = "model",
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "4199838217",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "2681073660",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(90, 0.00010499382915441, 8.1504098488949e-005),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "84929249",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(-4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(89.999954223633, 180, 0),
+											},
+										},
+									},
+									["self"] = {
+										["Model"] = "models/pac/default.mdl",
+										["ClassName"] = "model",
+										["UniqueID"] = "2663862548",
+										["Size"] = 0,
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "330080248",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(90, 0.00010499382915441, 8.1504098488949e-005),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "2349851694",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(-4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(89.999954223633, 180, 0),
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(1.1642278877844e-005, -135, 8.6621112131979e-006),
+										["Size"] = 0,
+										["ClassName"] = "model",
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "528045822",
+									},
+								},
+								[3] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "935453534",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(90, 0.00010499382915441, 8.1504098488949e-005),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "1584144344",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(-4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(89.999954223633, 180, 0),
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(1.280331525777e-005, 90, 5.1710103434743e-006),
+										["Size"] = 0,
+										["ClassName"] = "model",
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "4094631235",
+									},
+								},
+								[4] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "398005815",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(90, 0.00010499382915441, 8.1504098488949e-005),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "3974195866",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(-4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(89.999954223633, 180, 0),
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(1.4925773939467e-005, 135, 8.171022273018e-006),
+										["Size"] = 0,
+										["ClassName"] = "model",
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "3624938822",
+									},
+								},
+							},
+							["self"] = {
+								["Model"] = "models/pac/default.mdl",
+								["ClassName"] = "model",
+								["UniqueID"] = "3455981933",
+								["Size"] = 0,
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "3415257428",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(90, 0.00010499382915441, 8.1504098488949e-005),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "2488210944",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(-4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(89.999954223633, 180, 0),
+											},
+										},
+									},
+									["self"] = {
+										["Model"] = "models/pac/default.mdl",
+										["ClassName"] = "model",
+										["UniqueID"] = "2739964530",
+										["Size"] = 0,
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "1761978340",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(90, 0.00010499382915441, 8.1504098488949e-005),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "2178430754",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(-4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(89.999954223633, 180, 0),
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(1.1642278877844e-005, -135, 8.6621112131979e-006),
+										["Size"] = 0,
+										["ClassName"] = "model",
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "93325268",
+									},
+								},
+								[3] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "1819420510",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(90, 0.00010499382915441, 8.1504098488949e-005),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "3918583288",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(-4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(89.999954223633, 180, 0),
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(1.280331525777e-005, 90, 5.1710103434743e-006),
+										["Size"] = 0,
+										["ClassName"] = "model",
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "3953969527",
+									},
+								},
+								[4] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "4012269726",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(90, 0.00010499382915441, 8.1504098488949e-005),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "s",
+												["UniqueID"] = "4111794140",
+												["ClassName"] = "model",
+												["Size"] = 0.072,
+												["Position"] = Vector(-4.3179998397827, 0, 0),
+												["Model"] = "models/hunter/misc/cone1x1.mdl",
+												["Angles"] = Angle(89.999954223633, 180, 0),
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(1.4925773939467e-005, 135, 8.171022273018e-006),
+										["Size"] = 0,
+										["ClassName"] = "model",
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "4224224913",
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(45, -179.99993896484, -179.99995422363),
+								["Size"] = 0,
+								["ClassName"] = "model",
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "872581884",
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "3845037334",
+						["ClassName"] = "model",
+						["Size"] = 0.623,
+						["Model"] = "models/pac/default.mdl",
+						["Material"] = "s",
+					},
+				},
+			},
+			["self"] = {
+				["Model"] = "models/props_c17/column02a.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "2054612849",
+				["Size"] = 0.038,
+				["Position"] = Vector(3.02001953125, -2.0830078125, -18.80078125),
+				["Bone"] = "right hand",
+				["Name"] = "모닝스타",
+				["Angles"] = Angle(0, 179.99996948242, 2.742749711615e-005),
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["RimlightBoost"] = 3,
+				["UniqueID"] = "3247266829",
+				["Name"] = "s",
+				["PhongWarpTexture"] = "models/ihvtest/eyeball_l",
+				["BaseTexture"] = "http://www.texturex.com/albums/Metal-Textures/aluminum%20brushed%20metal%20texture%20polished%20wall%20surface%20stock%20photo.jpg",
+				["ClassName"] = "material",
+				["Rimlight"] = true,
+				["LightWarpTexture"] = "models/debug/debugwhite",
+				["Color2"] = Vector(0.5, 0.5, 0.5),
+				["Phong"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "2044041448",
+								["Scale"] = Vector(1.2999999523163, 1.2999999523163, 0.090000003576279),
+								["ClassName"] = "model",
+								["Size"] = 0.235,
+								["Position"] = Vector(0, 0, 13.49199962616),
+								["Color"] = Vector(0, 0, 0),
+								["Fullbright"] = true,
+								["Model"] = "models/props_c17/oildrum001.mdl",
+								["Material"] = "s",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "2116513925",
+								["Scale"] = Vector(1.2999999523163, 1.2999999523163, 1.5499999523163),
+								["ClassName"] = "model",
+								["Size"] = 0.21,
+								["Position"] = Vector(0, 0, -1.0877685546875),
+								["Color"] = Vector(0, 0, 0),
+								["Fullbright"] = true,
+								["Model"] = "models/props_c17/oildrum001.mdl",
+								["Material"] = "s",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "477265066",
+								["Scale"] = Vector(1.2999999523163, 1.2999999523163, 0.070000000298023),
+								["ClassName"] = "model",
+								["Size"] = 0.235,
+								["Position"] = Vector(0, 0, -1.0877685546875),
+								["Color"] = Vector(0, 0, 0),
+								["Fullbright"] = true,
+								["Model"] = "models/props_c17/oildrum001.mdl",
+								["Material"] = "s",
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(-0, 0, 90),
+						["ClassName"] = "model",
+						["UniqueID"] = "3822988120",
+						["Size"] = 0.29,
+						["Color"] = Vector(0, 0, 0),
+						["Position"] = Vector(0, 6.6929998397827, 39.439998626709),
+						["Model"] = "models/props_c17/oildrum001.mdl",
+						["Material"] = "s",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "1139221874",
+				["Name"] = "슬레지해머",
+				["Scale"] = Vector(1, 1, 13),
+				["Material"] = "s",
+				["Size"] = 0.075,
+				["Position"] = Vector(0, -102.64904785156, 20),
+				["Color"] = Vector(115, 58, 58),
+				["Bone"] = "",
+				["Model"] = "models/props_c17/oildrum001.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(0, 0, -1.9580078125),
+								["Material"] = "s",
+								["UniqueID"] = "1454261902",
+								["Size"] = 0.19,
+								["ClassName"] = "model",
+								["Fullbright"] = true,
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["Scale"] = Vector(0.18999999761581, 0.18999999761581, 0.20000000298023),
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Material"] = "s",
+						["Position"] = Vector(0, 0, 1.09765625),
+						["Size"] = 0.1,
+						["EditorExpand"] = true,
+						["UniqueID"] = "1303328290",
+						["Model"] = "models/hunter/tubes/tube4x4x1to2x2.mdl",
+						["Scale"] = Vector(0.18000000715256, 0.18000000715256, 0.40000000596046),
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(3.8619227780146e-006, 0, 4.7164860461635e-008),
+								["ClassName"] = "clip",
+								["UniqueID"] = "3658178997",
+								["Position"] = Vector(-17.7080078125, 0.39874267578125, 0),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "4102578567",
+								["Scale"] = Vector(1.8999999761581, 1.7999999523163, 0.46999999880791),
+								["Material"] = "s",
+								["Size"] = 0.125,
+								["Model"] = "models/hunter/tubes/circle2x2d.mdl",
+								["Position"] = Vector(-15.9853515625, 5.3248291015625, 0),
+								["Fullbright"] = true,
+								["Brightness"] = 5,
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0, 0, 39.6630859375),
+						["Model"] = "models/hunter/plates/plate1x1.mdl",
+						["Size"] = 0.125,
+						["Scale"] = Vector(8, 1.7999999523163, 0.5),
+						["EditorExpand"] = true,
+						["ClassName"] = "model",
+						["DoubleFace"] = true,
+						["Angles"] = Angle(90, -1.0312744961993e-005, -1.0328837561246e-005),
+						["Material"] = "s",
+						["Fullbright"] = true,
+						["Brightness"] = 5,
+						["UniqueID"] = "3043661826",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0, 0, 13.94921875),
+						["Material"] = "s",
+						["UniqueID"] = "1105562889",
+						["Size"] = 0.225,
+						["ClassName"] = "model",
+						["Fullbright"] = true,
+						["Model"] = "models/hunter/misc/roundthing2.mdl",
+						["Scale"] = Vector(0.33000001311302, 0.47999998927116, 0.40000000596046),
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "1252349052",
+				["Name"] = "양손검(비현실적)",
+				["Scale"] = Vector(0.80000001192093, 0.80000001192093, 4.5),
+				["Material"] = "models/props_wasteland/wood_fence01a",
+				["Size"] = 0.075,
+				["Position"] = Vector(0, -80.090576171875, 20),
+				["Color"] = Vector(0, 0, 0),
+				["Bone"] = "none",
+				["Model"] = "models/props_c17/oildrum001.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "3394660785",
+								["Scale"] = Vector(0.18999999761581, 0.18999999761581, 0.20000000298023),
+								["ClassName"] = "model",
+								["Size"] = 0.19,
+								["Position"] = Vector(0, 0, -1.9580078125),
+								["Color"] = Vector(0, 0, 0),
+								["Fullbright"] = true,
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["Material"] = "s",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "1724946419",
+						["Scale"] = Vector(0.18000000715256, 0.18000000715256, 0.40000000596046),
+						["Material"] = "s",
+						["EditorExpand"] = true,
+						["Size"] = 0.1,
+						["Position"] = Vector(0, 0, 1.09765625),
+						["Color"] = Vector(0, 0, 0),
+						["Fullbright"] = true,
+						["Model"] = "models/hunter/tubes/tube4x4x1to2x2.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3717677950",
+						["Scale"] = Vector(1, 0.74000000953674, 0.8299999833107),
+						["ClassName"] = "model",
+						["Size"] = 0.05,
+						["Position"] = Vector(0, 0, 11.126999855042),
+						["Color"] = Vector(0, 0, 0),
+						["Fullbright"] = true,
+						["Model"] = "models/hunter/misc/roundthing2.mdl",
+						["Material"] = "s",
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(3.8619227780146e-006, 0, 4.7164860461635e-008),
+								["ClassName"] = "clip",
+								["UniqueID"] = "849883466",
+								["Position"] = Vector(-17.7080078125, 0.39874267578125, 0),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "4043093603",
+								["Scale"] = Vector(1, 0.34999999403954, 0.34999999403954),
+								["Material"] = "s",
+								["Size"] = 0.125,
+								["Model"] = "models/hunter/tubes/circle2x2d.mdl",
+								["Position"] = Vector(-16.58984375, 1.0420000553131, 0),
+								["Fullbright"] = true,
+								["Brightness"] = 5,
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0, 0, 29.8564453125),
+						["Model"] = "models/hunter/plates/plate1x1.mdl",
+						["Size"] = 0.125,
+						["Scale"] = Vector(5.8000001907349, 0.34999999403954, 0.34999999403954),
+						["EditorExpand"] = true,
+						["ClassName"] = "model",
+						["DoubleFace"] = true,
+						["Angles"] = Angle(90, -1.0312744961993e-005, -1.0328837561246e-005),
+						["Material"] = "s",
+						["Fullbright"] = true,
+						["Brightness"] = 5,
+						["UniqueID"] = "2462157178",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "3142493842",
+				["Name"] = "도(刀)",
+				["Scale"] = Vector(0.80000001192093, 0.80000001192093, 3.5),
+				["Material"] = "models/props_wasteland/wood_fence01a",
+				["Size"] = 0.075,
+				["Position"] = Vector(0, -61.712585449219, 20),
+				["Color"] = Vector(115, 109, 109),
+				["Bone"] = "none",
+				["Model"] = "models/props_c17/oildrum001.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[7] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "1746123870",
+						["Position"] = Vector(0, 0, -0.16400000452995),
+						["Color"] = Vector(0, 0, 0),
+						["Material"] = "models/debug/debugwhite",
+						["Model"] = "models/hunter/blocks/cube025x025x025.mdl",
+						["Scale"] = Vector(0.20000000298023, 0.25, 0.10000000149012),
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0, 0, 11.3251953125),
+						["ClassName"] = "model",
+						["UniqueID"] = "1019584924",
+						["Material"] = "s",
+						["Color"] = Vector(0, 0, 0),
+						["Fullbright"] = true,
+						["Model"] = "models/hunter/blocks/cube025x025x025.mdl",
+						["Scale"] = Vector(0.30000001192093, 0.69999998807907, 0.20000000298023),
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(1.2845639503212e-005, -60, -1.2841959687648e-005),
+								["ClassName"] = "clip",
+								["UniqueID"] = "2951771043",
+								["Position"] = Vector(-19.2998046875, 0.964599609375, 0),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(1.3157298781152e-005, 60, 1.3302756087796e-005),
+								["ClassName"] = "clip",
+								["UniqueID"] = "4100990454",
+								["Position"] = Vector(-17.6435546875, -1.977783203125, 0),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0, 0, 29.578125),
+						["Model"] = "models/hunter/plates/plate1x1.mdl",
+						["Size"] = 0.125,
+						["Scale"] = Vector(6.5, 0.80000001192093, 0.20000000298023),
+						["EditorExpand"] = true,
+						["ClassName"] = "model",
+						["DoubleFace"] = true,
+						["Angles"] = Angle(90, -1.0312744961993e-005, -1.0328837561246e-005),
+						["Material"] = "s",
+						["Fullbright"] = true,
+						["Brightness"] = 5,
+						["UniqueID"] = "1412306151",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "1388075992",
+				["Name"] = "검",
+				["Scale"] = Vector(0.80000001192093, 0.80000001192093, 3.5),
+				["Material"] = "models/props_pipes/GutterMetal01a",
+				["Size"] = 0.075,
+				["Position"] = Vector(0, -44.119201660156, 20),
+				["Color"] = Vector(115, 109, 109),
+				["Bone"] = "none",
+				["Model"] = "models/props_c17/oildrum001.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[8] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(90, -0.00028560112696141, -0.000204515614314),
+								["ClassName"] = "clip",
+								["UniqueID"] = "2632839021",
+								["Position"] = Vector(0, 0, 2.3447265625),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "728643715",
+						["Scale"] = Vector(0.60000002384186, 0.60000002384186, 0.60000002384186),
+						["ClassName"] = "model",
+						["Size"] = 0.816,
+						["DoubleFace"] = true,
+						["Material"] = "s",
+						["Position"] = Vector(0, 0, -4.578125),
+						["Model"] = "models/pac/default.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Material"] = "s",
+						["UniqueID"] = "4259672928",
+						["Size"] = 0.052,
+						["Angles"] = Angle(-0, 0, 180),
+						["Position"] = Vector(0, 0, -5.9541015625),
+						["Model"] = "models/hunter/misc/cone1x1.mdl",
+						["Scale"] = Vector(0.5, 0.5, 20),
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(0, -146.69482421875, 26.8935546875),
+				["Name"] = "레이피어",
+				["Scale"] = Vector(0.20000000298023, 0.20000000298023, 1),
+				["Material"] = "s",
+				["ClassName"] = "model",
+				["Size"] = 0.24,
+				["Angles"] = Angle(-0, 0, 180),
+				["Color"] = Vector(104, 63, 63),
+				["Bone"] = "",
+				["Model"] = "models/props_borealis/bluebarrel001.mdl",
+				["UniqueID"] = "4093433278",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["ClassName"] = "group",
+		["UniqueID"] = "818294238",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},

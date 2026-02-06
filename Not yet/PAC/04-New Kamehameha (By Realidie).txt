@@ -1,0 +1,343 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "animation",
+				["UniqueID"] = "3783286969",
+				["SequenceName"] = "idle_all_01",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Bone"] = "spine",
+				["UniqueID"] = "1270816011",
+				["ClassName"] = "bone",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "340760205",
+				["Event"] = "is_flashlight_on",
+				["Arguments"] = "crossbow",
+				["Invert"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "ogg",
+				["UniqueID"] = "2658368224",
+				["Radius"] = 50000,
+				["URL"] = "https://dl.dropboxusercontent.com/s/ectvqxa4mutdrow/kamehameha1.ogg",
+				["Name"] = "kamehameha1",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "custom_animation",
+				["UniqueID"] = "2703656033",
+				["Name"] = "Kame",
+				["AnimationType"] = "stance",
+				["Data"] = "{\"Type\":2,\"FrameData\":[{\"FrameRate\":3.3333,\"BoneInfo\":{\"ValveBiped.Bip01_Spine2\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_Head1\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_R_Clavicle\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_L_Forearm\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_R_UpperArm\":{\"RU\":-160,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":48,\"RF\":0},\"ValveBiped.Bip01_L_Hand\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_L_UpperArm\":{\"RU\":-176,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":-48,\"RF\":0},\"ValveBiped.Bip01_Spine4\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_Spine\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_R_Forearm\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_R_Hand\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0}}},{\"FrameRate\":3.3333,\"BoneInfo\":{\"ValveBiped.Bip01_Spine2\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":-32},\"ValveBiped.Bip01_Head1\":{\"RU\":-16,\"MU\":0,\"RR\":16,\"MR\":0,\"MF\":0,\"RF\":50},\"ValveBiped.Bip01_R_Clavicle\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_L_Forearm\":{\"RU\":0,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":48,\"RF\":-32},\"ValveBiped.Bip01_L_UpperArm\":{\"RU\":-48,\"MU\":0,\"RR\":-32,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_L_Hand\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_R_UpperArm\":{\"RU\":-32,\"MU\":0,\"RR\":32,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_Spine4\":{\"RU\":0,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0,\"RF\":-16},\"ValveBiped.Bip01_Spine\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":-16},\"ValveBiped.Bip01_R_Forearm\":{\"RU\":-32,\"MU\":0,\"RR\":-64,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_R_Hand\":{\"RU\":80,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0}}},{\"FrameRate\":0.5,\"BoneInfo\":{\"ValveBiped.Bip01_Spine2\":{\"RU\":0,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0,\"RF\":-32},\"ValveBiped.Bip01_Head1\":{\"RU\":-16,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":16,\"RF\":50},\"ValveBiped.Bip01_R_Clavicle\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_R_Forearm\":{\"RU\":-32,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":-64,\"RF\":0},\"ValveBiped.Bip01_R_UpperArm\":{\"RU\":-32,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":32,\"RF\":0},\"ValveBiped.Bip01_L_Hand\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_L_UpperArm\":{\"RU\":-48,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":-32,\"RF\":0},\"ValveBiped.Bip01_Spine4\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":-16},\"ValveBiped.Bip01_Spine\":{\"RU\":0,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0,\"RF\":-48},\"ValveBiped.Bip01_L_Forearm\":{\"RU\":0,\"MU\":0,\"RR\":48,\"MR\":0,\"MF\":0,\"RF\":-32},\"ValveBiped.Bip01_R_Hand\":{\"RU\":80,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0,\"RF\":0}}},{\"FrameRate\":10,\"BoneInfo\":{\"ValveBiped.Bip01_Spine2\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":-32},\"ValveBiped.Bip01_Head1\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":32},\"ValveBiped.Bip01_R_Clavicle\":{\"RU\":0,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":32,\"RF\":0},\"ValveBiped.Bip01_L_Forearm\":{\"RU\":10,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0,\"RF\":0},\"ValveBiped.Bip01_L_UpperArm\":{\"RU\":-96,\"MU\":0,\"RR\":-48,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_L_Hand\":{\"RU\":80,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0,\"RF\":0},\"ValveBiped.Bip01_R_UpperArm\":{\"RU\":-80,\"MU\":0,\"RR\":16,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_Spine4\":{\"RU\":0,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0,\"RF\":0},\"ValveBiped.Bip01_Spine\":{\"RU\":-5,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_R_Forearm\":{\"RU\":10,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_R_Hand\":{\"RU\":80,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0}}},{\"FrameRate\":5,\"BoneInfo\":{\"ValveBiped.Bip01_Spine2\":{\"RU\":0,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0,\"RF\":-32},\"ValveBiped.Bip01_Head1\":{\"RU\":0,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0,\"RF\":32},\"ValveBiped.Bip01_R_Clavicle\":{\"RU\":0,\"MU\":0,\"RR\":32,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_L_Forearm\":{\"RU\":10,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_R_UpperArm\":{\"RU\":-80,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":16,\"RF\":0},\"ValveBiped.Bip01_R_Hand\":{\"RU\":80,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0,\"RF\":0},\"ValveBiped.Bip01_R_Forearm\":{\"RU\":10,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0,\"RF\":0},\"ValveBiped.Bip01_Spine4\":{\"RU\":0,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_Spine\":{\"RU\":-5,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0,\"RF\":0},\"ValveBiped.Bip01_L_UpperArm\":{\"RU\":-96,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":-48,\"RF\":0},\"ValveBiped.Bip01_L_Hand\":{\"RU\":80,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0}}}],\"RestartFrame\":5}",
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Velocity"] = 1,
+												["UniqueID"] = "4108094892",
+												["ParticleAngleVelocity"] = Vector(0, 0, 0),
+												["EndSize"] = 0,
+												["Material"] = "sprites/tp_beam001",
+												["NumberParticles"] = 10,
+												["Gravity"] = Vector(0, 0, 0),
+												["Collide"] = false,
+												["Position"] = Vector(1.11474609375, 0.0003662109375, 0),
+												["Sliding"] = false,
+												["Color1"] = Vector(25, 115, 233),
+												["FireDelay"] = 0,
+												["ClassName"] = "particles",
+												["DieTime"] = 0.1,
+												["Lighting"] = false,
+												["StartSize"] = 100,
+												["RollDelta"] = 100,
+											},
+										},
+										[2] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Max"] = 440,
+														["ClassName"] = "proxy",
+														["UniqueID"] = "2945855535",
+														["InputMultiplier"] = 100,
+														["Min"] = 480,
+														["VariableName"] = "Width",
+													},
+												},
+											},
+											["self"] = {
+												["EndPointName"] = "뿌뿡",
+												["Position"] = Vector(0.00030517578125, -6.841552734375, -0.00390625),
+												["Bend"] = 0,
+												["UniqueID"] = "290088689",
+												["WidthBend"] = 1,
+												["EndPointUID"] = "2338366541",
+												["ClassName"] = "beam",
+												["Width"] = 441.50033388718,
+												["EditorExpand"] = true,
+												["StartColor"] = Vector(110, 153, 255),
+												["EndColor"] = Vector(120, 160, 255),
+												["Resolution"] = 100,
+												["Material"] = "sprites/tp_beam001",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Position"] = Vector(84.855270385742, 0, 63.6826171875),
+										["EditorExpand"] = true,
+										["Size"] = 0,
+										["Bone"] = "",
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "3735609407",
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Velocity"] = 1,
+												["UniqueID"] = "1910125228",
+												["ParticleAngleVelocity"] = Vector(0, 0, 0),
+												["EndSize"] = 2,
+												["Material"] = "particle/Particle_Ring_Wave_8_15OB_NoFog",
+												["Bone"] = "",
+												["NumberParticles"] = 50,
+												["Gravity"] = Vector(0, 0, 0),
+												["Collide"] = false,
+												["Position"] = Vector(0, 0, 30.3818359375),
+												["Sliding"] = false,
+												["Lighting"] = false,
+												["Name"] = "부왘2",
+												["DieTime"] = 0.15,
+												["EndLength"] = 700,
+												["ClassName"] = "particles",
+												["StartLength"] = 100,
+												["Spread"] = 10,
+												["Color1"] = Vector(108, 206, 255),
+												["PositionSpread"] = 0.2,
+												["StartSize"] = 500,
+												["FireDelay"] = 0,
+											},
+										},
+									},
+									["self"] = {
+										["Model"] = "models/pac/default.mdl",
+										["ClassName"] = "model",
+										["Invert"] = true,
+										["Size"] = 0,
+										["EditorExpand"] = true,
+										["Bone"] = "hitpos",
+										["Name"] = "뿌뿡",
+										["UniqueID"] = "2338366541",
+									},
+								},
+							},
+							["self"] = {
+								["Name"] = "뿌와아아앙",
+								["ClassName"] = "group",
+								["UniqueID"] = "1507661890",
+								["EditorExpand"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "ogg",
+								["UniqueID"] = "3311880676",
+								["Radius"] = 50000,
+								["URL"] = "https://dl.dropboxusercontent.com/s/8xlwnldtyniljbr/kamehameha2.ogg",
+								["Name"] = "kamehameha1",
+								["Volume"] = 1.5,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "proxy",
+						["UniqueID"] = "4246677056",
+						["AffectChildren"] = true,
+						["Expression"] = "(floor((min(2.7,timeex()))/2.7)*(-2.7))+2.7",
+						["Name"] = "2.발사",
+						["VariableName"] = "Hide",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Color"] = Vector(0, 20, 255),
+														["ClassName"] = "halo",
+														["UniqueID"] = "3833240699",
+														["Hide"] = true,
+													},
+												},
+												[2] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["ClassName"] = "proxy",
+																["UniqueID"] = "369112537",
+																["Hide"] = true,
+																["Expression"] = "min(100,timeex()*20)",
+																["VariableName"] = "Size",
+															},
+														},
+													},
+													["self"] = {
+														["EditorExpand"] = true,
+														["UniqueID"] = "1066122337",
+														["SpritePath"] = "sprites/glow04_noz",
+														["Color"] = Vector(172, 208, 255),
+														["Hide"] = true,
+														["Size"] = 60.054931640625,
+														["ClassName"] = "sprite",
+													},
+												},
+												[3] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "proxy",
+														["UniqueID"] = "3515221854",
+														["Hide"] = true,
+														["Expression"] = "min(0.325,timeex()*0.13)",
+														["VariableName"] = "Size",
+													},
+												},
+											},
+											["self"] = {
+												["UniqueID"] = "1952390062",
+												["Hide"] = true,
+												["ClassName"] = "model",
+												["Size"] = 0.325,
+												["Position"] = Vector(1.296630859375, -2.2373046875, 0.0009765625),
+												["Fullbright"] = true,
+												["Bone"] = "right hand",
+												["Model"] = "models/pac/default.mdl",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["Hide"] = true,
+										["ClassName"] = "group",
+										["UniqueID"] = "3027023257",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "139585680",
+								["AffectChildren"] = true,
+								["Expression"] = "floor((min(3,timeex()))/3)",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "proxy",
+						["UniqueID"] = "761473688",
+						["AffectChildren"] = true,
+						["Expression"] = "(floor((min(0.01,timeex()))/0.01)*(-0.01))+0.01",
+						["Name"] = "1.차지",
+						["VariableName"] = "Hide",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "과정",
+				["ClassName"] = "group",
+				["UniqueID"] = "2620175336",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "1969865035",
+		["Name"] = "F/에네르기파",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(-100, -0.0003204345703125, 100),
+				["ClassName"] = "camera",
+				["UniqueID"] = "387374098",
+				["Bone"] = "",
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "2374692979",
+		["ClassName"] = "group",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "entity",
+				["DrawWeapon"] = false,
+				["UniqueID"] = "3323524159",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "3801277314",
+		["Name"] = "엔티티",
+	},
+},

@@ -1,0 +1,596 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "camera",
+				["Position"] = Vector(-77.434326171875, 0.00042724609375, 63.8076171875),
+				["Bone"] = "",
+				["Angles"] = Angle(7.6649961471558, -6.4610321715008e-006, 7.27943261154e-005),
+				["UniqueID"] = "4250837616",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "3인칭",
+		["ClassName"] = "group",
+		["UniqueID"] = "281970882",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(5.0595703125, 0.000244140625, -4.8530502319336),
+						["ClassName"] = "model",
+						["UniqueID"] = "777754879",
+						["Size"] = 0.43,
+						["Color"] = Vector(0, 0, 0),
+						["EditorExpand"] = true,
+						["Model"] = "models/pac/default.mdl",
+						["Scale"] = Vector(1, 0.56000000238419, 0.81999999284744),
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "2596364485",
+						["Position"] = Vector(5.0595703125, 0.0009765625, 5.2224502563477),
+						["Color"] = Vector(0, 0, 0),
+						["Size"] = 0.43,
+						["Model"] = "models/pac/default.mdl",
+						["Scale"] = Vector(1, 0.56000000238419, 0.81999999284744),
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3836214018",
+						["Scale"] = Vector(2, 0.93000000715256, 0.30000001192093),
+						["ClassName"] = "model",
+						["Size"] = 0.167,
+						["Position"] = Vector(0, 4.214111328125, 0),
+						["Color"] = Vector(0, 0, 0),
+						["Angles"] = Angle(90, 179.99992370605, 89.999946594238),
+						["Model"] = "models/props_trainstation/Ceiling_Arch001a.mdl",
+						["Material"] = "models/debug/debugwhite",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(-0.5625, -3.0310974121094, -0.020263671875),
+						["ClassName"] = "model",
+						["UniqueID"] = "2437563928",
+						["EditorExpand"] = true,
+						["Color"] = Vector(0, 0, 0),
+						["Bone"] = "spine 4",
+						["Model"] = "models/pac/default.mdl",
+						["Scale"] = Vector(0.95999997854233, 0.33000001311302, 1),
+					},
+				},
+				[5] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "3397934983",
+								["Position"] = Vector(5.0400390625, 0, -7),
+								["EditorExpand"] = true,
+								["Angles"] = Angle(0, -180, -90),
+								["PositionOffset"] = Vector(0, 11, 0),
+								["Color"] = Vector(0, 0, 0),
+								["Material"] = "models/debug/debugwhite",
+								["Model"] = "models/hunter/triangles/025x025.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "1688527452",
+								["Position"] = Vector(5.0400390625, 0, 7),
+								["EditorExpand"] = true,
+								["Angles"] = Angle(0, -179.9997253418, 89.999961853027),
+								["PositionOffset"] = Vector(0, 11, 0),
+								["Color"] = Vector(0, 0, 0),
+								["Material"] = "models/debug/debugwhite",
+								["Model"] = "models/hunter/triangles/025x025.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Size"] = 0,
+						["EditorExpand"] = true,
+						["Model"] = "models/pac/default.mdl",
+						["UniqueID"] = "1454412108",
+					},
+				},
+				[6] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(90, 0, 0),
+										["ClassName"] = "clip",
+										["UniqueID"] = "2163026685",
+										["Position"] = Vector(-0.003173828125, 0.000701904296875, 3.4599609375),
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "96804402",
+										["Position"] = Vector(0, -2.3569946289063, -2.841796875),
+										["Color"] = Vector(0, 0, 0),
+										["Size"] = 0.555,
+										["Model"] = "models/pac/default.mdl",
+										["Scale"] = Vector(0.75999999046326, 1.0099999904633, 0.74000000953674),
+									},
+								},
+								[3] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "event",
+														["UniqueID"] = "1539650835",
+														["Event"] = "is_in_noclip",
+														["EditorExpand"] = true,
+														["Invert"] = true,
+													},
+												},
+												[2] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Velocity"] = 1,
+														["Follow"] = true,
+														["UniqueID"] = "3467882479",
+														["ParticleAngleVelocity"] = Vector(0, 0, 0),
+														["EndSize"] = 0,
+														["Material"] = "particle/Particle_Ring_Wave_8_15OB_NoFog",
+														["NumberParticles"] = 3,
+														["Gravity"] = Vector(0, 0, 0),
+														["Position"] = Vector(0.015869140625, 0.000152587890625, 1.5458984375),
+														["Color1"] = Vector(255, 154, 96),
+														["FireDelay"] = 0,
+														["DieTime"] = 0.1,
+														["ClassName"] = "particles",
+														["EndLength"] = 40,
+														["Lighting"] = false,
+														["Angles"] = Angle(-89.521347045898, 0.0031170833390206, -0.0029637841507792),
+														["EditorExpand"] = true,
+														["StartSize"] = 11,
+														["RollDelta"] = 10,
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "proxy",
+												["UniqueID"] = "2838078389",
+												["Expression"] = "nil,time()*1500,nil",
+												["EditorExpand"] = true,
+												["VariableName"] = "Angles",
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "4214760958",
+										["Scale"] = Vector(0.85000002384186, 0.85000002384186, 1),
+										["Material"] = "models/debug/debugwhite",
+										["EditorExpand"] = true,
+										["Size"] = 0.155,
+										["Angles"] = Angle(-3.2568880318357e-012, 2297240.5, 0),
+										["Color"] = Vector(155, 0, 0),
+										["Position"] = Vector(-0.0113525390625, -0.0001220703125, 2.3203125),
+										["Model"] = "models/Mechanics/wheels/wheel_extruded_48.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-0.040283203125, 0.003265380859375, 1.947265625),
+										["ClassName"] = "model",
+										["UniqueID"] = "1962941199",
+										["Size"] = 0.09,
+										["Color"] = Vector(0, 0, 0),
+										["Material"] = "models/debug/debugwhite",
+										["Model"] = "models/props_phx/construct/metal_plate_curve360.mdl",
+										["Scale"] = Vector(1, 1, 0.68000000715256),
+									},
+								},
+								[5] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Color"] = Vector(13, 45, 255),
+												["ClassName"] = "halo",
+												["UniqueID"] = "1647128919",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Position"] = Vector(0, -0.0001220703125, -1.0048828125),
+										["EditorExpand"] = true,
+										["Size"] = 0.448,
+										["Fullbright"] = true,
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "3305659887",
+									},
+								},
+							},
+							["self"] = {
+								["Position"] = Vector(-2, 6.5, -5),
+								["EditorExpand"] = true,
+								["Material"] = "models/debug/debugwhite",
+								["Size"] = 0.283,
+								["ClassName"] = "model",
+								["Angles"] = Angle(-90, 0.00033184792846441, -0.00037389609497041),
+								["UniqueID"] = "1227754896",
+								["Model"] = "models/props_borealis/bluebarrel001.mdl",
+								["DoubleFace"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "event",
+														["UniqueID"] = "3710591240",
+														["Event"] = "is_in_noclip",
+														["EditorExpand"] = true,
+														["Invert"] = true,
+													},
+												},
+												[2] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Velocity"] = 1,
+														["Follow"] = true,
+														["UniqueID"] = "3381826890",
+														["ParticleAngleVelocity"] = Vector(0, 0, 0),
+														["EndSize"] = 0,
+														["Material"] = "particle/Particle_Ring_Wave_8_15OB_NoFog",
+														["NumberParticles"] = 3,
+														["Gravity"] = Vector(0, 0, 0),
+														["Position"] = Vector(0.015869140625, 0.000152587890625, 1.5458984375),
+														["Color1"] = Vector(255, 154, 96),
+														["FireDelay"] = 0,
+														["DieTime"] = 0.1,
+														["ClassName"] = "particles",
+														["EndLength"] = 40,
+														["Lighting"] = false,
+														["Angles"] = Angle(-89.521347045898, 0.0031170833390206, -0.0029637841507792),
+														["EditorExpand"] = true,
+														["StartSize"] = 11,
+														["RollDelta"] = 10,
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "proxy",
+												["UniqueID"] = "2771766756",
+												["Expression"] = "nil,time()*1500,nil",
+												["EditorExpand"] = true,
+												["VariableName"] = "Angles",
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "3920666638",
+										["Scale"] = Vector(0.85000002384186, 0.85000002384186, 1),
+										["Material"] = "models/debug/debugwhite",
+										["EditorExpand"] = true,
+										["Size"] = 0.155,
+										["Angles"] = Angle(-3.2568880318357e-012, 2297240.5, 0),
+										["Color"] = Vector(155, 0, 0),
+										["Position"] = Vector(-0.0113525390625, -0.0001220703125, 2.3203125),
+										["Model"] = "models/Mechanics/wheels/wheel_extruded_48.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "89669086",
+										["Position"] = Vector(0, -2.3569946289063, -2.841796875),
+										["Color"] = Vector(0, 0, 0),
+										["Size"] = 0.555,
+										["Model"] = "models/pac/default.mdl",
+										["Scale"] = Vector(0.75999999046326, 1.0099999904633, 0.74000000953674),
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-0.040283203125, 0.003265380859375, 1.947265625),
+										["ClassName"] = "model",
+										["UniqueID"] = "2246419420",
+										["Size"] = 0.09,
+										["Color"] = Vector(0, 0, 0),
+										["Material"] = "models/debug/debugwhite",
+										["Model"] = "models/props_phx/construct/metal_plate_curve360.mdl",
+										["Scale"] = Vector(1, 1, 0.68000000715256),
+									},
+								},
+								[4] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Color"] = Vector(13, 45, 255),
+												["ClassName"] = "halo",
+												["UniqueID"] = "2210768783",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Position"] = Vector(0, -0.0001220703125, -1.0048828125),
+										["EditorExpand"] = true,
+										["Size"] = 0.448,
+										["Fullbright"] = true,
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "1010645094",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(90, 0, 0),
+										["ClassName"] = "clip",
+										["UniqueID"] = "69825885",
+										["Position"] = Vector(-0.003173828125, 0.000701904296875, 3.4599609375),
+									},
+								},
+							},
+							["self"] = {
+								["Position"] = Vector(-2, 6.5, 5),
+								["EditorExpand"] = true,
+								["Material"] = "models/debug/debugwhite",
+								["Size"] = 0.283,
+								["ClassName"] = "model",
+								["Angles"] = Angle(-90, 0.00033184792846441, 0),
+								["UniqueID"] = "576626454",
+								["Model"] = "models/props_borealis/bluebarrel001.mdl",
+								["DoubleFace"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "3570787766",
+						["ClassName"] = "model",
+						["Size"] = 0,
+						["Model"] = "models/pac/default.mdl",
+						["Angles"] = Angle(0.97850620746613, -4.79619448015e-005, 7.803643529769e-005),
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "2794086854",
+				["Scale"] = Vector(1, 0.23999999463558, 0.5),
+				["Angles"] = Angle(-1.0245284101984e-005, 4.2985734939575, 180),
+				["Size"] = 0.342,
+				["Position"] = Vector(-3.3720703125, -5.794677734375, -0.016357421875),
+				["ClassName"] = "model",
+				["Bone"] = "spine 4",
+				["Model"] = "models/props_interiors/VendingMachineSoda01a.mdl",
+				["Material"] = "models/debug/debugwhite",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "내 의상",
+		["ClassName"] = "group",
+		["UniqueID"] = "3301638343",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Offset"] = 0.35,
+				["UniqueID"] = "2927189943",
+				["Rate"] = 0,
+				["SequenceName"] = "swimming_all",
+				["ClassName"] = "animation",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "a",
+								["Invert"] = true,
+								["Event"] = "button",
+								["EditorExpand"] = true,
+								["UniqueID"] = "1696673401",
+								["Name"] = "button find simple\"a\"",
+								["ClassName"] = "event",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "proxy",
+						["UniqueID"] = "1110058887",
+						["Expression"] = "nil,max(-50,-timeex()*150),nil",
+						["EditorExpand"] = true,
+						["VariableName"] = "Angles",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "d",
+								["Invert"] = true,
+								["Event"] = "button",
+								["UniqueID"] = "2160884614",
+								["EditorExpand"] = true,
+								["ClassName"] = "event",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2913924523",
+						["Expression"] = "nil,min(50,timeex()*150),nil",
+						["EditorExpand"] = true,
+						["VariableName"] = "Angles",
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "d",
+								["UniqueID"] = "1580070593",
+								["Event"] = "button",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "proxy",
+						["UniqueID"] = "143747148",
+						["Expression"] = "nil,max(0,50-(timeex()^1*350)),nil",
+						["EditorExpand"] = true,
+						["VariableName"] = "Angles",
+					},
+				},
+				[4] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "a",
+								["UniqueID"] = "810164204",
+								["Event"] = "button",
+								["ClassName"] = "event",
+								["Name"] = "button find simple\"a\"",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2370947358",
+						["Expression"] = "nil,min(0,(timeex()^1*350)-50),nil",
+						["EditorExpand"] = true,
+						["VariableName"] = "Angles",
+					},
+				},
+			},
+			["self"] = {
+				["Bone"] = "pelvis",
+				["EditorExpand"] = true,
+				["UniqueID"] = "1043644054",
+				["ClassName"] = "bone",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "nil,nil,abs(owner_velocity_right())*-0.25",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "1699907531",
+						["VariableName"] = "Position",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["VelocityRoughness"] = 20,
+						["UniqueID"] = "209517437",
+						["Expression"] = "nil, owner_velocity_right()*3, owner_velocity_forward()*-1",
+						["ClassName"] = "proxy",
+						["VariableName"] = "Angles",
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(0.65625, -1.0403216492705e-006, -0.090526349842548),
+				["Position"] = Vector(0, 0, -6.6193877046317e-007),
+				["UniqueID"] = "3891402856",
+				["Bone"] = "pelvis",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "3792369850",
+				["Event"] = "is_in_noclip",
+				["Operator"] = "",
+				["EditorExpand"] = true,
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2962288236",
+		["Name"] = "날아다니기",
+	},
+},

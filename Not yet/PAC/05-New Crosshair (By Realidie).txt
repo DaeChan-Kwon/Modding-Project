@@ -1,0 +1,154 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "time()*100",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "3646553977",
+						["VariableName"] = "Angles",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "3040406442",
+				["Fullbright"] = true,
+				["Scale"] = Vector(1, 1, 0.0010000000474975),
+				["Alpha"] = 0.999,
+				["Angles"] = Angle(195077.609375, 90, 0),
+				["EditorExpand"] = true,
+				["AngleOffset"] = Angle(0, 0, 90),
+				["ClassName"] = "model",
+				["Bone"] = "hitpos",
+				["Model"] = "models/hunter/plates/plate1x1.mdl",
+				["Material"] = "http://www.clipartbest.com/cliparts/yco/4X6/yco4X6kcE.png",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2684334341",
+		["Hide"] = true,
+		["Name"] = "블루 그레이디언트 크로스헤어",
+		["EditorExpand"] = true,
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "proxy",
+						["UniqueID"] = "1656816595",
+						["Expression"] = "time()*100",
+						["EditorExpand"] = true,
+						["VariableName"] = "Angles",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "2014640971",
+				["Fullbright"] = true,
+				["Scale"] = Vector(1, 1, 0.0010000000474975),
+				["Alpha"] = 0.999,
+				["Angles"] = Angle(199956.0625, 90, 0),
+				["EditorExpand"] = true,
+				["AngleOffset"] = Angle(0, 0, 90),
+				["ClassName"] = "model",
+				["Bone"] = "hitpos",
+				["Model"] = "models/hunter/plates/plate1x1.mdl",
+				["Material"] = "http://www.clipartbest.com/cliparts/KTn/g66/KTng66gTq.png",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "1684822239",
+		["ClassName"] = "group",
+		["Name"] = "사이버틱 크로스헤어",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "time()*100",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "1917703369",
+						["VariableName"] = "Angles",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "1249951369",
+				["Fullbright"] = true,
+				["Scale"] = Vector(1, 1, 0.0010000000474975),
+				["Alpha"] = 0.999,
+				["Angles"] = Angle(197143.125, 90, 0),
+				["EditorExpand"] = true,
+				["AngleOffset"] = Angle(0, 0, 90),
+				["ClassName"] = "model",
+				["Bone"] = "hitpos",
+				["Model"] = "models/hunter/plates/plate1x1.mdl",
+				["Material"] = "http://i302.photobucket.com/albums/nn104/guisteffens/Untitled-1-2.png",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "1241049788",
+		["Hide"] = true,
+		["Name"] = "레드 크로스헤어",
+		["EditorExpand"] = true,
+	},
+},
+[4] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "time()*100",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2452006869",
+						["VariableName"] = "Angles",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "1681889745",
+				["Fullbright"] = true,
+				["Scale"] = Vector(1, 1, 0.0010000000474975),
+				["Alpha"] = 0.999,
+				["Angles"] = Angle(197473.59375, 90, 0),
+				["EditorExpand"] = true,
+				["AngleOffset"] = Angle(0, 0, 90),
+				["ClassName"] = "model",
+				["Bone"] = "hitpos",
+				["Model"] = "models/hunter/plates/plate1x1.mdl",
+				["Material"] = "http://media.moddb.com/cache/images/mods/1/21/20122/thumb_620x2000/crosshairs.png",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3218230207",
+		["ClassName"] = "group",
+		["Hide"] = true,
+		["Name"] = "그린 크로스헤어",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
