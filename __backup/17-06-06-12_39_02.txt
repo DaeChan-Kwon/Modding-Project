@@ -1,0 +1,10 @@
+[1] = {
+	["children"] = {
+	},
+	["self"] = {
+		["Name"] = "내 의상",
+		["ClassName"] = "group",
+		["UniqueID"] = "3499259351",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
