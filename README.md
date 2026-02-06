@@ -20,11 +20,13 @@
 ## 📹 Video 2
 - 제작 시기: 중학교 3학년
 - 캐릭터 : 미호크(원피스)
-- 링크: [https://www.youtube.com/watch?v=YYYY](https://youtu.be/4JoHzexkX8U)
+- 링크: [![YouTube Video](https://img.youtube.com/vi/4JoHzexkX8U/0.jpg)](https://youtu.be/4JoHzexkX8U)
+
 
 
 ## 📹 Video 3
 - 제작 시기: 중학교 3학년
 - 캐릭터 : 카즈(죠죠의 기묘한 모험)
-- 링크: [[https://www.youtube.com/watch?v=YYYY](https://youtu.be/4JoHzexkX8U)](https://youtu.be/nn_tv6A7lI4)
+- 링크:[![YouTube Video](https://img.youtube.com/vi/nn_tv6A7lI4/0.jpg)](https://youtu.be/nn_tv6A7lI4)
+
 
