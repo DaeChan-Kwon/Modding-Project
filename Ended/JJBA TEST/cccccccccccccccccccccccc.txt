@@ -1,0 +1,328 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+				["UniqueID"] = "2094866812",
+				["Size"] = 0.38,
+				["Angles"] = Angle(82.930038452148, 105.00367736816, -177.81588745117),
+				["Position"] = Vector(-64.46484375, -16.881408691406, 0.98272705078125),
+				["Model"] = "https://www.dropbox.com/s/qv1m139s6d7pr3q/dio%20head.obj?dl=0",
+				["Scale"] = Vector(1.1000000238419, 1, 1),
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(-80.724014282227, -69.516212463379, 132.47396850586),
+				["UniqueID"] = "4052191226",
+				["Size"] = 0.38,
+				["Position"] = Vector(2.17724609375, -1.2958984375, 7.208984375),
+				["Bone"] = "right foot",
+				["Model"] = "https://www.dropbox.com/s/qw3290v1gq4dzci/%EB%9E%98%E3%85%90%E3%85%85.obj?dl=0",
+				["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(0.088235758244991, 93.33081817627, -1.5159072875977),
+				["UniqueID"] = "3754767886",
+				["Size"] = 0.38,
+				["Position"] = Vector(-2.4332275390625, -3.9732055664063, -49.361328125),
+				["Bone"] = "chest",
+				["Model"] = "https://www.dropbox.com/s/7ii1z3nwx9ahjgz/%EB%94%94%EC%98%A4%20%EB%AA%B8%ED%86%B5.obj?dl=0",
+				["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.375,
+						["Bone"] = "right toe",
+						["UniqueID"] = "3879408565",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.65,
+						["Bone"] = "left pectoral",
+						["UniqueID"] = "3665410677",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "289456739",
+						["Bone"] = "right clavicle",
+						["Size"] = -1.4,
+						["Scale"] = Vector(1, 0.69999998807907, 1),
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.55,
+						["Bone"] = "spine 1",
+						["UniqueID"] = "1263517205",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0,
+						["Bone"] = "right foot",
+						["UniqueID"] = "2851035183",
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = -1.1,
+						["Bone"] = "neck",
+						["UniqueID"] = "3440585715",
+						["ClassName"] = "bone",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.125,
+						["Bone"] = "left foot",
+						["UniqueID"] = "1251382476",
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.5,
+						["Bone"] = "right bicep",
+						["UniqueID"] = "342235171",
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = -3.575,
+						["Bone"] = "spine 2",
+						["UniqueID"] = "845392931",
+						["ClassName"] = "bone",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.2,
+						["Bone"] = "left toe",
+						["UniqueID"] = "3039969189",
+						["ClassName"] = "bone",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.5,
+						["Bone"] = "left bicep",
+						["UniqueID"] = "1556011299",
+						["ClassName"] = "bone",
+					},
+				},
+				[12] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.125,
+						["Bone"] = "right thigh",
+						["UniqueID"] = "3865336358",
+						["ClassName"] = "bone",
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "703000714",
+						["Bone"] = "spine 4",
+						["Size"] = -2.45,
+						["Scale"] = Vector(1, -0.5, 1),
+					},
+				},
+				[14] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.2,
+						["Bone"] = "right forearm",
+						["UniqueID"] = "1940501137",
+						["ClassName"] = "bone",
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.525,
+						["Bone"] = "right pectoral",
+						["UniqueID"] = "2146501638",
+						["ClassName"] = "bone",
+					},
+				},
+				[16] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.2,
+						["Bone"] = "left forearm",
+						["UniqueID"] = "1113437045",
+						["ClassName"] = "bone",
+					},
+				},
+				[17] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.125,
+						["Bone"] = "left thigh",
+						["UniqueID"] = "1611711656",
+						["ClassName"] = "bone",
+					},
+				},
+				[18] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.65,
+						["Bone"] = "left pectoral",
+						["UniqueID"] = "3441901562",
+						["ClassName"] = "bone",
+					},
+				},
+				[19] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.175,
+						["Bone"] = "left clavicle",
+						["UniqueID"] = "2065434002",
+						["ClassName"] = "bone",
+					},
+				},
+				[20] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = -0.275,
+						["Bone"] = "spine",
+						["UniqueID"] = "1033076004",
+						["ClassName"] = "bone",
+					},
+				},
+				[21] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "1797313975",
+						["Size"] = 0.575,
+					},
+				},
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["Material"] = "https://dl.dropboxusercontent.com/s/rzpp8g6qohrmtk3/ntxr432.png?dl=0",
+				["UniqueID"] = "2721009891",
+				["EditorExpand"] = true,
+				["Model"] = "models/pac/male/base_male.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "2088979035",
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["DrawWeapon"] = false,
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(-68.26887512207, 99.517463684082, -104.76842498779),
+				["UniqueID"] = "2128629619",
+				["Size"] = 0.4,
+				["Position"] = Vector(1.0244140625, -2.93505859375, -8.026123046875),
+				["Bone"] = "left calf",
+				["Model"] = "https://www.dropbox.com/s/oiolcbx99xhyyf3/%EC%99%BC%EB%8B%A4%EB%A6%AC%EC%9D%B4%EC%9D%B4.obj?dl=0",
+				["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(-86.890846252441, 40.690448760986, -47.917762756348),
+				["UniqueID"] = "3049432844",
+				["Size"] = 0.4,
+				["Position"] = Vector(18.7841796875, -1.552490234375, 7.7078247070313),
+				["Bone"] = "right calf",
+				["Model"] = "https://www.dropbox.com/s/o8wqp2tz2toadz3/%E3%85%87%E3%85%87%E3%85%87%E3%85%87%E3%85%87.obj?dl=0",
+				["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+			},
+		},
+		[8] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(-85.610145568848, 112.1256942749, -57.107933044434),
+				["UniqueID"] = "2389335530",
+				["Size"] = 0.38,
+				["Position"] = Vector(-8.2939453125, -14.2490234375, -6.770751953125),
+				["Bone"] = "left foot",
+				["Model"] = "https://www.dropbox.com/s/czfrcvldnyfmz37/%EC%99%BC%EB%B0%9C%EC%9D%B4.obj?dl=0",
+				["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2054164651",
+		["ClassName"] = "group",
+		["Name"] = "내 의상",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},

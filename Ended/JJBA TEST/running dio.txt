@@ -1,0 +1,163 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(46.294681549072, -92.11710357666, -92.927360534668),
+										["Bone"] = "left hand",
+										["UniqueID"] = "117404879",
+										["ClassName"] = "bone",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(12.314147949219, 13.722304344177, 47.173919677734),
+										["UniqueID"] = "3624942715",
+										["Bone"] = "left forearm",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[3] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Run"] = "run_knife",
+												["ClassName"] = "holdtype",
+												["UniqueID"] = "2851830989",
+												["StandIdle"] = "idle_fist",
+											},
+										},
+									},
+									["self"] = {
+										["Arguments"] = "100",
+										["Invert"] = true,
+										["UniqueID"] = "2657176799",
+										["Event"] = "speed",
+										["Operator"] = "equal or above",
+										["EditorExpand"] = true,
+										["ClassName"] = "event",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-6.2940001487732, 22.239423751831, 15.00899887085),
+										["EditorExpand"] = true,
+										["UniqueID"] = "4132152250",
+										["ClassName"] = "bone",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(8.5163926996756e-005, 18.573942184448, 0.0001127514988184),
+										["Bone"] = "spine",
+										["UniqueID"] = "1985159341",
+										["ClassName"] = "bone",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-19.106775283813, 25.342267990112, -17.239427566528),
+										["Position"] = Vector(-0.95751953125, 0.04638671875, -0.787109375),
+										["Bone"] = "left upperarm",
+										["UniqueID"] = "3530285430",
+										["ClassName"] = "bone",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(2.3905662601464e-005, 58.109222412109, 6.915567064425e-005),
+										["Bone"] = "left hand",
+										["UniqueID"] = "1673506941",
+										["ClassName"] = "bone",
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-3.9273589209188e-005, 32.267761230469, 3.2443400414195e-005),
+										["UniqueID"] = "1720904290",
+										["Bone"] = "right forearm",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Bone"] = "spine 2",
+										["UniqueID"] = "4209269613",
+										["ClassName"] = "bone",
+									},
+								},
+								[10] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(28.241191864014, 80.528472900391, 0.16997802257538),
+										["Position"] = Vector(1.529296875, 2.8046875, 0.79296875),
+										["Bone"] = "right upperarm",
+										["UniqueID"] = "964170419",
+										["ClassName"] = "bone",
+									},
+								},
+								[11] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(8.3417463302612, 13.785546302795, -16.505168914795),
+										["Bone"] = "spine 1",
+										["UniqueID"] = "320627567",
+										["ClassName"] = "bone",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "1228545104",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Event"] = "is_flashlight_on",
+						["EditorExpand"] = true,
+						["UniqueID"] = "4188571612",
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "95660894",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2387174645",
+		["EditorExpand"] = true,
+	},
+},

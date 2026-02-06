@@ -1,0 +1,228 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["HideEntity"] = true,
+				["UniqueID"] = "204935152",
+				["DrawWeapon"] = false,
+				["ClassName"] = "entity",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Material"] = "[https://dl.dropboxusercontent.com/s/qqo4gujp070dvik/ntxr000.jpg?dl=0",
+						["UniqueID"] = "3676969628",
+						["Size"] = 0.38,
+						["Angles"] = Angle(88.143127441406, 3.2773506641388, -14.219836235046),
+						["Position"] = Vector(-49.1376953125, -14.747436523438, 1.3661804199219),
+						["Model"] = "https://www.dropbox.com/s/3ygoes1qg6qmmcn/%EB%94%94%EC%98%A4%20%EB%A8%B8%EB%A6%AC.obj?dl=0",
+						["Scale"] = Vector(1, 1.1000000238419, 1),
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "머리",
+				["ClassName"] = "group",
+				["UniqueID"] = "3342082207",
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["BoneMerge"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "741852509",
+				["Hide"] = true,
+				["Name"] = "기본",
+				["Model"] = "models/pac/male/base_male.mdl",
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-0.69939351081848, 166.91647338867, 60.21834564209),
+								["ClassName"] = "clip",
+								["UniqueID"] = "1550127433",
+								["Position"] = Vector(-14.751953125, 7.8758239746094, 10.0263671875),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(8.0254729255103e-005, 13.63916015625, 7.1716989623383e-005),
+								["ClassName"] = "clip",
+								["UniqueID"] = "1646009944",
+								["Position"] = Vector(-22.2373046875, 0.097198486328125, 0.0068359375),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "2067010080",
+						["Position"] = Vector(-21.798828125, -0.85626220703125, 13.358642578125),
+						["Angles"] = Angle(-2.9477999210358, 176.03819274902, 174.52560424805),
+						["Size"] = 0.38,
+						["Material"] = "[https://dl.dropboxusercontent.com/s/qqo4gujp070dvik/ntxr000.jpg?dl=0",
+						["ClassName"] = "model",
+						["Bone"] = "right elbow",
+						["Model"] = "https://www.dropbox.com/s/yfjsgxs80tp405i/%EB%94%94%EC%98%A4%EC%99%BC%ED%8C%94.obj?dl=0",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "clip",
+								["UniqueID"] = "3284415674",
+								["Position"] = Vector(-18.9306640625, 0.0145263671875, -0.08251953125),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "381284278",
+						["Position"] = Vector(-14.1875, -1.421142578125, 14.341796875),
+						["Angles"] = Angle(-6.3203015327454, -179.36996459961, 174.29467773438),
+						["Size"] = 0.38,
+						["Material"] = "[https://dl.dropboxusercontent.com/s/qqo4gujp070dvik/ntxr000.jpg?dl=0",
+						["ClassName"] = "model",
+						["Bone"] = "right bicep",
+						["Model"] = "https://www.dropbox.com/s/yfjsgxs80tp405i/%EB%94%94%EC%98%A4%EC%99%BC%ED%8C%94.obj?dl=0",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "팔",
+				["ClassName"] = "group",
+				["UniqueID"] = "3704579658",
+				["EditorExpand"] = true,
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-0.44006404280663, -75.058158874512, -178.34976196289),
+								["ClassName"] = "clip",
+								["UniqueID"] = "1725906049",
+								["Position"] = Vector(42.494857788086, 17.7900390625, 0.8251953125),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-2.2600638866425, -178.19607543945, -86.329383850098),
+								["ClassName"] = "clip",
+								["UniqueID"] = "3161221304",
+								["Position"] = Vector(12.826721191406, 6.73095703125, 51.728515625),
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-4.3502206802368, -2.4344398975372, -100.81897735596),
+								["ClassName"] = "clip",
+								["UniqueID"] = "2632306818",
+								["Position"] = Vector(-6.0207061767578, 1.552734375, 56.71484375),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "249055692",
+						["Position"] = Vector(-2.04296875, -5.093994140625, -48.8310546875),
+						["Angles"] = Angle(0.93853795528412, 90.909942626953, -0.20691613852978),
+						["Size"] = 0.38,
+						["Material"] = "[https://dl.dropboxusercontent.com/s/qqo4gujp070dvik/ntxr000.jpg?dl=0",
+						["ClassName"] = "model",
+						["Bone"] = "chest",
+						["Model"] = "https://www.dropbox.com/s/7ii1z3nwx9ahjgz/%EB%94%94%EC%98%A4%20%EB%AA%B8%ED%86%B5.obj?dl=0",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "body",
+				["ClassName"] = "group",
+				["UniqueID"] = "4365571",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2263100644",
+		["ClassName"] = "group",
+		["Name"] = "스탠드 예제",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-4.7877864837646, 178.07250976563, 0.16072791814804),
+						["ClassName"] = "clip",
+						["UniqueID"] = "430391777",
+						["Position"] = Vector(-8.509765625, 0.248046875, 0.6787109375),
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(5.4641513997922e-005, 7.0025506019592, 1.3020047845202e-005),
+						["ClassName"] = "clip",
+						["UniqueID"] = "3126337196",
+						["Position"] = Vector(-6.340087890625, 0.79296875, -0.01611328125),
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "2872724701",
+				["Position"] = Vector(41.525390625, 0.259765625, 43.62109375),
+				["Angles"] = Angle(-51.751655578613, 170.05198669434, -82.446464538574),
+				["Size"] = 0.38,
+				["Material"] = "[https://dl.dropboxusercontent.com/s/qqo4gujp070dvik/ntxr000.jpg?dl=0",
+				["ClassName"] = "model",
+				["Bone"] = "right shoulder",
+				["Model"] = "https://www.dropbox.com/s/xqg279ntzaawaxw/Dio.obj?dl=0",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2076758574",
+		["ClassName"] = "group",
+		["Name"] = "내 의상",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},

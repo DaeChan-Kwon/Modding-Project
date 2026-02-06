@@ -1,0 +1,935 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "136863067",
+						["Material"] = "models/ihvtest/eyeball_l",
+						["Model"] = "models/pac/male/base_male_arm_r.mdl",
+						["DoubleFace"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "765583081",
+						["Material"] = "models/ihvtest/eyeball_l",
+						["EditorExpand"] = true,
+						["Model"] = "models/pac/male/base_male_arm_l.mdl",
+						["DoubleFace"] = true,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "3396869472",
+						["Material"] = "models/ihvtest/eyeball_l",
+						["Model"] = "models/pac/male/base_male_leg_l.mdl",
+						["DoubleFace"] = true,
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "3125371243",
+						["Material"] = "models/ihvtest/eyeball_l",
+						["Model"] = "models/pac/male/base_male_leg_r.mdl",
+						["DoubleFace"] = true,
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "4016282419",
+						["Material"] = "models/ihvtest/eyeball_l",
+						["Model"] = "models/pac/male/base_male_torso.mdl",
+						["DoubleFace"] = true,
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "532299628",
+						["Event"] = "is_flashlight_on",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "4019735120",
+				["Name"] = "모습",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "3482909522",
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["DrawWeapon"] = false,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "event",
+								["UniqueID"] = "545517128",
+								["Event"] = "is_flashlight_on",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "animation",
+								["UniqueID"] = "258016760",
+								["SequenceName"] = "pose_standing_02",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "3398999053",
+						["ClassName"] = "group",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "speed",
+						["Invert"] = true,
+						["Operator"] = "equal or below",
+						["UniqueID"] = "1768762095",
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "40721748",
+				["Name"] = "자세",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "내 의상",
+		["ClassName"] = "group",
+		["UniqueID"] = "1826762559",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "animation",
+								["UniqueID"] = "941753467",
+								["SequenceName"] = "menu_walk",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "event",
+								["UniqueID"] = "3215874329",
+								["Event"] = "speed",
+								["Operator"] = "equal or above",
+								["Arguments"] = "1",
+								["Invert"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Material"] = "models/ihvtest/eyeball_l",
+						["UniqueID"] = "2873495391",
+						["Bone"] = "",
+						["Model"] = "models/pac/male/base_male.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "animation",
+								["UniqueID"] = "1797967958",
+								["SequenceName"] = "pose_standing_02",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Event"] = "speed",
+								["Invert"] = true,
+								["Operator"] = "equal or below",
+								["UniqueID"] = "478712070",
+								["ClassName"] = "event",
+							},
+						},
+					},
+					["self"] = {
+						["Material"] = "models/ihvtest/eyeball_l",
+						["UniqueID"] = "4086251682",
+						["Bone"] = "",
+						["Model"] = "models/pac/male/base_male.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "2068116472",
+				["ClassName"] = "group",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Event"] = "is_flashlight_on",
+				["ClassName"] = "event",
+				["Invert"] = true,
+				["UniqueID"] = "542136602",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "852885836",
+		["Name"] = "스탠트 유저",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["UniqueID"] = "1140317392",
+										["Hide"] = true,
+										["FireDelay"] = 0.3,
+										["DieTime"] = 0.3,
+										["EndSize"] = 50,
+										["ClassName"] = "particles",
+										["Material"] = "particle/Particle_Ring_Sharp",
+										["Spread"] = 0,
+										["Lighting"] = false,
+										["Bone"] = "",
+										["StartSize"] = 20,
+										["Gravity"] = Vector(0, 0, 0),
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "proxy",
+												["UniqueID"] = "3072882761",
+												["Expression"] = "hsv_to_color((time()*1000)%360,1,1)",
+												["Hide"] = true,
+												["VelocityRoughness"] = 10.3,
+												["VariableName"] = "Color1",
+											},
+										},
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["UniqueID"] = "2921600989",
+										["DieTime"] = 0.3,
+										["Lighting"] = false,
+										["Color1"] = Vector(255, 51, 0),
+										["FireDelay"] = 0,
+										["Position"] = Vector(0, 1.2880859375, 0),
+										["EditorExpand"] = true,
+										["ClassName"] = "particles",
+										["StartLength"] = 49.6,
+										["Spread"] = 3.5,
+										["Material"] = "sprites/glow04_noz",
+										["Hide"] = true,
+										["NumberParticles"] = 5.9,
+										["Gravity"] = Vector(0, 0, 0),
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["UniqueID"] = "159862055",
+										["EndLength"] = 70,
+										["EndSize"] = 1,
+										["Material"] = "trails/smoke",
+										["Bone"] = "",
+										["NumberParticles"] = 8.4,
+										["Gravity"] = Vector(0, 0, 0),
+										["Position"] = Vector(0, -0.51513671875, 39.8310546875),
+										["Hide"] = true,
+										["FireDelay"] = 0,
+										["DieTime"] = 0.3,
+										["PositionSpread"] = 10,
+										["ClassName"] = "particles",
+										["StartLength"] = 70,
+										["Spread"] = 0,
+										["Angles"] = Angle(89.78125, 90, 0),
+										["Color1"] = Vector(0, 0, 0),
+										["StartSize"] = 1,
+										["Lighting"] = false,
+									},
+								},
+							},
+							["self"] = {
+								["Hide"] = true,
+								["ClassName"] = "model",
+								["Position"] = Vector(23.799999237061, 24.799999237061, 53.4091796875),
+								["Size"] = 0,
+								["EditorExpand"] = true,
+								["Bone"] = "",
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "2033395834",
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "789695731",
+						["AffectChildren"] = true,
+						["Expression"] = "floor((min(0.2,timeex()))/0.2)",
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "proxy",
+				["UniqueID"] = "678667827",
+				["AffectChildren"] = true,
+				["Expression"] = "(floor((min(0,timeex()))/0)*(-0))+0",
+				["VariableName"] = "Hide",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "ogg",
+						["UniqueID"] = "673646913",
+						["URL"] = "https://dl.dropboxusercontent.com/s/wznbirzsffwcrgr/%EC%8A%A4%ED%85%90%EB%93%9C%20%EB%93%B1%EC%9E%A5.ogg",
+						["Name"] = "등장",
+						["Volume"] = 3,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "1230973035",
+				["Event"] = "is_flashlight_on",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "360016171",
+		["Name"] = "F/스탠드 퇴장",
+	},
+},
+[4] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["UniqueID"] = "1529602386",
+				["Angles"] = Angle(0, 90.65625, 20.875),
+				["Bone"] = "none",
+				["Position"] = Vector(-104.50393676758, -1.205078125, 101.9423828125),
+				["ClassName"] = "camera",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "977945719",
+		["DrawOrder"] = 0.92327119907078,
+		["Name"] = "3인칭",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[5] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "nil,min(22,timeex()*100)",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "3247696524",
+						["VariableName"] = "Position",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "proxy",
+						["UniqueID"] = "3627801760",
+						["Expression"] = "min(22,timeex()*100)",
+						["EditorExpand"] = true,
+						["VariableName"] = "Position",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "button",
+						["Arguments"] = "r",
+						["UniqueID"] = "1901188919",
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "203078894",
+				["Bone"] = "pelvis",
+				["Position"] = Vector(22, 22, 2.0064840316772),
+				["ClassName"] = "bone",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "149211197",
+						["Material"] = "models/ihvtest/boot",
+						["Model"] = "models/pac/male/base_male.mdl",
+						["DoubleFace"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1938207732",
+				["Name"] = "모습",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "speed",
+						["Invert"] = true,
+						["Operator"] = "equal or below",
+						["UniqueID"] = "1141416170",
+						["ClassName"] = "event",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["URL"] = "https://dl.dropboxusercontent.com/s/uzljy1yk43sdw39/star_idle3.txt",
+										["ClassName"] = "custom_animation",
+										["UniqueID"] = "2780104301",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Event"] = "button",
+										["Arguments"] = "r",
+										["UniqueID"] = "1288372477",
+										["ClassName"] = "event",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "2245040305",
+										["Rate"] = 0,
+										["SequenceName"] = "idle_all_01",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3962150900",
+								["ClassName"] = "group",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Event"] = "button",
+								["Arguments"] = "x",
+								["UniqueID"] = "953739430",
+								["ClassName"] = "event",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "2665735379",
+						["ClassName"] = "group",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2693060833",
+				["Name"] = "자세",
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Arguments"] = "1",
+						["Invert"] = true,
+						["UniqueID"] = "2470210762",
+						["Event"] = "speed",
+						["Operator"] = "equal or above",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["Arguments"] = "d",
+																["UniqueID"] = "1580070593",
+																["Event"] = "button",
+																["ClassName"] = "event",
+																["EditorExpand"] = true,
+															},
+														},
+													},
+													["self"] = {
+														["ClassName"] = "proxy",
+														["UniqueID"] = "143747148",
+														["Expression"] = "nil,max(0,50-(timeex()^1*350)),nil",
+														["EditorExpand"] = true,
+														["VariableName"] = "Angles",
+													},
+												},
+												[2] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["Arguments"] = "a",
+																["Invert"] = true,
+																["Event"] = "button",
+																["EditorExpand"] = true,
+																["UniqueID"] = "1696673401",
+																["Name"] = "button find simple\"a\"",
+																["ClassName"] = "event",
+															},
+														},
+													},
+													["self"] = {
+														["ClassName"] = "proxy",
+														["UniqueID"] = "1110058887",
+														["Expression"] = "nil,max(-50,-timeex()*150),nil",
+														["EditorExpand"] = true,
+														["VariableName"] = "Angles",
+													},
+												},
+												[3] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["Arguments"] = "a",
+																["UniqueID"] = "810164204",
+																["Event"] = "button",
+																["ClassName"] = "event",
+																["Name"] = "button find simple\"a\"",
+																["EditorExpand"] = true,
+															},
+														},
+													},
+													["self"] = {
+														["ClassName"] = "proxy",
+														["UniqueID"] = "2370947358",
+														["Expression"] = "nil,min(0,(timeex()^1*350)-50),nil",
+														["EditorExpand"] = true,
+														["VariableName"] = "Angles",
+													},
+												},
+												[4] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["Arguments"] = "d",
+																["Invert"] = true,
+																["Event"] = "button",
+																["UniqueID"] = "2160884614",
+																["EditorExpand"] = true,
+																["ClassName"] = "event",
+															},
+														},
+													},
+													["self"] = {
+														["ClassName"] = "proxy",
+														["UniqueID"] = "2913924523",
+														["Expression"] = "nil,min(50,timeex()*150),nil",
+														["EditorExpand"] = true,
+														["VariableName"] = "Angles",
+													},
+												},
+											},
+											["self"] = {
+												["Bone"] = "pelvis",
+												["UniqueID"] = "1043644054",
+												["ClassName"] = "bone",
+											},
+										},
+										[2] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Event"] = "is_flashlight_on",
+														["ClassName"] = "event",
+														["Invert"] = true,
+														["UniqueID"] = "3852540707",
+													},
+												},
+											},
+											["self"] = {
+												["Offset"] = 0.35,
+												["UniqueID"] = "2927189943",
+												["Rate"] = 0,
+												["SequenceName"] = "swimming_all",
+												["ClassName"] = "animation",
+											},
+										},
+										[3] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["VelocityRoughness"] = 20,
+														["UniqueID"] = "209517437",
+														["Expression"] = "nil, owner_velocity_right()*3, owner_velocity_forward()*-1",
+														["ClassName"] = "proxy",
+														["VariableName"] = "Angles",
+													},
+												},
+												[2] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "proxy",
+														["UniqueID"] = "1699907531",
+														["Expression"] = "nil,nil,abs(owner_velocity_right())*-0.25",
+														["EditorExpand"] = true,
+														["VariableName"] = "Position",
+													},
+												},
+											},
+											["self"] = {
+												["Angles"] = Angle(0.65625, 0.00033980867010541, -0.40040877461433),
+												["Position"] = Vector(0, 0, -6.0184913309058e-005),
+												["Bone"] = "pelvis",
+												["UniqueID"] = "3891402856",
+												["ClassName"] = "bone",
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "3518978809",
+										["ClassName"] = "group",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Arguments"] = "r",
+										["UniqueID"] = "943234735",
+										["Event"] = "button",
+										["ClassName"] = "event",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "2255594079",
+								["ClassName"] = "group",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Event"] = "is_flashlight_on",
+								["ClassName"] = "event",
+								["Invert"] = true,
+								["UniqueID"] = "2434784682",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "2436133362",
+						["ClassName"] = "group",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2962288236",
+				["Name"] = "달리기",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "ogg",
+								["UniqueID"] = "3247088146",
+								["URL"] = "https://dl.dropboxusercontent.com/s/wznbirzsffwcrgr/%EC%8A%A4%ED%85%90%EB%93%9C%20%EB%93%B1%EC%9E%A5.ogg",
+								["Name"] = "등장",
+								["Volume"] = 3,
+							},
+						},
+					},
+					["self"] = {
+						["Event"] = "is_flashlight_on",
+						["ClassName"] = "event",
+						["Invert"] = true,
+						["UniqueID"] = "651767127",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "proxy",
+														["UniqueID"] = "164411686",
+														["Expression"] = "hsv_to_color((time()*1000)%360,1,1)",
+														["Hide"] = true,
+														["VelocityRoughness"] = 10.3,
+														["VariableName"] = "Color1",
+													},
+												},
+											},
+											["self"] = {
+												["Velocity"] = 1,
+												["UniqueID"] = "3139812793",
+												["DieTime"] = 0.3,
+												["Lighting"] = false,
+												["Color1"] = Vector(167, 0, 255),
+												["FireDelay"] = 0,
+												["Position"] = Vector(0, 1.2880859375, 0),
+												["EditorExpand"] = true,
+												["ClassName"] = "particles",
+												["StartLength"] = 49.6,
+												["Spread"] = 3.5,
+												["Material"] = "sprites/glow04_noz",
+												["Hide"] = true,
+												["NumberParticles"] = 5.9,
+												["Gravity"] = Vector(0, 0, 0),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Velocity"] = 1,
+												["UniqueID"] = "1861555572",
+												["EndLength"] = 70,
+												["EndSize"] = 1,
+												["Material"] = "trails/smoke",
+												["Bone"] = "",
+												["NumberParticles"] = 8.4,
+												["Gravity"] = Vector(0, 0, 0),
+												["Position"] = Vector(0, -0.51513671875, 39.8310546875),
+												["Hide"] = true,
+												["FireDelay"] = 0,
+												["DieTime"] = 0.3,
+												["PositionSpread"] = 10,
+												["ClassName"] = "particles",
+												["StartLength"] = 70,
+												["Spread"] = 0,
+												["Angles"] = Angle(89.78125, 90, 0),
+												["Color1"] = Vector(0, 0, 0),
+												["StartSize"] = 1,
+												["Lighting"] = false,
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Velocity"] = 1,
+												["UniqueID"] = "3035515028",
+												["Hide"] = true,
+												["FireDelay"] = 0.3,
+												["DieTime"] = 0.3,
+												["EndSize"] = 50,
+												["ClassName"] = "particles",
+												["Material"] = "particle/Particle_Ring_Sharp",
+												["Spread"] = 0,
+												["Lighting"] = false,
+												["Bone"] = "",
+												["StartSize"] = 20,
+												["Gravity"] = Vector(0, 0, 0),
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Position"] = Vector(0, 0, 53.4091796875),
+										["Hide"] = true,
+										["Size"] = 0,
+										["Bone"] = "",
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "2735808112",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "proxy",
+								["UniqueID"] = "3215177417",
+								["AffectChildren"] = true,
+								["Expression"] = "floor((min(0.2,timeex()))/0.2)",
+								["VariableName"] = "Hide",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "proxy",
+						["UniqueID"] = "981965604",
+						["AffectChildren"] = true,
+						["Expression"] = "(floor((min(0,timeex()))/0)*(-0))+0",
+						["VariableName"] = "Hide",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "3122026466",
+				["Name"] = "등장",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "1468130888",
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["Invert"] = true,
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "1213477373",
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["DrawWeapon"] = false,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "1260734333",
+		["Name"] = "F/스탠드",
+	},
+},

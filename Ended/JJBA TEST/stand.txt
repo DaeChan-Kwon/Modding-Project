@@ -1,0 +1,84 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "animation",
+				["UniqueID"] = "2536015389",
+				["SequenceName"] = "pose_standing_02",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "button",
+						["Arguments"] = "r",
+						["UniqueID"] = "1881852716",
+						["ClassName"] = "event",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "event",
+								["UniqueID"] = "3986689151",
+								["Event"] = "speed",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "event",
+										["UniqueID"] = "4213132119",
+										["Event"] = "animation_event",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["URL"] = "https://www.dropbox.com/s/14n1340pmf0e2bd/THE%20WORLD%20pose.txt?dl=0",
+										["ClassName"] = "custom_animation",
+										["UniqueID"] = "4196038035",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "669705235",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "2392361058",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "51628023",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "1882944912",
+		["ClassName"] = "group",
+		["Name"] = "내 의상",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},

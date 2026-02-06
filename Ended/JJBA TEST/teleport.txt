@@ -1,0 +1,31 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "282876585",
+				["Event"] = "button",
+				["Arguments"] = "r",
+				["Invert"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "command",
+				["UniqueID"] = "3415371203",
+				["String"] = "ulx teleport \"Kaonashi\"",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3908062677",
+		["ClassName"] = "group",
+		["Name"] = "내 의상",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},

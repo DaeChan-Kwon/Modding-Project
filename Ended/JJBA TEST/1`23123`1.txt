@@ -1,0 +1,93 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["VelocityRoughness"] = 0,
+								["UniqueID"] = "1953081322",
+								["Expression"] = "hsv_to_color((time()*50)%360.1,1)",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Color1",
+							},
+						},
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "2475124118",
+						["ParticleAngleVelocity"] = Vector(0, 0, 0),
+						["EndSize"] = 10000,
+						["Material"] = "particle/warp5_warp",
+						["Color2"] = Vector(232, 0, 255),
+						["Position"] = Vector(0.005859375, -72.247802734375, -0.00146484375),
+						["Lighting"] = false,
+						["FireDelay"] = 0,
+						["DieTime"] = 2,
+						["ClassName"] = "particles",
+						["Angles"] = Angle(-4.0887753129937e-006, 20.0862159729, 7.8547178418376e-005),
+						["EndAlpha"] = -0.2,
+						["EditorExpand"] = true,
+						["Color1"] = Vector(255, 0, 25),
+						["StartSize"] = 0,
+						["Hide"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["VelocityRoughness"] = 0,
+								["UniqueID"] = "4278313077",
+								["Expression"] = "hsv_to_color((time()*50)%360.1,1)",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Color1",
+							},
+						},
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "940140360",
+						["3D"] = true,
+						["EndSize"] = 10000,
+						["Material"] = "particle/warp5_warp",
+						["Color2"] = Vector(232, 0, 255),
+						["Position"] = Vector(0.005859375, -72.247802734375, -0.00146484375),
+						["DieTime"] = 2,
+						["Lighting"] = false,
+						["FireDelay"] = 0,
+						["ParticleAngleVelocity"] = Vector(0, 0, 0),
+						["Angles"] = Angle(-4.0887753129937e-006, 20.0862159729, 7.8547178418376e-005),
+						["ClassName"] = "particles",
+						["EndAlpha"] = -0.2,
+						["EditorExpand"] = true,
+						["Color1"] = Vector(120, 0, 255),
+						["ParticleAngle"] = Angle(-90, 0, 0),
+						["StartSize"] = 0,
+						["Hide"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["UniqueID"] = "3494973683",
+				["Position"] = Vector(-5.9287109375, -2.978271484375, 55.509765625),
+				["Size"] = 0,
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2989241543",
+		["ClassName"] = "group",
+		["Name"] = "내 의상",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},

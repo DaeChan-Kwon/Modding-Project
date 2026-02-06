@@ -1,0 +1,172 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(7.7053198814392, 0, 0),
+										["Position"] = Vector(55.222900390625, 0, 47.408203125),
+										["Hide"] = true,
+										["UniqueID"] = "3332877748",
+										["Bone"] = "",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Arguments"] = "0.2",
+												["UniqueID"] = "3143690723",
+												["Hide"] = true,
+												["Event"] = "timer",
+												["ClassName"] = "event",
+											},
+										},
+									},
+									["self"] = {
+										["DamageType"] = "blast",
+										["UniqueID"] = "2775993742",
+										["Speed"] = 5,
+										["Physical"] = true,
+										["Bone"] = "",
+										["Sticky"] = true,
+										["LifeTime"] = 0.1,
+										["ClassName"] = "projectile",
+										["Mass"] = 300,
+										["Radius"] = 50,
+										["EditorExpand"] = true,
+										["Damage"] = 1000,
+										["Hide"] = true,
+										["Position"] = Vector(-0.00311279296875, -40.419189453125, 67.8837890625),
+									},
+								},
+								[3] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Arguments"] = "0.2",
+												["UniqueID"] = "4116880520",
+												["Hide"] = true,
+												["Event"] = "timer",
+												["ClassName"] = "event",
+											},
+										},
+									},
+									["self"] = {
+										["DamageType"] = "blast",
+										["UniqueID"] = "4266815340",
+										["Speed"] = 5,
+										["Physical"] = true,
+										["Bone"] = "",
+										["Sticky"] = true,
+										["LifeTime"] = 0.1,
+										["ClassName"] = "projectile",
+										["Mass"] = 300,
+										["Radius"] = 50,
+										["EditorExpand"] = true,
+										["Damage"] = 1000,
+										["Hide"] = true,
+										["Position"] = Vector(-0.00286865234375, 27.225341796875, 67.8837890625),
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-3.236083984375, -0.446044921875, -3.88671875),
+										["Angles"] = Angle(7.5669856071472, 8.9617357254028, -2.376989364624),
+										["UniqueID"] = "1741472459",
+										["EditorExpand"] = true,
+										["Hide"] = true,
+										["Bone"] = "",
+										["Model"] = "models/player/dio/steam roller.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "489111683",
+										["Hide"] = true,
+										["EditorExpand"] = true,
+										["SequenceName"] = "idle_all_angry",
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "4127688019",
+								["AffectChildren"] = true,
+								["Expression"] = "floor((min(7,timeex()))/7)",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "4108966055",
+						["AffectChildren"] = true,
+						["Expression"] = "(floor((min(5,timeex()))/5)*(-5))+5",
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Event"] = "button",
+						["Arguments"] = "t",
+						["UniqueID"] = "1074945088",
+						["ClassName"] = "event",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "command",
+						["UniqueID"] = "3457119742",
+						["String"] = "ulx launch \"Kaonashi\"",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "571914047",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "3796923144",
+		["EditorExpand"] = true,
+	},
+},
+[2] = {
+	["children"] = {
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2037693267",
+		["ClassName"] = "group",
+		["Name"] = "내 의상",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},

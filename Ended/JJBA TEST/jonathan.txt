@@ -1,0 +1,327 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "734554002",
+				["Position"] = Vector(-8.9169921875, -1.353515625, -32.640625),
+				["Angles"] = Angle(2.1227974891663, 90.672958374023, 9.4847745895386),
+				["Size"] = 0.35,
+				["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+				["ClassName"] = "model",
+				["Bone"] = "chest",
+				["Model"] = "https://www.dropbox.com/s/m7j2k9w0aq1ez46/%EC%A3%A0%EB%82%98%EB%8B%A8%20%EB%AA%B8%ED%86%B5.obj?dl=0",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+				["UniqueID"] = "3219278574",
+				["Size"] = 0.35,
+				["EditorExpand"] = true,
+				["Position"] = Vector(-49.2275390625, 0.15576171875, 8.6606140136719),
+				["Model"] = "https://www.dropbox.com/s/dftmvyff2woq685/%EC%A3%A0%EB%82%98%EB%8B%A8%20%EB%A8%B8%EB%A6%AC.obj?dl=0",
+				["Angles"] = Angle(87.505722045898, 179.99565124512, 179.99639892578),
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "holdtype",
+				["UniqueID"] = "3721246359",
+				["StandIdle"] = "idle_all_01",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "2113152287",
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["DrawWeapon"] = false,
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3795734157",
+						["Position"] = Vector(1.3338012695313, -6.25, -3.6129150390625),
+						["Angles"] = Angle(2.854071855545, 1.1517099142075, -98.409851074219),
+						["Size"] = 0.35,
+						["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+						["ClassName"] = "model",
+						["Bone"] = "pelvis",
+						["Model"] = "https://www.dropbox.com/s/1aowoe7pep5fdgi/%EC%98%A4%EB%A5%B8%EC%AA%BD.obj?dl=0",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1905038034",
+						["Position"] = Vector(1.2330322265625, -5.1640625, -3.7303466796875),
+						["Angles"] = Angle(2.854071855545, 1.1517099142075, -98.409851074219),
+						["Size"] = 0.35,
+						["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+						["ClassName"] = "model",
+						["Bone"] = "pelvis",
+						["Model"] = "https://www.dropbox.com/s/kgsro9xgp2uec1a/%EB%B2%85%EC%A7%80%20%EC%98%A4.obj?dl=0",
+						["EditorExpand"] = true,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1101980266",
+						["Position"] = Vector(1.086181640625, -4.9189453125, -3.78564453125),
+						["Angles"] = Angle(2.854071855545, 1.1517099142075, -98.409851074219),
+						["Size"] = 0.35,
+						["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+						["ClassName"] = "model",
+						["Bone"] = "pelvis",
+						["Model"] = "https://www.dropbox.com/s/ahsm56fiqifs52v/%EB%B2%85%EC%A7%80%20%EC%99%BC.obj?dl=0",
+						["EditorExpand"] = true,
+					},
+				},
+				[4] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "1101980266",
+								["Position"] = Vector(-4.4376220703125, -15.084838867188, -46.3017578125),
+								["Angles"] = Angle(-10.432809829712, 8.2129697799683, -18.423091888428),
+								["Size"] = 0.35,
+								["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+								["ClassName"] = "model",
+								["Bone"] = "left shoulder",
+								["Model"] = "https://www.dropbox.com/s/hf3ia5tjb36n38k/%EC%99%BC%EC%AA%BD%20%EA%B7%BC.obj?dl=0",
+								["EditorExpand"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "2349099656",
+								["Position"] = Vector(-18.6826171875, -15.449127197266, -46.353881835938),
+								["Angles"] = Angle(-10.432780265808, 8.2128801345825, -19.490741729736),
+								["Size"] = 0.35,
+								["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+								["ClassName"] = "model",
+								["Bone"] = "left elbow",
+								["Model"] = "https://www.dropbox.com/s/ihj2mc1kg8ztj5b/%EC%99%BC%EC%AA%BD%ED%8C%94%EB%B3%B4%ED%98%B8.obj?dl=0",
+								["EditorExpand"] = true,
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "3512855086",
+								["Position"] = Vector(-8.1162109375, -13.966186523438, -46.147705078125),
+								["Angles"] = Angle(-10.432809829712, 8.2129697799683, -18.423091888428),
+								["Size"] = 0.35,
+								["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+								["ClassName"] = "model",
+								["Bone"] = "left bicep",
+								["Model"] = "https://www.dropbox.com/s/8edj9egmlxf5wrf/%EC%99%BC%EC%AA%BD%20%ED%8C%94.obj?dl=0",
+								["EditorExpand"] = true,
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "1905038034",
+								["Position"] = Vector(-4.8408203125, -13.830932617188, -47.314697265625),
+								["Angles"] = Angle(-10.432809829712, 8.2129697799683, -18.423091888428),
+								["Size"] = 0.35,
+								["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+								["ClassName"] = "model",
+								["Bone"] = "left upperarm",
+								["Model"] = "https://www.dropbox.com/s/8edj9egmlxf5wrf/%EC%99%BC%EC%AA%BD%20%ED%8C%94.obj?dl=0",
+								["EditorExpand"] = true,
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "67095700",
+								["Position"] = Vector(-33.578125, 3.48291015625, -47.7880859375),
+								["Angles"] = Angle(-10.432765960693, 8.2128524780273, 3.747462272644),
+								["Size"] = 0.35,
+								["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+								["ClassName"] = "model",
+								["Bone"] = "left wrist",
+								["Model"] = "https://www.dropbox.com/s/h0o82qhtwpl55lc/%EC%99%BC%EC%86%90.obj?dl=0",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "2673767189",
+						["EditorExpand"] = true,
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1905038034",
+						["Position"] = Vector(1.3272705078125, -6.0078125, -3.6500244140625),
+						["Angles"] = Angle(2.854071855545, 1.1517099142075, -98.409851074219),
+						["Size"] = 0.35,
+						["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+						["ClassName"] = "model",
+						["Bone"] = "pelvis",
+						["Model"] = "https://www.dropbox.com/s/13qj2zaad8qa24h/%EC%99%BC%EC%AA%BD.obj?dl=0",
+						["EditorExpand"] = true,
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1905038034",
+						["Position"] = Vector(1.3313598632813, -6.2099609375, -3.6209716796875),
+						["Angles"] = Angle(2.854071855545, 1.1517099142075, -98.409851074219),
+						["Size"] = 0.35,
+						["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+						["ClassName"] = "model",
+						["Bone"] = "pelvis",
+						["Model"] = "https://www.dropbox.com/s/3m3gkpp8tou0mxe/%EB%8B%A4%EB%A6%AC.obj?dl=0",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "953157549",
+				["EditorExpand"] = true,
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2260983410",
+						["Position"] = Vector(-24.615234375, 9.771484375, 35.024047851563),
+						["Angles"] = Angle(-8.6908226013184, 174.0082244873, -166.34577941895),
+						["Size"] = 0.35,
+						["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+						["ClassName"] = "model",
+						["Bone"] = "right wrist",
+						["Model"] = "https://www.dropbox.com/s/5nslhmr1z1ueap7/%EC%86%90.obj?dl=0",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3065549542",
+						["Position"] = Vector(-34.86328125, -38.240753173828, 28.794921875),
+						["Angles"] = Angle(1.4497444629669, 168.01091003418, 128.22927856445),
+						["Size"] = 0.35,
+						["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+						["ClassName"] = "model",
+						["Bone"] = "right elbow",
+						["Model"] = "https://www.dropbox.com/s/jjpddmfus7927t1/%EC%A3%A0%EB%82%98%EB%8B%A8%20%ED%95%B8%EB%93%9C.obj?dl=0",
+						["EditorExpand"] = true,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2685324506",
+						["Position"] = Vector(-32.0205078125, -28.107849121094, -13.644775390625),
+						["Angles"] = Angle(-4.3922052383423, 161.43522644043, 74.723564147949),
+						["Size"] = 0.35,
+						["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+						["ClassName"] = "model",
+						["Bone"] = "right bicep",
+						["Model"] = "https://www.dropbox.com/s/v44vumk030ca0t0/%EC%A3%A0%EB%82%98%EB%8B%A8%20%EC%98%A4%EB%A5%B8%EC%86%90%EB%AA%A9.obj?dl=0",
+						["EditorExpand"] = true,
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1002572058",
+						["Position"] = Vector(0.927734375, -7.092041015625, 57.084838867188),
+						["Angles"] = Angle(-16.143230438232, 173.6721496582, 174.25271606445),
+						["Size"] = 0.35,
+						["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+						["ClassName"] = "model",
+						["Bone"] = "right shoulder",
+						["Model"] = "https://www.dropbox.com/s/958guad3dn4ag9t/%EC%98%A4%EB%A5%B8%20rmsdbr.obj?dl=0",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "102868911",
+				["EditorExpand"] = true,
+			},
+		},
+		[7] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "3402218466",
+						["Event"] = "button",
+						["Arguments"] = "r",
+						["Invert"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "https://www.dropbox.com/s/eawpgfis0cpqixh/rush.txt?dl=0",
+						["ClassName"] = "custom_animation",
+						["Name"] = "no anim",
+						["UniqueID"] = "2197711926",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "sunlight yellow",
+				["ClassName"] = "group",
+				["UniqueID"] = "3008977992",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "93697786",
+		["ClassName"] = "group",
+		["Name"] = "내 의상",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},

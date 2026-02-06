@@ -1,0 +1,3239 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2194270348",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-19.408010482788, -107.91000366211, 131.24060058594),
+										["Bone"] = "bip hip right",
+										["UniqueID"] = "1311596914",
+										["ClassName"] = "bone",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(28.154382705688, 132.31289672852, -27.213493347168),
+										["Bone"] = "bip hip left",
+										["UniqueID"] = "2757210954",
+										["ClassName"] = "bone",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(87.19896697998, -3.4942186175613e-005, 6.988435779931e-005),
+										["Bone"] = "bip knee right",
+										["UniqueID"] = "1515654111",
+										["ClassName"] = "bone",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(80.494895935059, 122.66654205322, -168.77548217773),
+										["Bone"] = "bip upperarm right",
+										["UniqueID"] = "2366128235",
+										["ClassName"] = "bone",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Model"] = "models/weapons/c_models/c_headtaker/c_headtaker.mdl",
+										["Angles"] = Angle(57.698852539063, 21.847227096558, 112.29438781738),
+										["UniqueID"] = "1989148056",
+										["Position"] = Vector(-18.33642578125, -15.6552734375, -1.94482421875),
+										["Bone"] = "bip hand right",
+										["Fullbright"] = true,
+										["Name"] = "c headtaker",
+										["ClassName"] = "model",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-38.89725112915, -1.0887098312378, 54.262001037598),
+										["Bone"] = "bip upperarm left",
+										["UniqueID"] = "2879120955",
+										["ClassName"] = "bone",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(78.362297058105, 95.23511505127, 90.439567565918),
+										["Bone"] = "bip knee left",
+										["UniqueID"] = "190686453",
+										["ClassName"] = "bone",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3340889661",
+								["Model"] = "models/bots/headless_hatman.mdl",
+								["Name"] = "headless hatman",
+								["Position"] = Vector(-1.3653564453125, -11.203125, 0.728515625),
+								["EditorExpand"] = true,
+								["ClassName"] = "model",
+								["Size"] = 0.375,
+								["Fullbright"] = true,
+								["Color"] = Vector(0, 255, 250),
+								["Bone"] = "hcblack body",
+								["Brightness"] = 4.9,
+								["Angles"] = Angle(-84.485214233398, 1.560001373291, -92.632698059082),
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["EditorExpand"] = true,
+												["ClassName"] = "animation",
+												["UniqueID"] = "2668594326",
+												["SequenceName"] = "Spitattack",
+											},
+										},
+									},
+									["self"] = {
+										["Arguments"] = "attack@@0.6",
+										["Invert"] = true,
+										["Event"] = "animation_event",
+										["UniqueID"] = "1583365669",
+										["EditorExpand"] = true,
+										["ClassName"] = "event",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "2107758775",
+								["ClassName"] = "group",
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Loop"] = false,
+												["ClassName"] = "animation",
+												["UniqueID"] = "2250760601",
+												["SequenceName"] = "Die",
+											},
+										},
+									},
+									["self"] = {
+										["Event"] = "owner_alive",
+										["EditorExpand"] = true,
+										["UniqueID"] = "416705753",
+										["ClassName"] = "event",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "760772761",
+								["ClassName"] = "group",
+							},
+						},
+						[4] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "animation",
+												["UniqueID"] = "855086626",
+												["SequenceName"] = "ragdoll",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Model"] = "models/weapons/w_bullet.mdl",
+												["ClassName"] = "model",
+												["Position"] = Vector(31.432922363281, 1.8189697265625, 36.8837890625),
+												["Size"] = 3,
+												["EditorExpand"] = true,
+												["Hide"] = true,
+												["Name"] = "w bullet",
+												["UniqueID"] = "1266822705",
+											},
+										},
+										[3] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["ClassName"] = "event",
+																["UniqueID"] = "1196852088",
+																["Event"] = "timer",
+																["Arguments"] = "0.4@@1",
+																["Invert"] = true,
+															},
+														},
+													},
+													["self"] = {
+														["DamageType"] = "bullet",
+														["UniqueID"] = "3811133914",
+														["Speed"] = 3,
+														["BulletImpact"] = true,
+														["Sticky"] = true,
+														["LifeTime"] = 0.1,
+														["ClassName"] = "projectile",
+														["EditorExpand"] = true,
+														["Position"] = Vector(16.293212890625, -2.9844970703125, 5.658203125),
+														["OutfitPartUID"] = "1198783848",
+														["Damage"] = 100,
+														["EyeAngles"] = true,
+														["Physical"] = true,
+													},
+												},
+												[2] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["Event"] = "timer",
+																["Arguments"] = "0.4@@1",
+																["UniqueID"] = "4112712347",
+																["ClassName"] = "event",
+															},
+														},
+													},
+													["self"] = {
+														["DamageType"] = "bullet",
+														["UniqueID"] = "1124655016",
+														["Speed"] = 3,
+														["BulletImpact"] = true,
+														["Sticky"] = true,
+														["LifeTime"] = 0.1,
+														["ClassName"] = "projectile",
+														["EditorExpand"] = true,
+														["Position"] = Vector(16.38427734375, 0.000732421875, 6.384765625),
+														["OutfitPartUID"] = "1198783848",
+														["Damage"] = 100,
+														["EyeAngles"] = true,
+														["Physical"] = true,
+													},
+												},
+												[3] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["Event"] = "timer",
+																["Arguments"] = "0.4@@1",
+																["UniqueID"] = "2610117836",
+																["ClassName"] = "event",
+															},
+														},
+													},
+													["self"] = {
+														["EditorExpand"] = true,
+														["ClassName"] = "sound",
+														["UniqueID"] = "435824538",
+														["Sound"] = "weapons/shotgun/shotgun_fire6.wav",
+													},
+												},
+												[4] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Velocity"] = 1,
+														["UniqueID"] = "1584859992",
+														["EndLength"] = -11,
+														["EndSize"] = 2,
+														["Material"] = "sprites/glow04_noz",
+														["Bone"] = "flashlight",
+														["NumberParticles"] = 11.4,
+														["Gravity"] = Vector(0, 0, 0),
+														["Position"] = Vector(0.9879150390625, 3.0810546875, -0.2994384765625),
+														["Lighting"] = false,
+														["FireDelay"] = 0,
+														["EditorExpand"] = true,
+														["Spread"] = 0.5,
+														["ClassName"] = "particles",
+														["Color1"] = Vector(255, 93, 0),
+														["DieTime"] = 0.3,
+														["Angles"] = Angle(-2.2113926410675, -180, 180),
+													},
+												},
+												[5] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["ClassName"] = "event",
+																["UniqueID"] = "3730267294",
+																["Event"] = "timer",
+																["Arguments"] = "0.4@@1",
+																["Invert"] = true,
+															},
+														},
+													},
+													["self"] = {
+														["EditorExpand"] = true,
+														["ClassName"] = "sound",
+														["UniqueID"] = "3084064210",
+														["Sound"] = "weapons/shotgun/shotgun_fire7.wav",
+													},
+												},
+												[6] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["ClassName"] = "event",
+																["UniqueID"] = "123991315",
+																["Event"] = "timer",
+																["Arguments"] = "0.4@@1",
+																["Invert"] = true,
+															},
+														},
+													},
+													["self"] = {
+														["DamageType"] = "bullet",
+														["UniqueID"] = "1001680526",
+														["Speed"] = 3,
+														["BulletImpact"] = true,
+														["Sticky"] = true,
+														["LifeTime"] = 0.1,
+														["ClassName"] = "projectile",
+														["EditorExpand"] = true,
+														["Position"] = Vector(16.568359375, 5.118408203125, 6.8232421875),
+														["OutfitPartUID"] = "1198783848",
+														["Damage"] = 100,
+														["EyeAngles"] = true,
+														["Physical"] = true,
+													},
+												},
+												[7] = {
+													["children"] = {
+													},
+													["self"] = {
+														["EditorExpand"] = true,
+														["ClassName"] = "animation",
+														["UniqueID"] = "1223420628",
+														["SequenceName"] = "idle",
+													},
+												},
+											},
+											["self"] = {
+												["UniqueID"] = "3129591898",
+												["Name"] = "w shot msuper",
+												["EditorExpand"] = true,
+												["Position"] = Vector(0.229248046875, 11.4892578125, 14.882690429688),
+												["ClassName"] = "model",
+												["Fullbright"] = true,
+												["Bone"] = "hcblack body",
+												["Model"] = "models/weapons/w_shot_m3super90.mdl",
+												["Angles"] = Angle(-86.633209228516, -61.793506622314, -36.145980834961),
+											},
+										},
+									},
+									["self"] = {
+										["Arguments"] = "r",
+										["Invert"] = true,
+										["Event"] = "button",
+										["UniqueID"] = "1713597872",
+										["EditorExpand"] = true,
+										["ClassName"] = "event",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3457805387",
+								["ClassName"] = "group",
+							},
+						},
+						[5] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Arguments"] = "0.2@@0.2",
+														["UniqueID"] = "1593180295",
+														["Event"] = "timer",
+														["ClassName"] = "event",
+														["EditorExpand"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "2253923255",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["EditorExpand"] = true,
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Position"] = Vector(36.17431640625, -4.5322265625, -16.4599609375),
+												["Gravity"] = false,
+											},
+										},
+										[2] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Event"] = "timer",
+														["Arguments"] = "0.25@@0.2",
+														["UniqueID"] = "292816155",
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "3059895881",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["EditorExpand"] = true,
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Position"] = Vector(36.181640625, -3.01416015625, -8.6083984375),
+												["Gravity"] = false,
+											},
+										},
+										[3] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "event",
+														["UniqueID"] = "552698203",
+														["Event"] = "timer",
+														["Arguments"] = "0.32@@0.2",
+														["Invert"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "1948506741",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["EditorExpand"] = true,
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Position"] = Vector(36.182983398438, 0.504150390625, -8.6064453125),
+												["Gravity"] = false,
+											},
+										},
+										[4] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Event"] = "timer",
+														["Arguments"] = "0.3@@0.2",
+														["UniqueID"] = "2773383741",
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "2829209855",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["EditorExpand"] = true,
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Position"] = Vector(36.175903320313, -0.05517578125, -16.45703125),
+												["Gravity"] = false,
+											},
+										},
+										[5] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Velocity"] = 1,
+												["UniqueID"] = "3238533297",
+												["EndLength"] = 17.7,
+												["EndSize"] = 10,
+												["Material"] = "sprites/glow04_noz",
+												["Bone"] = "flashlight",
+												["NumberParticles"] = 11.4,
+												["Gravity"] = Vector(0, 0, 0),
+												["Position"] = Vector(54.673950195313, -0.3282470703125, -7.97265625),
+												["Lighting"] = false,
+												["FireDelay"] = 0,
+												["Angles"] = Angle(2.2021195888519, -5.2456130981445, 179.79791259766),
+												["DieTime"] = 0.3,
+												["Spread"] = 0.5,
+												["EditorExpand"] = true,
+												["Color1"] = Vector(255, 93, 0),
+												["StartSize"] = 5,
+												["ClassName"] = "particles",
+											},
+										},
+										[6] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "event",
+														["UniqueID"] = "4136653816",
+														["Event"] = "timer",
+														["Arguments"] = "0.4@@0.2",
+														["Invert"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "2356171388",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["EditorExpand"] = true,
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Position"] = Vector(36.178344726563, 1.9781494140625, -12.8759765625),
+												["Gravity"] = false,
+											},
+										},
+										[7] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "event",
+														["UniqueID"] = "884897368",
+														["Event"] = "timer",
+														["Arguments"] = "0.28@@0.2",
+														["Invert"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "3116120241",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["EditorExpand"] = true,
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Position"] = Vector(36.180053710938, -5.4185791015625, -12.869140625),
+												["Gravity"] = false,
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "1563834196",
+										["Name"] = "w minigun",
+										["EditorExpand"] = true,
+										["Position"] = Vector(1.3642578125, 32.1533203125, -26.812255859375),
+										["ClassName"] = "model",
+										["Fullbright"] = true,
+										["Bone"] = "hcblack torso",
+										["Model"] = "models/weapons/w_models/w_minigun.mdl",
+										["Angles"] = Angle(-88.664016723633, -102.97801971436, 10.242847442627),
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Velocity"] = 1,
+												["UniqueID"] = "3128588144",
+												["EndLength"] = 17.7,
+												["EndSize"] = 10,
+												["Material"] = "sprites/glow04_noz",
+												["Bone"] = "flashlight",
+												["NumberParticles"] = 11.4,
+												["Gravity"] = Vector(0, 0, 0),
+												["Position"] = Vector(54.673950195313, -0.3282470703125, -7.97265625),
+												["Lighting"] = false,
+												["FireDelay"] = 0,
+												["Angles"] = Angle(2.2021195888519, -5.2456130981445, 179.79791259766),
+												["DieTime"] = 0.3,
+												["Spread"] = 0.5,
+												["EditorExpand"] = true,
+												["Color1"] = Vector(255, 93, 0),
+												["StartSize"] = 5,
+												["ClassName"] = "particles",
+											},
+										},
+										[2] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Event"] = "timer",
+														["Arguments"] = "0.4@@0.2",
+														["UniqueID"] = "4102625054",
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "2350189165",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["EditorExpand"] = true,
+												["Angles"] = Angle(6.2964839935303, -1.8897013433161e-005, -9.0190278569935e-006),
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Position"] = Vector(38.866027832031, -4.0606689453125, -10.744140625),
+												["Gravity"] = false,
+											},
+										},
+										[3] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "event",
+														["UniqueID"] = "2506525033",
+														["Event"] = "timer",
+														["Arguments"] = "0.34@@0.2",
+														["Invert"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "702092907",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["EditorExpand"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["Angles"] = Angle(6.2964839935303, -1.8897013433161e-005, -9.0190278569935e-006),
+												["Position"] = Vector(39.297180175781, 0.50537109375, -6.740234375),
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Collisions"] = false,
+												["Gravity"] = false,
+											},
+										},
+										[4] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Event"] = "timer",
+														["Arguments"] = "0.3@@0.2",
+														["UniqueID"] = "2262157028",
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "4240752980",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["EditorExpand"] = true,
+												["Angles"] = Angle(6.2964839935303, -1.8897013433161e-005, -9.0190278569935e-006),
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Position"] = Vector(38.868041992188, 0.77642822265625, -10.7421875),
+												["Gravity"] = false,
+											},
+										},
+										[5] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Arguments"] = "0.41@@0.2",
+														["Invert"] = true,
+														["Event"] = "timer",
+														["UniqueID"] = "2134148108",
+														["EditorExpand"] = true,
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "2424838701",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["EditorExpand"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["Angles"] = Angle(6.2964839935303, -1.8897013433161e-005, -9.0190278569935e-006),
+												["Position"] = Vector(39.182922363281, 2.8311767578125, -7.9013671875),
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Collisions"] = false,
+												["Gravity"] = false,
+											},
+										},
+										[6] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "event",
+														["UniqueID"] = "1425163405",
+														["Event"] = "timer",
+														["Arguments"] = "0.26@@0.2",
+														["Invert"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "3752762646",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["EditorExpand"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["Angles"] = Angle(6.2964839935303, -1.8897013433161e-005, -9.0190278569935e-006),
+												["Position"] = Vector(39.305297851563, -4.0610961914063, -6.7529296875),
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Collisions"] = false,
+												["Gravity"] = false,
+											},
+										},
+										[7] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Event"] = "timer",
+														["Arguments"] = "0.29@@0.2",
+														["UniqueID"] = "574552845",
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "777988024",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["EditorExpand"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["Angles"] = Angle(6.2964839935303, -1.8897013433161e-005, -9.0190278569935e-006),
+												["Position"] = Vector(39.183715820313, -4.24951171875, -7.89453125),
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Collisions"] = false,
+												["Gravity"] = false,
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "2673781224",
+										["Name"] = "c minigun natascha",
+										["EditorExpand"] = true,
+										["Position"] = Vector(9.2451782226563, 17.1572265625, -9.847412109375),
+										["ClassName"] = "model",
+										["Fullbright"] = true,
+										["Bone"] = "hcblack leg bone 1 right",
+										["Model"] = "models/weapons/c_models/c_minigun/c_minigun_natascha.mdl",
+										["Angles"] = Angle(28.572807312012, 179.99996948242, 90.92765045166),
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "2849059849",
+										["Loop"] = false,
+										["SequenceName"] = "ragdoll",
+										["EditorExpand"] = true,
+									},
+								},
+								[4] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Velocity"] = 1,
+														["UniqueID"] = "2557108596",
+														["EndLength"] = -11,
+														["EndSize"] = 1,
+														["Material"] = "sprites/glow04_noz",
+														["Bone"] = "flashlight",
+														["NumberParticles"] = 11.4,
+														["Gravity"] = Vector(0, 0, 0),
+														["Position"] = Vector(1.0103759765625, -2.4398193359375, -0.16015625),
+														["Color1"] = Vector(255, 93, 0),
+														["FireDelay"] = 0,
+														["Angles"] = Angle(1.8586683273315, 88.397789001465, 92.017578125),
+														["Spread"] = 0.5,
+														["DieTime"] = 0.3,
+														["Lighting"] = false,
+														["StartSize"] = 1,
+														["ClassName"] = "particles",
+													},
+												},
+											},
+											["self"] = {
+												["UniqueID"] = "1244456623",
+												["Hide"] = true,
+												["Name"] = "2231",
+												["EditorExpand"] = true,
+												["Position"] = Vector(-180.56604003906, 4.0885009765625, 0.2158203125),
+												["ClassName"] = "model",
+												["Fullbright"] = true,
+												["Model"] = "models/effects/miniguncasing.mdl",
+												["Angles"] = Angle(0, -89.051956176758, 0),
+											},
+										},
+										[2] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Event"] = "timer",
+														["Arguments"] = "0.1",
+														["UniqueID"] = "3623870652",
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["EditorExpand"] = true,
+												["ClassName"] = "sound",
+												["UniqueID"] = "2111176869",
+												["Sound"] = "weapons/smg1/smg1_fire1.wav",
+											},
+										},
+										[3] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "event",
+														["UniqueID"] = "3646721517",
+														["Event"] = "timer",
+														["Arguments"] = "0.1",
+														["Invert"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["EditorExpand"] = true,
+												["ClassName"] = "sound",
+												["UniqueID"] = "1855214080",
+												["Sound"] = "weapons/smg1/smg1_fireburst1.wav",
+											},
+										},
+									},
+									["self"] = {
+										["Arguments"] = "t",
+										["Invert"] = true,
+										["Event"] = "button",
+										["UniqueID"] = "4054131775",
+										["EditorExpand"] = true,
+										["ClassName"] = "event",
+									},
+								},
+								[5] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "event",
+														["UniqueID"] = "3081001585",
+														["Event"] = "timer",
+														["Arguments"] = "0.35@@0.2",
+														["Invert"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "290311611",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["EditorExpand"] = true,
+												["Angles"] = Angle(4.0952944755554, -2.0543020582409e-005, 2.3538877940155e-006),
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Position"] = Vector(37.462890625, -4.2579345703125, -10.7939453125),
+												["Gravity"] = false,
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Velocity"] = 1,
+												["UniqueID"] = "3650707826",
+												["EndLength"] = 17.7,
+												["EndSize"] = 10,
+												["Material"] = "sprites/glow04_noz",
+												["Bone"] = "flashlight",
+												["NumberParticles"] = 11.4,
+												["Gravity"] = Vector(0, 0, 0),
+												["Position"] = Vector(54.673950195313, -0.3282470703125, -7.97265625),
+												["Lighting"] = false,
+												["FireDelay"] = 0,
+												["Angles"] = Angle(2.2021195888519, -5.2456130981445, 179.79791259766),
+												["DieTime"] = 0.3,
+												["Spread"] = 0.5,
+												["EditorExpand"] = true,
+												["Color1"] = Vector(255, 93, 0),
+												["StartSize"] = 5,
+												["ClassName"] = "particles",
+											},
+										},
+										[3] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "event",
+														["UniqueID"] = "836797042",
+														["Event"] = "timer",
+														["Arguments"] = "0.2@@0.2",
+														["Invert"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "345715166",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["EditorExpand"] = true,
+												["Angles"] = Angle(4.0952944755554, -2.0543020582409e-005, 2.3538877940155e-006),
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Position"] = Vector(37.221740722656, -2.5281982421875, -14.1025390625),
+												["Gravity"] = false,
+											},
+										},
+										[4] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Event"] = "timer",
+														["Arguments"] = "0.3@@0.2",
+														["UniqueID"] = "3188891171",
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "3259692884",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["EditorExpand"] = true,
+												["Angles"] = Angle(4.0952944755554, -2.0543020582409e-005, 2.3538877940155e-006),
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Position"] = Vector(37.718627929688, 0.5003662109375, -7.2666015625),
+												["Gravity"] = false,
+											},
+										},
+										[5] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "event",
+														["UniqueID"] = "630056239",
+														["Event"] = "timer",
+														["Arguments"] = "0.42@@0.2",
+														["Invert"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "3950747485",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["EditorExpand"] = true,
+												["Angles"] = Angle(4.0952944755554, -2.0543020582409e-005, 2.3538877940155e-006),
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Position"] = Vector(37.461059570313, 1.4229736328125, -10.79296875),
+												["Gravity"] = false,
+											},
+										},
+										[6] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Event"] = "timer",
+														["Arguments"] = "0.4@@0.2",
+														["UniqueID"] = "2776105341",
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "3591444210",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["EditorExpand"] = true,
+												["Angles"] = Angle(4.0952944755554, -2.0543020582409e-005, 2.3538877940155e-006),
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Position"] = Vector(37.717407226563, -3.14599609375, -7.2509765625),
+												["Gravity"] = false,
+											},
+										},
+										[7] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Event"] = "timer",
+														["Arguments"] = "0.15@@0.2",
+														["UniqueID"] = "2729656125",
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "bullet",
+												["UniqueID"] = "1743496085",
+												["Speed"] = 3,
+												["Physical"] = true,
+												["Sticky"] = true,
+												["LifeTime"] = 1,
+												["ClassName"] = "projectile",
+												["EditorExpand"] = true,
+												["Angles"] = Angle(4.0952944755554, -2.0543020582409e-005, 2.3538877940155e-006),
+												["OutfitPartUID"] = "1244456623",
+												["Damage"] = 50,
+												["Position"] = Vector(37.222473144531, 0.637939453125, -14.1044921875),
+												["Gravity"] = false,
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "3733596140",
+										["Name"] = "c minigun",
+										["EditorExpand"] = true,
+										["Position"] = Vector(13.725341796875, 15.3701171875, 11.405029296875),
+										["ClassName"] = "model",
+										["Fullbright"] = true,
+										["Bone"] = "hcblack leg bone 1 left",
+										["Model"] = "models/weapons/c_models/c_minigun/c_minigun.mdl",
+										["Angles"] = Angle(-30.898332595825, -179.20913696289, 87.956367492676),
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "2116636111",
+								["EditorExpand"] = true,
+							},
+						},
+						[6] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["Event"] = "button",
+																["Arguments"] = "t",
+																["UniqueID"] = "2215574248",
+																["ClassName"] = "event",
+															},
+														},
+														[2] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["EditorExpand"] = true,
+																		["ClassName"] = "animation",
+																		["UniqueID"] = "1073338985",
+																		["SequenceName"] = "Idle01",
+																	},
+																},
+															},
+															["self"] = {
+																["ClassName"] = "group",
+																["UniqueID"] = "3497643730",
+																["EditorExpand"] = true,
+															},
+														},
+													},
+													["self"] = {
+														["ClassName"] = "group",
+														["UniqueID"] = "2671649672",
+														["EditorExpand"] = true,
+													},
+												},
+												[2] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Arguments"] = "r",
+														["UniqueID"] = "471393916",
+														["Event"] = "button",
+														["ClassName"] = "event",
+														["EditorExpand"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "505694538",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "event",
+										["UniqueID"] = "1956692355",
+										["Event"] = "speed",
+										["Operator"] = "equal or below",
+										["EditorExpand"] = true,
+										["Invert"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "2186128991",
+								["ClassName"] = "group",
+							},
+						},
+						[7] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["ClassName"] = "animation",
+																		["OwnerCycle"] = true,
+																		["SequenceName"] = "Run1",
+																		["EditorExpand"] = true,
+																		["UniqueID"] = "2331725323",
+																	},
+																},
+															},
+															["self"] = {
+																["ClassName"] = "group",
+																["UniqueID"] = "952667345",
+																["EditorExpand"] = true,
+															},
+														},
+														[2] = {
+															["children"] = {
+															},
+															["self"] = {
+																["Event"] = "button",
+																["Arguments"] = "r",
+																["UniqueID"] = "853129674",
+																["ClassName"] = "event",
+															},
+														},
+													},
+													["self"] = {
+														["ClassName"] = "group",
+														["UniqueID"] = "3355599793",
+														["EditorExpand"] = true,
+													},
+												},
+												[2] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Event"] = "button",
+														["Arguments"] = "t",
+														["UniqueID"] = "879188736",
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "3830907831",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["Arguments"] = "10",
+										["Invert"] = true,
+										["UniqueID"] = "770563674",
+										["Event"] = "speed",
+										["Operator"] = "equal or above",
+										["EditorExpand"] = true,
+										["ClassName"] = "event",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "1957544125",
+								["ClassName"] = "group",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "1004552425",
+						["CellShade"] = 4.34,
+						["Name"] = "headcrabblack",
+						["Model"] = "models/headcrabblack.mdl",
+						["EditorExpand"] = true,
+						["Size"] = 3.025,
+						["Fullbright"] = true,
+						["Color"] = Vector(38, 0, 255),
+						["Bone"] = "",
+						["Brightness"] = 32.4,
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["UniqueID"] = "2603770401",
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2584491915",
+		["ClassName"] = "group",
+		["Name"] = "내 의상",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "entity",
+						["HideEntity"] = true,
+						["HideRagdollOnDeath"] = true,
+						["Position"] = Vector(11.8759765625, 232.8134765625, 54.49462890625),
+						["DrawWeapon"] = false,
+						["UniqueID"] = "3417723816",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "4066126885",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "3274954752",
+		["ClassName"] = "group",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "1807571217",
+										["SequenceName"] = "ragdoll",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Expression"] = "nil,time()*1500",
+										["ClassName"] = "proxy",
+										["UniqueID"] = "3448256247",
+										["VariableName"] = "Angles",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "1786772854",
+								["CellShade"] = 4.34,
+								["Name"] = "headcrabblack",
+								["Model"] = "models/headcrabblack.mdl",
+								["EditorExpand"] = true,
+								["ClassName"] = "model",
+								["Size"] = 3.025,
+								["Fullbright"] = true,
+								["Color"] = Vector(55, 0, 255),
+								["Bone"] = "",
+								["Brightness"] = 32,
+								["Angles"] = Angle(-2.9797942638397, 3880602.5, -0.17999541759491),
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "proxy",
+						["UniqueID"] = "352594549",
+						["AffectChildren"] = true,
+						["Expression"] = "floor((min(3.5,timeex()))/3.5)",
+						["VariableName"] = "Hide",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["UniqueID"] = "262009696",
+										["EndLength"] = 600,
+										["EndSize"] = 100,
+										["Material"] = "particle/smokesprites_0015",
+										["Bone"] = "\\",
+										["NumberParticles"] = 10.7,
+										["Gravity"] = Vector(0, 0, 0),
+										["Position"] = Vector(12.684326171875, 6.8124389648438, 292.8271484375),
+										["Lighting"] = false,
+										["FireDelay"] = 0,
+										["Angles"] = Angle(86.06649017334, -156.12881469727, -156.17880249023),
+										["StartLength"] = 100,
+										["DieTime"] = 0.2,
+										["Hide"] = true,
+										["Color1"] = Vector(242, 0, 255),
+										["StartSize"] = 50,
+										["ClassName"] = "particles",
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "2055099620",
+								["AffectChildren"] = true,
+								["Expression"] = "floor((min(3,timeex()))/3)",
+								["Hide"] = true,
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "proxy",
+														["UniqueID"] = "2428231428",
+														["Expression"] = "min(1.2,timeex()*1)",
+														["Hide"] = true,
+														["EditorExpand"] = true,
+														["VariableName"] = "Size",
+													},
+												},
+												[2] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "proxy",
+														["UniqueID"] = "4016588030",
+														["Expression"] = "nil,time()*500",
+														["Hide"] = true,
+														["EditorExpand"] = true,
+														["VariableName"] = "Angles",
+													},
+												},
+											},
+											["self"] = {
+												["UniqueID"] = "2546363602",
+												["Hide"] = true,
+												["Name"] = "antlion guard",
+												["Model"] = "models/antlion_guard.mdl",
+												["EditorExpand"] = true,
+												["ClassName"] = "model",
+												["Size"] = 1.2,
+												["Fullbright"] = true,
+												["Color"] = Vector(55, 0, 255),
+												["Bone"] = "",
+												["Brightness"] = 30,
+												["Angles"] = Angle(0, 1252007.625, 0),
+											},
+										},
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["UniqueID"] = "3344490815",
+										["AffectChildren"] = true,
+										["Expression"] = "floor((min(6,timeex()))/6)",
+										["Hide"] = true,
+										["ClassName"] = "proxy",
+										["VariableName"] = "Hide",
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "1940508898",
+								["AffectChildren"] = true,
+								["Expression"] = "(floor((min(2.7,timeex()))/2.7)*(-2.7))+2.7",
+								["Hide"] = true,
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "bone",
+														["UniqueID"] = "3485982447",
+														["Hide"] = true,
+														["Size"] = 1.325,
+														["Bone"] = "antlion guard leg 2 right",
+													},
+												},
+												[2] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "bone",
+														["UniqueID"] = "1559999278",
+														["Hide"] = true,
+														["Size"] = 1.325,
+														["Bone"] = "antlion guard foot left",
+													},
+												},
+												[3] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "bone",
+														["UniqueID"] = "3055030319",
+														["Hide"] = true,
+														["Size"] = 1.325,
+														["Bone"] = "antlion guard foot right",
+													},
+												},
+												[4] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "bone",
+														["UniqueID"] = "1929336234",
+														["Hide"] = true,
+														["Size"] = 1.2,
+														["Bone"] = "antlion guard claw 3 left",
+													},
+												},
+												[5] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "bone",
+														["UniqueID"] = "1326220457",
+														["Hide"] = true,
+														["Size"] = 1.325,
+														["Bone"] = "antlion guard leg 2 left",
+													},
+												},
+												[6] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "bone",
+														["UniqueID"] = "2190731701",
+														["Hide"] = true,
+														["Size"] = 1.325,
+														["Bone"] = "antlion guard claw 3 right",
+													},
+												},
+												[7] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "bone",
+														["UniqueID"] = "3120908338",
+														["Hide"] = true,
+														["Size"] = 1.175,
+														["Bone"] = "antlion guard head",
+													},
+												},
+												[8] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "bone",
+														["UniqueID"] = "758436330",
+														["Hide"] = true,
+														["Size"] = 1.325,
+														["Bone"] = "antlion guard claw 3 left",
+													},
+												},
+												[9] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "bone",
+														["UniqueID"] = "1443451339",
+														["Hide"] = true,
+														["Size"] = 1.125,
+														["Bone"] = "antlion guard spine 3",
+													},
+												},
+												[10] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Hide"] = true,
+														["Bone"] = "antlion guard leg 1 left",
+														["UniqueID"] = "2312656894",
+														["ClassName"] = "bone",
+													},
+												},
+												[11] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "bone",
+														["UniqueID"] = "2040605258",
+														["Hide"] = true,
+														["Size"] = 1.35,
+														["Bone"] = "antlion guard quill 1",
+													},
+												},
+												[12] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "bone",
+														["UniqueID"] = "2180883151",
+														["Hide"] = true,
+														["Size"] = 1.35,
+														["Bone"] = "antlion guard spine 2",
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "2374827210",
+												["Hide"] = true,
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["EditorExpand"] = true,
+												["UniqueID"] = "2610698974",
+												["Hide"] = true,
+												["Bone"] = "",
+												["Position"] = Vector(-145.29418945313, -0.0020751953125, 164.1689453125),
+												["ClassName"] = "camera",
+											},
+										},
+										[3] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Arguments"] = "t",
+																		["UniqueID"] = "81589483",
+																		["Event"] = "button",
+																		["Hide"] = true,
+																		["ClassName"] = "event",
+																		["EditorExpand"] = true,
+																	},
+																},
+																[2] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																				[1] = {
+																					["children"] = {
+																					},
+																					["self"] = {
+																						["ClassName"] = "animation",
+																						["OwnerCycle"] = true,
+																						["SequenceName"] = "walk1",
+																						["Hide"] = true,
+																						["UniqueID"] = "105351131",
+																					},
+																				},
+																			},
+																			["self"] = {
+																				["Arguments"] = "r",
+																				["UniqueID"] = "3275433448",
+																				["Event"] = "button",
+																				["Hide"] = true,
+																				["ClassName"] = "event",
+																				["EditorExpand"] = true,
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["Hide"] = true,
+																		["ClassName"] = "group",
+																		["UniqueID"] = "3972652033",
+																		["EditorExpand"] = true,
+																	},
+																},
+															},
+															["self"] = {
+																["Hide"] = true,
+																["ClassName"] = "group",
+																["UniqueID"] = "888516510",
+																["EditorExpand"] = true,
+															},
+														},
+													},
+													["self"] = {
+														["Operator"] = "equal or above",
+														["Arguments"] = "65",
+														["Invert"] = true,
+														["Event"] = "speed",
+														["UniqueID"] = "3103169717",
+														["Hide"] = true,
+														["EditorExpand"] = true,
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "2148458506",
+												["Hide"] = true,
+											},
+										},
+										[4] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																				[1] = {
+																					["children"] = {
+																					},
+																					["self"] = {
+																						["ClassName"] = "animation",
+																						["OwnerCycle"] = true,
+																						["EditorExpand"] = true,
+																						["SequenceName"] = "uprun1",
+																						["Hide"] = true,
+																						["UniqueID"] = "1369589165",
+																					},
+																				},
+																			},
+																			["self"] = {
+																				["Hide"] = true,
+																				["ClassName"] = "group",
+																				["UniqueID"] = "989387501",
+																				["EditorExpand"] = true,
+																			},
+																		},
+																		[2] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Arguments"] = "r",
+																				["UniqueID"] = "2888723382",
+																				["Hide"] = true,
+																				["Event"] = "button",
+																				["ClassName"] = "event",
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["Hide"] = true,
+																		["ClassName"] = "group",
+																		["UniqueID"] = "2713012932",
+																		["EditorExpand"] = true,
+																	},
+																},
+																[2] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Arguments"] = "t",
+																		["UniqueID"] = "3178746485",
+																		["Event"] = "button",
+																		["Hide"] = true,
+																		["ClassName"] = "event",
+																		["EditorExpand"] = true,
+																	},
+																},
+															},
+															["self"] = {
+																["Hide"] = true,
+																["ClassName"] = "group",
+																["UniqueID"] = "420085870",
+																["EditorExpand"] = true,
+															},
+														},
+													},
+													["self"] = {
+														["Operator"] = "equal or above",
+														["Arguments"] = "150",
+														["Invert"] = true,
+														["Event"] = "speed",
+														["UniqueID"] = "1236735756",
+														["Hide"] = true,
+														["EditorExpand"] = true,
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["Hide"] = true,
+												["ClassName"] = "group",
+												["UniqueID"] = "3215747093",
+												["EditorExpand"] = true,
+											},
+										},
+										[5] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "proxy",
+														["UniqueID"] = "3372339323",
+														["Expression"] = "hsv_to_color((time()*360)%360,1,1)",
+														["Hide"] = true,
+														["EditorExpand"] = true,
+														["VariableName"] = "Color",
+													},
+												},
+											},
+											["self"] = {
+												["Position"] = Vector(-0.935546875, -3.109375, 1.3857421875),
+												["Hide"] = true,
+												["Name"] = "heavy big chief",
+												["Fullbright"] = true,
+												["ClassName"] = "model",
+												["Size"] = 4,
+												["Angles"] = Angle(4.5292997360229, 1.7248001098633, 92.509757995605),
+												["Color"] = Vector(122, 0, 255),
+												["Bone"] = "antlion guard head",
+												["Model"] = "models/player/items/heavy/heavy_big_chief.mdl",
+												["UniqueID"] = "143050085",
+											},
+										},
+										[6] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "proxy",
+												["UniqueID"] = "1130498620",
+												["Expression"] = "hsv_to_color((time()*360)%360,1,1)",
+												["Hide"] = true,
+												["EditorExpand"] = true,
+												["VariableName"] = "Color",
+											},
+										},
+										[7] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "proxy",
+														["UniqueID"] = "247485195",
+														["Expression"] = "hsv_to_color((time()*360)%360,1,1)",
+														["Hide"] = true,
+														["EditorExpand"] = true,
+														["VariableName"] = "Color",
+													},
+												},
+											},
+											["self"] = {
+												["Position"] = Vector(-5.84716796875, -2.8466796875, -0.2958984375),
+												["Hide"] = true,
+												["Name"] = "soldier holiday antlers",
+												["Scale"] = Vector(1, 0.80000001192093, 1),
+												["Fullbright"] = true,
+												["ClassName"] = "model",
+												["Size"] = 2.875,
+												["Angles"] = Angle(4.2775845527649, -1.3338652849197, 84.509971618652),
+												["Color"] = Vector(122, 0, 255),
+												["Bone"] = "antlion guard head",
+												["Model"] = "models/player/items/soldier/soldier_holiday_antlers.mdl",
+												["UniqueID"] = "1036676063",
+											},
+										},
+										[8] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "proxy",
+														["UniqueID"] = "420979172",
+														["Expression"] = "hsv_to_color((time()*360)%360,1,1)",
+														["Hide"] = true,
+														["EditorExpand"] = true,
+														["VariableName"] = "Color",
+													},
+												},
+											},
+											["self"] = {
+												["Position"] = Vector(8.05810546875, 11.8681640625, -0.693359375),
+												["Hide"] = true,
+												["Name"] = "pyro pyromancers mask",
+												["Fullbright"] = true,
+												["ClassName"] = "model",
+												["Size"] = 4,
+												["Angles"] = Angle(0.15295201539993, -21.928926467896, 90.222312927246),
+												["Color"] = Vector(122, 0, 255),
+												["Bone"] = "antlion guard head",
+												["Model"] = "models/player/items/pyro/pyro_pyromancers_mask.mdl",
+												["UniqueID"] = "2082491329",
+											},
+										},
+										[9] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["ClassName"] = "animation",
+																["UniqueID"] = "1629381808",
+																["Loop"] = false,
+																["Hide"] = true,
+																["SequenceName"] = "death01",
+															},
+														},
+													},
+													["self"] = {
+														["EditorExpand"] = true,
+														["UniqueID"] = "3236899599",
+														["Hide"] = true,
+														["Event"] = "owner_alive",
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "1279784421",
+												["Hide"] = true,
+											},
+										},
+										[10] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["ClassName"] = "event",
+																				["UniqueID"] = "528049751",
+																				["Event"] = "timer",
+																				["Hide"] = true,
+																				["Arguments"] = "0.32",
+																				["Invert"] = true,
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["DamageType"] = "bullet",
+																		["UniqueID"] = "4104579550",
+																		["Speed"] = 4,
+																		["Physical"] = true,
+																		["EditorExpand"] = true,
+																		["Sticky"] = true,
+																		["LifeTime"] = 1,
+																		["ClassName"] = "projectile",
+																		["Hide"] = true,
+																		["Position"] = Vector(46.04150390625, -20.517578125, 70.79736328125),
+																		["OutfitPartUID"] = "254256581",
+																		["OutfitPartName"] = "2231",
+																		["Damage"] = 500,
+																		["Gravity"] = false,
+																	},
+																},
+																[2] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["ClassName"] = "proxy",
+																		["UniqueID"] = "2137664002",
+																		["Expression"] = "hsv_to_color((time()*360)%360,1,1)",
+																		["Hide"] = true,
+																		["EditorExpand"] = true,
+																		["VariableName"] = "Color",
+																	},
+																},
+																[3] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Velocity"] = 1,
+																		["UniqueID"] = "2168068498",
+																		["EndLength"] = 17.7,
+																		["Material"] = "sprites/glow04_noz",
+																		["Bone"] = "flashlight",
+																		["NumberParticles"] = 11.4,
+																		["Gravity"] = Vector(0, 0, 0),
+																		["Position"] = Vector(6.9473876953125, -64.66796875, -44.796875),
+																		["Hide"] = true,
+																		["FireDelay"] = 0,
+																		["DieTime"] = 0.3,
+																		["EditorExpand"] = true,
+																		["ClassName"] = "particles",
+																		["Spread"] = 0.5,
+																		["Angles"] = Angle(25.248273849487, -5.3329524993896, 179.77679443359),
+																		["Color1"] = Vector(255, 93, 0),
+																		["StartSize"] = 10,
+																		["Lighting"] = false,
+																	},
+																},
+																[4] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Arguments"] = "0.25",
+																				["UniqueID"] = "3978673965",
+																				["Hide"] = true,
+																				["Event"] = "timer",
+																				["ClassName"] = "event",
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["DamageType"] = "bullet",
+																		["UniqueID"] = "1990704773",
+																		["Speed"] = 4,
+																		["Physical"] = true,
+																		["EditorExpand"] = true,
+																		["Sticky"] = true,
+																		["LifeTime"] = 1,
+																		["ClassName"] = "projectile",
+																		["Hide"] = true,
+																		["Position"] = Vector(45.613525390625, 20.5517578125, 69.0859375),
+																		["OutfitPartUID"] = "254256581",
+																		["OutfitPartName"] = "2231",
+																		["Damage"] = 500,
+																		["Gravity"] = false,
+																	},
+																},
+																[5] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Velocity"] = 1,
+																		["UniqueID"] = "2918474159",
+																		["EndLength"] = 17.7,
+																		["Material"] = "sprites/glow04_noz",
+																		["Bone"] = "flashlight",
+																		["NumberParticles"] = 11.4,
+																		["Gravity"] = Vector(0, 0, 0),
+																		["Position"] = Vector(8.7042236328125, -28.2568359375, -63.34326171875),
+																		["Hide"] = true,
+																		["FireDelay"] = 0,
+																		["DieTime"] = 0.3,
+																		["EditorExpand"] = true,
+																		["ClassName"] = "particles",
+																		["Spread"] = 0.5,
+																		["Angles"] = Angle(25.248273849487, -5.3329524993896, 179.77679443359),
+																		["Color1"] = Vector(255, 93, 0),
+																		["StartSize"] = 10,
+																		["Lighting"] = false,
+																	},
+																},
+															},
+															["self"] = {
+																["Position"] = Vector(-23.2060546875, 2.68359375, -8.2742309570313),
+																["Hide"] = true,
+																["Name"] = "sentry 2",
+																["Model"] = "models/buildables/sentry3.mdl",
+																["ClassName"] = "model",
+																["Size"] = 1.375,
+																["Angles"] = Angle(-25.452875137329, -160.30676269531, 20.71185874939),
+																["Color"] = Vector(255, 0, 141),
+																["Bone"] = "antlion guard quill 3",
+																["Brightness"] = 24,
+																["UniqueID"] = "160879199",
+															},
+														},
+														[2] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Arguments"] = "0.23",
+																				["UniqueID"] = "2008538209",
+																				["Hide"] = true,
+																				["Event"] = "timer",
+																				["ClassName"] = "event",
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["DamageType"] = "bullet",
+																		["UniqueID"] = "3627103641",
+																		["Speed"] = 4,
+																		["Physical"] = true,
+																		["EditorExpand"] = true,
+																		["Sticky"] = true,
+																		["LifeTime"] = 1,
+																		["ClassName"] = "projectile",
+																		["Hide"] = true,
+																		["Position"] = Vector(46.04150390625, -20.517578125, 70.79736328125),
+																		["OutfitPartUID"] = "1244456623",
+																		["OutfitPartName"] = "2231",
+																		["Damage"] = 500,
+																		["Gravity"] = false,
+																	},
+																},
+																[2] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Arguments"] = "0.2",
+																				["Invert"] = true,
+																				["Event"] = "timer",
+																				["UniqueID"] = "2788856817",
+																				["Hide"] = true,
+																				["EditorExpand"] = true,
+																				["ClassName"] = "event",
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["DamageType"] = "bullet",
+																		["UniqueID"] = "872740086",
+																		["Speed"] = 4,
+																		["Physical"] = true,
+																		["EditorExpand"] = true,
+																		["Sticky"] = true,
+																		["LifeTime"] = 1,
+																		["ClassName"] = "projectile",
+																		["Hide"] = true,
+																		["Position"] = Vector(46.041015625, 20.892578125, 70.7978515625),
+																		["OutfitPartUID"] = "1244456623",
+																		["OutfitPartName"] = "2231",
+																		["Damage"] = 500,
+																		["Gravity"] = false,
+																	},
+																},
+																[3] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Velocity"] = 1,
+																		["UniqueID"] = "3077059240",
+																		["EndLength"] = 17.7,
+																		["Material"] = "sprites/glow04_noz",
+																		["Bone"] = "flashlight",
+																		["NumberParticles"] = 11.4,
+																		["Gravity"] = Vector(0, 0, 0),
+																		["Position"] = Vector(16.577514648438, 34.82421875, -52.643310546875),
+																		["Hide"] = true,
+																		["FireDelay"] = 0,
+																		["DieTime"] = 0.3,
+																		["EditorExpand"] = true,
+																		["ClassName"] = "particles",
+																		["Spread"] = 0.5,
+																		["Angles"] = Angle(25.248273849487, -5.3329524993896, 179.77679443359),
+																		["Color1"] = Vector(255, 93, 0),
+																		["StartSize"] = 10,
+																		["Lighting"] = false,
+																	},
+																},
+																[4] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["ClassName"] = "proxy",
+																		["UniqueID"] = "3559985617",
+																		["Expression"] = "hsv_to_color((time()*360)%360,1,1)",
+																		["Hide"] = true,
+																		["EditorExpand"] = true,
+																		["VariableName"] = "Color",
+																	},
+																},
+																[5] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Velocity"] = 1,
+																		["UniqueID"] = "197535196",
+																		["EndLength"] = 17.7,
+																		["Material"] = "sprites/glow04_noz",
+																		["Bone"] = "flashlight",
+																		["NumberParticles"] = 11.4,
+																		["Gravity"] = Vector(0, 0, 0),
+																		["Position"] = Vector(6.5479736328125, -2.5888671875, -69.3388671875),
+																		["Hide"] = true,
+																		["FireDelay"] = 0,
+																		["DieTime"] = 0.3,
+																		["EditorExpand"] = true,
+																		["ClassName"] = "particles",
+																		["Spread"] = 0.5,
+																		["Angles"] = Angle(25.248273849487, -5.3329524993896, 179.77679443359),
+																		["Color1"] = Vector(255, 93, 0),
+																		["StartSize"] = 10,
+																		["Lighting"] = false,
+																	},
+																},
+															},
+															["self"] = {
+																["Position"] = Vector(-28.17578125, 13.291015625, 5.0494384765625),
+																["Hide"] = true,
+																["Name"] = "sentry 2",
+																["Model"] = "models/buildables/sentry3.mdl",
+																["ClassName"] = "model",
+																["Size"] = 1.375,
+																["Angles"] = Angle(38.995208740234, -169.47689819336, 168.89923095703),
+																["Color"] = Vector(255, 0, 141),
+																["Bone"] = "antlion guard quill 4",
+																["Brightness"] = 24,
+																["UniqueID"] = "3688088429",
+															},
+														},
+														[3] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Arguments"] = "0.4",
+																				["UniqueID"] = "3369520",
+																				["Hide"] = true,
+																				["Event"] = "timer",
+																				["ClassName"] = "event",
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["DamageType"] = "bullet",
+																		["UniqueID"] = "1916580315",
+																		["Speed"] = 4,
+																		["Physical"] = true,
+																		["EditorExpand"] = true,
+																		["Sticky"] = true,
+																		["LifeTime"] = 1,
+																		["ClassName"] = "projectile",
+																		["Hide"] = true,
+																		["Position"] = Vector(32.661376953125, -18.347534179688, 59.7255859375),
+																		["OutfitPartUID"] = "1244456623",
+																		["OutfitPartName"] = "2231",
+																		["Damage"] = 500,
+																		["Gravity"] = false,
+																	},
+																},
+																[2] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Arguments"] = "0.41",
+																				["UniqueID"] = "2713120575",
+																				["Hide"] = true,
+																				["Event"] = "timer",
+																				["ClassName"] = "event",
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["DamageType"] = "bullet",
+																		["UniqueID"] = "3126132704",
+																		["Speed"] = 4,
+																		["Physical"] = true,
+																		["EditorExpand"] = true,
+																		["Sticky"] = true,
+																		["LifeTime"] = 1,
+																		["ClassName"] = "projectile",
+																		["Hide"] = true,
+																		["Position"] = Vector(32.658935546875, 18.056640625, 59.771484375),
+																		["OutfitPartUID"] = "254256581",
+																		["OutfitPartName"] = "2231",
+																		["Damage"] = 500,
+																		["Gravity"] = false,
+																	},
+																},
+																[3] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Velocity"] = 1,
+																		["UniqueID"] = "2914560763",
+																		["EndLength"] = 17.7,
+																		["Material"] = "sprites/glow04_noz",
+																		["Bone"] = "flashlight",
+																		["NumberParticles"] = 11.4,
+																		["Gravity"] = Vector(0, 0, 0),
+																		["Position"] = Vector(37.825439453125, 20.197265625, 61.166015625),
+																		["Hide"] = true,
+																		["FireDelay"] = 0,
+																		["DieTime"] = 0.3,
+																		["EditorExpand"] = true,
+																		["ClassName"] = "particles",
+																		["Spread"] = 0.5,
+																		["Angles"] = Angle(-1.0418667793274, -5.2340431213379, 179.79811096191),
+																		["Color1"] = Vector(255, 93, 0),
+																		["StartSize"] = 10,
+																		["Lighting"] = false,
+																	},
+																},
+																[4] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["ClassName"] = "proxy",
+																		["UniqueID"] = "1426326242",
+																		["Expression"] = "hsv_to_color((time()*360)%360,1,1)",
+																		["Hide"] = true,
+																		["EditorExpand"] = true,
+																		["VariableName"] = "Color",
+																	},
+																},
+																[5] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Velocity"] = 1,
+																		["UniqueID"] = "1308196011",
+																		["EndLength"] = 17.7,
+																		["Material"] = "sprites/glow04_noz",
+																		["Bone"] = "flashlight",
+																		["NumberParticles"] = 11.4,
+																		["Gravity"] = Vector(0, 0, 0),
+																		["Position"] = Vector(34.509704589844, -15.99658203125, 61.3095703125),
+																		["Hide"] = true,
+																		["FireDelay"] = 0,
+																		["DieTime"] = 0.3,
+																		["EditorExpand"] = true,
+																		["ClassName"] = "particles",
+																		["Spread"] = 0.5,
+																		["Angles"] = Angle(-1.0418667793274, -5.2340431213379, 179.79811096191),
+																		["Color1"] = Vector(255, 93, 0),
+																		["StartSize"] = 10,
+																		["Lighting"] = false,
+																	},
+																},
+															},
+															["self"] = {
+																["Position"] = Vector(-13.2021484375, -3.50390625, 1.75390625),
+																["Hide"] = true,
+																["Name"] = "sentry heavy",
+																["Model"] = "models/buildables/sentry3_heavy.mdl",
+																["EditorExpand"] = true,
+																["ClassName"] = "model",
+																["Size"] = 1.375,
+																["Angles"] = Angle(2.7978780269623, -30.488460540771, 91.02709197998),
+																["Color"] = Vector(255, 0, 141),
+																["Bone"] = "antlion guard spine 3",
+																["Brightness"] = 24,
+																["UniqueID"] = "876014979",
+															},
+														},
+														[4] = {
+															["children"] = {
+															},
+															["self"] = {
+																["ClassName"] = "animation",
+																["OwnerCycle"] = true,
+																["EditorExpand"] = true,
+																["SequenceName"] = "ragdoll",
+																["Hide"] = true,
+																["UniqueID"] = "4266230095",
+															},
+														},
+														[5] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Arguments"] = "0.1",
+																		["UniqueID"] = "1686486284",
+																		["Hide"] = true,
+																		["Event"] = "timer",
+																		["ClassName"] = "event",
+																	},
+																},
+															},
+															["self"] = {
+																["Hide"] = true,
+																["ClassName"] = "sound",
+																["UniqueID"] = "3444360129",
+																["Sound"] = "weapons/smg1/smg1_fire1.wav",
+															},
+														},
+														[6] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["ClassName"] = "event",
+																		["UniqueID"] = "1002999964",
+																		["Event"] = "timer",
+																		["Hide"] = true,
+																		["Arguments"] = "0.1",
+																		["Invert"] = true,
+																	},
+																},
+															},
+															["self"] = {
+																["ClassName"] = "sound",
+																["UniqueID"] = "1754486005",
+																["Hide"] = true,
+																["EditorExpand"] = true,
+																["Sound"] = "weapons/smg1/smg1_fireburst1.wav",
+															},
+														},
+													},
+													["self"] = {
+														["Arguments"] = "r",
+														["Invert"] = true,
+														["Event"] = "button",
+														["UniqueID"] = "900644525",
+														["Hide"] = true,
+														["EditorExpand"] = true,
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "1690931382",
+												["Hide"] = true,
+												["Name"] = "group 8",
+												["EditorExpand"] = true,
+											},
+										},
+										[11] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["ClassName"] = "sound",
+																		["UniqueID"] = "2896598293",
+																		["Volume"] = 0.3,
+																		["Hide"] = true,
+																		["Sound"] = "npc/antlion_guard/growl_high.wav",
+																	},
+																},
+															},
+															["self"] = {
+																["EditorExpand"] = true,
+																["UniqueID"] = "2048263207",
+																["AffectChildren"] = true,
+																["Expression"] = "floor((min(1.5,timeex()))/1.5)",
+																["Hide"] = true,
+																["ClassName"] = "proxy",
+																["VariableName"] = "Hide",
+															},
+														},
+														[2] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																				[1] = {
+																					["children"] = {
+																					},
+																					["self"] = {
+																						["ClassName"] = "event",
+																						["UniqueID"] = "1232512792",
+																						["Event"] = "timer",
+																						["Hide"] = true,
+																						["Arguments"] = "0.2",
+																						["Invert"] = true,
+																					},
+																				},
+																			},
+																			["self"] = {
+																				["DamageType"] = "burn",
+																				["UniqueID"] = "4103037445",
+																				["Speed"] = 4,
+																				["Physical"] = true,
+																				["LifeTime"] = 0.9,
+																				["ClassName"] = "projectile",
+																				["EditorExpand"] = true,
+																				["Hide"] = true,
+																				["Damage"] = 10,
+																				["Position"] = Vector(205.34692382813, -5.3564453125, 31.029296875),
+																				["Gravity"] = false,
+																			},
+																		},
+																		[2] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Velocity"] = 1000,
+																				["UniqueID"] = "2484950132",
+																				["ParticleAngleVelocity"] = Vector(0, 0, 0),
+																				["EndSize"] = 500,
+																				["Material"] = "sprites/glow04_noz",
+																				["Gravity"] = Vector(0, 0, 1000),
+																				["Position"] = Vector(128.17846679688, 0.001953125, 73.55859375),
+																				["Lighting"] = false,
+																				["FireDelay"] = 0,
+																				["DieTime"] = 0.4,
+																				["EndLength"] = 200,
+																				["ClassName"] = "particles",
+																				["StartLength"] = 200,
+																				["Spread"] = 0.05,
+																				["Color1"] = Vector(255, 181, 128),
+																				["Hide"] = true,
+																				["StartSize"] = 0,
+																				["RollDelta"] = 10,
+																			},
+																		},
+																		[3] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Velocity"] = 1000,
+																				["UniqueID"] = "799442091",
+																				["ParticleAngleVelocity"] = Vector(0, 0, 0),
+																				["EndSize"] = 100,
+																				["Material"] = "sprites/blueglow2",
+																				["Gravity"] = Vector(0, 0, 1000),
+																				["Position"] = Vector(43.139892578125, -0.0126953125, 73.55859375),
+																				["Lighting"] = false,
+																				["FireDelay"] = 0,
+																				["DieTime"] = 0.4,
+																				["EditorExpand"] = true,
+																				["ClassName"] = "particles",
+																				["StartLength"] = 200,
+																				["Spread"] = 0.05,
+																				["EndLength"] = 200,
+																				["Hide"] = true,
+																				["StartSize"] = 0,
+																				["RollDelta"] = 10,
+																			},
+																		},
+																		[4] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Velocity"] = 1000,
+																				["UniqueID"] = "1128318510",
+																				["ParticleAngleVelocity"] = Vector(0, 0, 0),
+																				["EndSize"] = 250,
+																				["Material"] = "sprites/orangecore1",
+																				["Gravity"] = Vector(0, 0, 1000),
+																				["Position"] = Vector(213.76440429688, -0.0107421875, 83.2822265625),
+																				["Lighting"] = false,
+																				["FireDelay"] = 0,
+																				["DieTime"] = 0.4,
+																				["ClassName"] = "particles",
+																				["StartLength"] = 200,
+																				["EditorExpand"] = true,
+																				["EndLength"] = 200,
+																				["Hide"] = true,
+																				["StartSize"] = 0,
+																				["RollDelta"] = 10,
+																			},
+																		},
+																		[5] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["UniqueID"] = "1792018379",
+																				["EndLength"] = 10,
+																				["EndSize"] = 8,
+																				["Material"] = "trails/laser",
+																				["Bone"] = "",
+																				["Gravity"] = Vector(0, 0, 0),
+																				["Position"] = Vector(130.94189453125, -1.541015625, 77.7392578125),
+																				["Lighting"] = false,
+																				["FireDelay"] = 0,
+																				["DieTime"] = 0.3,
+																				["ClassName"] = "particles",
+																				["EditorExpand"] = true,
+																				["StartLength"] = 10,
+																				["Spread"] = 0.2,
+																				["Angles"] = Angle(-3.4054489135742, 0, 0),
+																				["Color1"] = Vector(253, 145, 90),
+																				["StartSize"] = 8,
+																				["Hide"] = true,
+																			},
+																		},
+																		[6] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Velocity"] = 1000,
+																				["UniqueID"] = "2887146393",
+																				["ParticleAngleVelocity"] = Vector(0, 0, 0),
+																				["EndSize"] = 300,
+																				["Material"] = "sprites/heatwave",
+																				["Gravity"] = Vector(0, 0, 1000),
+																				["Position"] = Vector(150.67309570313, -0.0048828125, 73.55859375),
+																				["Lighting"] = false,
+																				["FireDelay"] = 0,
+																				["DieTime"] = 0.4,
+																				["ClassName"] = "particles",
+																				["EditorExpand"] = true,
+																				["StartLength"] = 200,
+																				["EndLength"] = 200,
+																				["Color1"] = Vector(255, 181, 128),
+																				["Hide"] = true,
+																				["StartSize"] = 0,
+																				["RollDelta"] = 10,
+																			},
+																		},
+																		[7] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Velocity"] = 1000,
+																				["UniqueID"] = "2829355513",
+																				["ParticleAngleVelocity"] = Vector(0, 0, 0),
+																				["EndSize"] = 1000,
+																				["Material"] = "sprites/redglow1",
+																				["Gravity"] = Vector(0, 0, 1000),
+																				["Position"] = Vector(128.17846679688, 0.001953125, 73.55859375),
+																				["Lighting"] = false,
+																				["FireDelay"] = 0,
+																				["DieTime"] = 0.4,
+																				["EndLength"] = 200,
+																				["ClassName"] = "particles",
+																				["StartLength"] = 200,
+																				["Spread"] = 0.05,
+																				["Color1"] = Vector(255, 181, 128),
+																				["Hide"] = true,
+																				["StartSize"] = 0,
+																				["RollDelta"] = 10,
+																			},
+																		},
+																		[8] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Velocity"] = 1000,
+																				["UniqueID"] = "903758611",
+																				["ParticleAngleVelocity"] = Vector(0, 0, 0),
+																				["EndSize"] = 500,
+																				["Material"] = "sprites/muzzleflash4",
+																				["Gravity"] = Vector(0, 0, 1000),
+																				["Position"] = Vector(128.17846679688, 0.001953125, 73.55859375),
+																				["Lighting"] = false,
+																				["FireDelay"] = 0,
+																				["DieTime"] = 0.4,
+																				["EndLength"] = 200,
+																				["ClassName"] = "particles",
+																				["StartLength"] = 200,
+																				["Spread"] = 0.05,
+																				["Color1"] = Vector(255, 181, 128),
+																				["Hide"] = true,
+																				["StartSize"] = 0,
+																				["RollDelta"] = 10,
+																			},
+																		},
+																		[9] = {
+																			["children"] = {
+																				[1] = {
+																					["children"] = {
+																					},
+																					["self"] = {
+																						["ClassName"] = "event",
+																						["UniqueID"] = "1667423591",
+																						["Event"] = "timer",
+																						["Hide"] = true,
+																						["Arguments"] = "0.2",
+																						["Invert"] = true,
+																					},
+																				},
+																			},
+																			["self"] = {
+																				["DamageType"] = "burn",
+																				["UniqueID"] = "2785037568",
+																				["Speed"] = 4,
+																				["Physical"] = true,
+																				["LifeTime"] = 0.9,
+																				["ClassName"] = "projectile",
+																				["EditorExpand"] = true,
+																				["Hide"] = true,
+																				["Damage"] = 10,
+																				["Position"] = Vector(205.35278320313, -5.3330078125, 67.8134765625),
+																				["Gravity"] = false,
+																			},
+																		},
+																		[10] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Velocity"] = 1000,
+																				["UniqueID"] = "3821454597",
+																				["ParticleAngleVelocity"] = Vector(0, 0, 0),
+																				["EndSize"] = 150,
+																				["Material"] = "sprites/flamelet5",
+																				["Gravity"] = Vector(0, 0, 1000),
+																				["Position"] = Vector(128.17846679688, 0.001953125, 73.55859375),
+																				["Lighting"] = false,
+																				["FireDelay"] = 0,
+																				["DieTime"] = 0.4,
+																				["ClassName"] = "particles",
+																				["EditorExpand"] = true,
+																				["StartLength"] = 100,
+																				["EndLength"] = 80,
+																				["Color1"] = Vector(255, 181, 128),
+																				["Hide"] = true,
+																				["StartSize"] = 0,
+																				["RollDelta"] = 10,
+																			},
+																		},
+																		[11] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Color1"] = Vector(246, 134, 78),
+																				["Lighting"] = false,
+																				["UniqueID"] = "4244797361",
+																				["Position"] = Vector(164.51293945313, -0.009765625, 75.39453125),
+																				["EditorExpand"] = true,
+																				["PositionSpread"] = 5,
+																				["FireDelay"] = 0,
+																				["Material"] = "sprites/glow04_noz",
+																				["EndSize"] = 3,
+																				["ClassName"] = "particles",
+																				["Hide"] = true,
+																				["Spread"] = 0.3,
+																				["Angles"] = Angle(-4.9154782295227, 0, 0),
+																				["Bone"] = "",
+																				["StartSize"] = 3,
+																				["Gravity"] = Vector(0, 0, 0),
+																			},
+																		},
+																		[12] = {
+																			["children"] = {
+																				[1] = {
+																					["children"] = {
+																					},
+																					["self"] = {
+																						["ClassName"] = "event",
+																						["UniqueID"] = "3176349388",
+																						["Event"] = "timer",
+																						["Hide"] = true,
+																						["Arguments"] = "0.2",
+																						["Invert"] = true,
+																					},
+																				},
+																			},
+																			["self"] = {
+																				["DamageType"] = "burn",
+																				["UniqueID"] = "4218145215",
+																				["Speed"] = 4,
+																				["Physical"] = true,
+																				["LifeTime"] = 0.9,
+																				["ClassName"] = "projectile",
+																				["EditorExpand"] = true,
+																				["Hide"] = true,
+																				["Damage"] = 10,
+																				["Position"] = Vector(205.35180664063, -5.3408203125, 97.03662109375),
+																				["Gravity"] = false,
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["UniqueID"] = "3160796534",
+																		["Hide"] = true,
+																		["Angles"] = Angle(-0.065531998872757, 53.798404693604, -0.0039277882315218),
+																		["Size"] = 0,
+																		["Position"] = Vector(-47.76123046875, -101.615234375, -73.4443359375),
+																		["ClassName"] = "model",
+																		["Bone"] = "antlion guard head",
+																		["Model"] = "models/pac/default.mdl",
+																		["EditorExpand"] = true,
+																	},
+																},
+															},
+															["self"] = {
+																["EditorExpand"] = true,
+																["UniqueID"] = "2550397999",
+																["AffectChildren"] = true,
+																["Expression"] = "(floor((min(1,timeex()))/1)*(-1))+1",
+																["Hide"] = true,
+																["ClassName"] = "proxy",
+																["VariableName"] = "Hide",
+															},
+														},
+														[3] = {
+															["children"] = {
+															},
+															["self"] = {
+																["ClassName"] = "animation",
+																["UniqueID"] = "1623256702",
+																["Rate"] = 0.1,
+																["Hide"] = true,
+																["SequenceName"] = "roar",
+															},
+														},
+													},
+													["self"] = {
+														["Arguments"] = "e",
+														["Invert"] = true,
+														["Event"] = "button",
+														["UniqueID"] = "617690924",
+														["Hide"] = true,
+														["EditorExpand"] = true,
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "2888511840",
+												["Hide"] = true,
+											},
+										},
+										[12] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "proxy",
+														["UniqueID"] = "4181586715",
+														["Expression"] = "hsv_to_color((time()*360)%360,1,1)",
+														["Hide"] = true,
+														["EditorExpand"] = true,
+														["VariableName"] = "Color",
+													},
+												},
+											},
+											["self"] = {
+												["UniqueID"] = "1566165316",
+												["Hide"] = true,
+												["Name"] = "c medigun defensepack",
+												["ClassName"] = "model",
+												["Size"] = 3.075,
+												["Angles"] = Angle(-69.119216918945, -70.334014892578, -108.96033477783),
+												["Color"] = Vector(122, 0, 255),
+												["Bone"] = "antlion guard spine 1",
+												["Model"] = "models/weapons/c_models/c_medigun_defense/c_medigun_defensepack.mdl",
+												["Position"] = Vector(1.1904296875, -30.7666015625, 30.135498046875),
+											},
+										},
+										[13] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Arguments"] = "t",
+																				["UniqueID"] = "656129202",
+																				["Hide"] = true,
+																				["Event"] = "button",
+																				["ClassName"] = "event",
+																			},
+																		},
+																		[2] = {
+																			["children"] = {
+																				[1] = {
+																					["children"] = {
+																					},
+																					["self"] = {
+																						["ClassName"] = "animation",
+																						["OwnerCycle"] = true,
+																						["SequenceName"] = "alertidle",
+																						["Hide"] = true,
+																						["UniqueID"] = "1328869937",
+																					},
+																				},
+																			},
+																			["self"] = {
+																				["Hide"] = true,
+																				["ClassName"] = "group",
+																				["UniqueID"] = "3913571410",
+																				["EditorExpand"] = true,
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["Hide"] = true,
+																		["ClassName"] = "group",
+																		["UniqueID"] = "4263192149",
+																		["EditorExpand"] = true,
+																	},
+																},
+																[2] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["Arguments"] = "r",
+																		["UniqueID"] = "3332113424",
+																		["Event"] = "button",
+																		["Hide"] = true,
+																		["ClassName"] = "event",
+																		["EditorExpand"] = true,
+																	},
+																},
+															},
+															["self"] = {
+																["Hide"] = true,
+																["ClassName"] = "group",
+																["UniqueID"] = "3528498145",
+																["EditorExpand"] = true,
+															},
+														},
+													},
+													["self"] = {
+														["ClassName"] = "event",
+														["UniqueID"] = "2976230229",
+														["Operator"] = "equal or below",
+														["Event"] = "speed",
+														["Hide"] = true,
+														["EditorExpand"] = true,
+														["Invert"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["Hide"] = true,
+												["ClassName"] = "group",
+												["UniqueID"] = "1773627526",
+												["EditorExpand"] = true,
+											},
+										},
+										[14] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["ClassName"] = "animation",
+																["UniqueID"] = "194381868",
+																["Rate"] = 3,
+																["Hide"] = true,
+																["EditorExpand"] = true,
+																["SequenceName"] = "shove",
+															},
+														},
+														[2] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																	},
+																	["self"] = {
+																		["ClassName"] = "sound",
+																		["UniqueID"] = "3041774015",
+																		["Volume"] = 0.6,
+																		["Hide"] = true,
+																		["Sound"] = "npc/antlion_guard/shove1.wav",
+																	},
+																},
+															},
+															["self"] = {
+																["EditorExpand"] = true,
+																["UniqueID"] = "1049289624",
+																["AffectChildren"] = true,
+																["Expression"] = "(floor((min(0.2,timeex()))/0.2)*(-0.2))+0.2",
+																["Hide"] = true,
+																["ClassName"] = "proxy",
+																["VariableName"] = "Hide",
+															},
+														},
+													},
+													["self"] = {
+														["Arguments"] = "attack@@0.9",
+														["Invert"] = true,
+														["Event"] = "animation_event",
+														["UniqueID"] = "2508961962",
+														["Hide"] = true,
+														["EditorExpand"] = true,
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["Hide"] = true,
+												["ClassName"] = "group",
+												["UniqueID"] = "1062463138",
+												["EditorExpand"] = true,
+											},
+										},
+										[15] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Velocity"] = 1,
+														["UniqueID"] = "152625308",
+														["DieTime"] = 0.5,
+														["Position"] = Vector(-1.0458984375, 0.520751953125, -10.818359375),
+														["Hide"] = true,
+														["FireDelay"] = 0,
+														["Lighting"] = false,
+														["EndSize"] = 25,
+														["ClassName"] = "particles",
+														["Material"] = "particle/smokesprites_0011",
+														["EndLength"] = 40,
+														["Color1"] = Vector(0, 178, 255),
+														["Angles"] = Angle(-82.10466003418, 93.198585510254, -93.226982116699),
+														["StartSize"] = 20,
+														["Gravity"] = Vector(0, 0, 0),
+													},
+												},
+												[2] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Angles"] = Angle(-19.408010482788, -107.91000366211, 131.24060058594),
+														["UniqueID"] = "1724753298",
+														["Bone"] = "bip hip right",
+														["Hide"] = true,
+														["ClassName"] = "bone",
+													},
+												},
+												[3] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Angles"] = Angle(28.154382705688, 132.31289672852, -27.213493347168),
+														["UniqueID"] = "1246815178",
+														["Hide"] = true,
+														["Bone"] = "bip hip left",
+														["ClassName"] = "bone",
+														["EditorExpand"] = true,
+													},
+												},
+												[4] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Angles"] = Angle(-38.89725112915, -1.0887098312378, 54.262001037598),
+														["UniqueID"] = "1264082415",
+														["Bone"] = "bip upperarm left",
+														["Hide"] = true,
+														["ClassName"] = "bone",
+													},
+												},
+												[5] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["ClassName"] = "proxy",
+																["UniqueID"] = "2749262546",
+																["Hide"] = true,
+																["Expression"] = "hsv_to_color((time()*360)%360,1,1)",
+																["VariableName"] = "Color",
+															},
+														},
+													},
+													["self"] = {
+														["UniqueID"] = "3236696512",
+														["Model"] = "models/weapons/c_models/c_headtaker/c_headtaker.mdl",
+														["Name"] = "c headtaker",
+														["Position"] = Vector(-41.220947265625, -36.38671875, -6.92041015625),
+														["EditorExpand"] = true,
+														["ClassName"] = "model",
+														["Size"] = 1.825,
+														["Fullbright"] = true,
+														["Color"] = Vector(0, 225, 255),
+														["Bone"] = "bip hand right",
+														["Brightness"] = 7.7,
+														["Angles"] = Angle(57.698852539063, 21.847227096558, 112.29438781738),
+													},
+												},
+												[6] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Angles"] = Angle(80.494895935059, 122.66654205322, -168.77548217773),
+														["UniqueID"] = "213007480",
+														["Bone"] = "bip upperarm right",
+														["Hide"] = true,
+														["ClassName"] = "bone",
+													},
+												},
+												[7] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Angles"] = Angle(87.19896697998, -3.4942186175613e-005, 6.988435779931e-005),
+														["UniqueID"] = "2600754840",
+														["Bone"] = "bip knee right",
+														["Hide"] = true,
+														["ClassName"] = "bone",
+													},
+												},
+												[8] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Angles"] = Angle(78.362297058105, 95.23511505127, 90.439567565918),
+														["UniqueID"] = "1362496488",
+														["Bone"] = "bip knee left",
+														["Hide"] = true,
+														["ClassName"] = "bone",
+													},
+												},
+												[9] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "proxy",
+														["UniqueID"] = "247485195",
+														["Hide"] = true,
+														["Expression"] = "hsv_to_color((time()*360)%360,1,1)",
+														["VariableName"] = "Color",
+													},
+												},
+											},
+											["self"] = {
+												["Model"] = "models/bots/headless_hatman.mdl",
+												["UniqueID"] = "3335785244",
+												["Position"] = Vector(-27.31982421875, -40.0732421875, 2.482177734375),
+												["EditorExpand"] = true,
+												["Hide"] = true,
+												["Name"] = "headless hatman",
+												["BlurSpacing"] = 1,
+												["BlurLength"] = 5,
+												["ClassName"] = "model",
+												["Size"] = 0.85,
+												["Fullbright"] = true,
+												["Color"] = Vector(122, 0, 255),
+												["Bone"] = "antlion guard quill 1",
+												["Brightness"] = 4.9,
+												["Angles"] = Angle(1.4177420139313, 145.54054260254, 92.85383605957),
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "2148070888",
+										["Model"] = "models/antlion_guard.mdl",
+										["BlurLength"] = 5,
+										["Hide"] = true,
+										["Name"] = "antlion guard",
+										["BlurSpacing"] = 1,
+										["EditorExpand"] = true,
+										["ClassName"] = "model",
+										["Size"] = 1.2,
+										["Position"] = Vector(33.8037109375, 0.00732421875, 9.6279296875),
+										["Color"] = Vector(122, 0, 255),
+										["Bone"] = "",
+										["Brightness"] = 30,
+										["Fullbright"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "800628592",
+								["AffectChildren"] = true,
+								["Expression"] = "(floor((min(8.7,timeex()))/8.7)*(-8.7))+8.7",
+								["Hide"] = true,
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "421510674",
+						["AffectChildren"] = true,
+						["Expression"] = "(floor((min(3.2,timeex()))/3.2)*(-3.2))+3.2",
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "1045499307",
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "3733402804",
+		["EditorExpand"] = true,
+	},
+},

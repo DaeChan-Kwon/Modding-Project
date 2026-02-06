@@ -1,0 +1,73 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://www.dropbox.com/s/2wo3t2z45gk2ift/Wryyy%21%21.mp3?dl=0",
+								["ClassName"] = "webaudio",
+								["UniqueID"] = "551074592",
+							},
+						},
+					},
+					["self"] = {
+						["URL"] = "https://www.dropbox.com/s/lz7rpesog45xe6r/wryyyyy.txt?dl=0",
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "3673446044",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "k",
+				["Invert"] = true,
+				["Event"] = "button",
+				["UniqueID"] = "911109438",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://www.dropbox.com/s/loiavfaezmuav0w/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%2006.mp3?dl=0",
+								["ClassName"] = "webaudio",
+								["UniqueID"] = "3362118677",
+							},
+						},
+					},
+					["self"] = {
+						["URL"] = "https://www.dropbox.com/s/5d43dd7wp1v5zmi/high.txt?dl=0",
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "194269862",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "e",
+				["Invert"] = true,
+				["Event"] = "button",
+				["UniqueID"] = "3216240349",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3321541054",
+		["ClassName"] = "group",
+		["Name"] = "내 의상",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},

@@ -1,0 +1,78 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "2127143941",
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["DrawWeapon"] = false,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Velocity"] = 1,
+								["UniqueID"] = "4186212480",
+								["EndLength"] = 100,
+								["EndSize"] = 1,
+								["Material"] = "trails/smoke",
+								["Bone"] = "",
+								["NumberParticles"] = 10,
+								["Gravity"] = Vector(0, 0, 0),
+								["Position"] = Vector(8.162109375, -59.038208007813, 32.5263671875),
+								["PositionSpread"] = 5,
+								["FireDelay"] = 0,
+								["DieTime"] = 0.15,
+								["Angles"] = Angle(-0, 97.877494812012, 0),
+								["StartLength"] = 100,
+								["Spread"] = 0,
+								["ClassName"] = "particles",
+								["Color1"] = Vector(255, 0, 0),
+								["StartSize"] = 1,
+								["Lighting"] = false,
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "2791898640",
+						["AffectChildren"] = true,
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "jiggle",
+				["UniqueID"] = "4216749678",
+				["Bone"] = "",
+				["ResetOnHide"] = true,
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Event"] = "is_in_noclip",
+				["ClassName"] = "event",
+				["Invert"] = true,
+				["UniqueID"] = "2311547344",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "452105603",
+		["ClassName"] = "group",
+		["Name"] = "내 의상",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},

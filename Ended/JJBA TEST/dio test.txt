@@ -1,0 +1,3690 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "event",
+								["UniqueID"] = "569202471",
+								["Event"] = "is_flashlight_on",
+								["EditorExpand"] = true,
+								["Invert"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "597170763",
+								["Bone"] = "hair 4",
+								["Size"] = 0,
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "3893610474",
+								["Position"] = Vector(6.1627197265625, -62.440063476563, -7.021484375),
+								["Angles"] = Angle(86.739128112793, -109.11642456055, -105.54623413086),
+								["EditorExpand"] = true,
+								["Size"] = 0.35,
+								["ClassName"] = "model",
+								["Fullbright"] = true,
+								["Bone"] = "eyes",
+								["Model"] = "https://www.dropbox.com/s/wp2yb7fgtszy695/%EB%88%88.obj?dl=0",
+								["Material"] = "https://dl.dropboxusercontent.com/s/dc2tc682abbpm12/ntxr002.png?dl=0",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "951293505",
+								["Bone"] = "hair 05",
+								["Size"] = 0,
+								["ClassName"] = "bone",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "2934746279",
+								["Position"] = Vector(-3.2327880859375, -0.0604248046875, -55.203125),
+								["Angles"] = Angle(-2.1944651962258e-006, 90.386100769043, 6.4116403564185e-007),
+								["EditorExpand"] = true,
+								["Size"] = 0.95,
+								["ClassName"] = "model",
+								["Fullbright"] = true,
+								["Bone"] = "chest",
+								["Model"] = "https://www.dropbox.com/s/efc3699d2mrqih4/3%EB%B6%80%20%EC%9E%AC%ED%82%B7.obj?dl=0",
+								["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+								["UniqueID"] = "3942718705",
+								["EditorExpand"] = true,
+								["Position"] = Vector(-67.4599609375, -15.396728515625, 2.0421142578125),
+								["Fullbright"] = true,
+								["Model"] = "https://www.dropbox.com/s/kdkp3ltf3mr5gf3/3%EB%B6%80%EB%89%B4%EB%89%B4.obj?dl=0",
+								["Angles"] = Angle(84.918067932129, -96.336967468262, -110.76733398438),
+							},
+						},
+						[7] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0,
+								["EditorExpand"] = true,
+								["UniqueID"] = "490287619",
+								["ClassName"] = "bone",
+							},
+						},
+						[8] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0,
+								["Bone"] = "hair 1",
+								["UniqueID"] = "1690528722",
+								["ClassName"] = "bone",
+							},
+						},
+						[9] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "738431943",
+								["Fullbright"] = true,
+								["Material"] = "https://dl.dropboxusercontent.com/s/dc2tc682abbpm12/ntxr002.png?dl=0",
+								["Size"] = 0.35,
+								["Angles"] = Angle(86.739128112793, -109.11642456055, -105.54623413086),
+								["ClassName"] = "model",
+								["Bone"] = "eyes",
+								["Model"] = "https://www.dropbox.com/s/wp2yb7fgtszy695/%EB%88%88.obj?dl=0",
+								["Position"] = Vector(6.0267333984375, -64.793823242188, -6.97265625),
+							},
+						},
+						[10] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Arguments"] = "a",
+												["Invert"] = true,
+												["Event"] = "button",
+												["UniqueID"] = "2027706772",
+												["EditorExpand"] = true,
+												["ClassName"] = "event",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "3116869741",
+										["Rate"] = 2,
+										["SequenceName"] = "menu_walk",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Arguments"] = "d",
+												["Invert"] = true,
+												["Event"] = "button",
+												["UniqueID"] = "571986844",
+												["EditorExpand"] = true,
+												["ClassName"] = "event",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "2820593798",
+										["Rate"] = 2,
+										["SequenceName"] = "menu_walk",
+										["EditorExpand"] = true,
+									},
+								},
+								[3] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Arguments"] = "w",
+												["Invert"] = true,
+												["Event"] = "button",
+												["UniqueID"] = "211238658",
+												["EditorExpand"] = true,
+												["ClassName"] = "event",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "2842804369",
+										["Rate"] = 2,
+										["SequenceName"] = "menu_walk",
+										["EditorExpand"] = true,
+									},
+								},
+								[4] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Event"] = "speed",
+												["Invert"] = true,
+												["Operator"] = "equal or below",
+												["UniqueID"] = "180619250",
+												["ClassName"] = "event",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "2156391854",
+										["Rate"] = 0.9,
+										["SequenceName"] = "pose_standing_02",
+										["Name"] = "기본자세",
+										["EditorExpand"] = true,
+									},
+								},
+								[5] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "event",
+												["UniqueID"] = "1163007272",
+												["Event"] = "button",
+												["Arguments"] = "s",
+												["Invert"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "1502448693",
+										["Rate"] = 2,
+										["SequenceName"] = "menu_walk",
+										["EditorExpand"] = true,
+									},
+								},
+								[6] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Arguments"] = "v",
+														["Invert"] = true,
+														["Event"] = "button",
+														["UniqueID"] = "3404958833",
+														["EditorExpand"] = true,
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["EditorExpand"] = true,
+												["ClassName"] = "animation",
+												["UniqueID"] = "2657474676",
+												["SequenceName"] = "jump_ar2",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "4204218606",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Name"] = "Player (stand version)",
+								["ClassName"] = "group",
+								["UniqueID"] = "3117491407",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Model"] = "models/player/dio/dio1.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "4272504425",
+						["TintColor"] = Vector(63, 63, 63),
+						["EditorExpand"] = true,
+						["Fullbright"] = true,
+						["Name"] = "분신",
+						["Bone"] = "",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "dio",
+				["ClassName"] = "group",
+				["UniqueID"] = "3262486207",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2523852814",
+		["Name"] = "분신 dio",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["Frequency"] = 180,
+						["Duration"] = 1,
+						["Radius"] = 5000,
+						["UniqueID"] = "2867595836",
+						["Amplitude"] = 175,
+						["ClassName"] = "shake",
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "t",
+				["UniqueID"] = "1637029500",
+				["RootOwner"] = false,
+				["Event"] = "button",
+				["ClassName"] = "event",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "command",
+						["UniqueID"] = "3043082674",
+						["String"] = "ai_disabled 1",
+						["Hide"] = true,
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "3006455283",
+						["DieTime"] = 0.5,
+						["Position"] = Vector(-0.3671875, 0.0076904296875, 47.7265625),
+						["Hide"] = true,
+						["FireDelay"] = 1,
+						["Angles"] = Angle(-89.56517791748, -179.99998474121, -180),
+						["EndSize"] = 500,
+						["ClassName"] = "particles",
+						["Lighting"] = false,
+						["Material"] = "particle/Particle_Ring_Wave_Additive",
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["StartSize"] = 100,
+						["Gravity"] = Vector(0, 0, 0),
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "command",
+						["UniqueID"] = "2989070118",
+						["String"] = "phys_timescale 0",
+						["Hide"] = true,
+						["EditorExpand"] = true,
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "2902033312",
+						["DieTime"] = 0.5,
+						["Position"] = Vector(-0.3671875, 0.0076904296875, 47.7265625),
+						["Hide"] = true,
+						["FireDelay"] = 1,
+						["Angles"] = Angle(-89.56517791748, -179.99998474121, -180),
+						["EndSize"] = 250,
+						["ClassName"] = "particles",
+						["Lighting"] = false,
+						["Material"] = "particle/Particle_Ring_Wave_Additive",
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["StartSize"] = 100,
+						["Gravity"] = Vector(0, 0, 0),
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "command",
+						["UniqueID"] = "669334694",
+						["String"] = "ulx freeze *",
+						["Hide"] = true,
+						["EditorExpand"] = true,
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "1260924554",
+						["DieTime"] = 0.5,
+						["Position"] = Vector(-0.3671875, 0.0076904296875, 47.7265625),
+						["Hide"] = true,
+						["FireDelay"] = 1,
+						["Angles"] = Angle(-89.56517791748, -179.99998474121, -180),
+						["EndSize"] = 1000,
+						["ClassName"] = "particles",
+						["Lighting"] = false,
+						["Material"] = "particle/Particle_Ring_Wave_Additive",
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["StartSize"] = 100,
+						["Gravity"] = Vector(0, 0, 0),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "proxy",
+				["UniqueID"] = "2970518830",
+				["AffectChildren"] = true,
+				["Expression"] = "floor((min(10,timeex()))/0.15)",
+				["VariableName"] = "Hide",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["URL"] = "https://www.dropbox.com/s/rtmcxbiht6q1k2v/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%2062.mp3?dl=0",
+				["ClassName"] = "webaudio",
+				["UniqueID"] = "4244783740",
+				["EditorExpand"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "3360772578",
+						["ParticleAngleVelocity"] = Vector(0, 0, 0),
+						["EndSize"] = -1,
+						["Material"] = "particle/warp1_warp",
+						["Bone"] = "",
+						["Gravity"] = Vector(0, 0, 0),
+						["Collide"] = false,
+						["Position"] = Vector(11467.390625, -0.0313720703125, 2837.1875),
+						["Sliding"] = false,
+						["Color1"] = Vector(9, 9, 9),
+						["FireDelay"] = 0,
+						["ClassName"] = "particles",
+						["DieTime"] = 1,
+						["Spread"] = 0,
+						["Lighting"] = false,
+						["EditorExpand"] = true,
+						["StartSize"] = -1,
+						["Hide"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "1497116144",
+						["ParticleAngleVelocity"] = Vector(0, 0, 0),
+						["EndSize"] = -1,
+						["Material"] = "particle/warp1_warp",
+						["Bone"] = "",
+						["Gravity"] = Vector(0, 0, 0),
+						["Collide"] = false,
+						["Position"] = Vector(11467.390625, -0.0313720703125, 12143.857421875),
+						["Sliding"] = false,
+						["Color1"] = Vector(9, 9, 9),
+						["FireDelay"] = 0,
+						["ClassName"] = "particles",
+						["DieTime"] = 1,
+						["Spread"] = 0,
+						["Lighting"] = false,
+						["EditorExpand"] = true,
+						["StartSize"] = -1,
+						["Hide"] = true,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "3806584278",
+						["ParticleAngleVelocity"] = Vector(0, 0, 0),
+						["EndSize"] = -1,
+						["Material"] = "particle/warp1_warp",
+						["Bone"] = "",
+						["Gravity"] = Vector(0, 0, 0),
+						["Collide"] = false,
+						["Position"] = Vector(1081.6112060547, 854.79748535156, 192.5361328125),
+						["Sliding"] = false,
+						["Color1"] = Vector(72, 72, 72),
+						["FireDelay"] = 0,
+						["ClassName"] = "particles",
+						["DieTime"] = 1,
+						["Spread"] = 0,
+						["Lighting"] = false,
+						["EditorExpand"] = true,
+						["StartSize"] = -1,
+						["Hide"] = true,
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "2243210370",
+						["ParticleAngleVelocity"] = Vector(0, 0, 0),
+						["EndSize"] = -1,
+						["Material"] = "particle/warp1_warp",
+						["Bone"] = "",
+						["Gravity"] = Vector(0, 0, 0),
+						["Collide"] = false,
+						["Position"] = Vector(-13.170593261719, -0.0025634765625, 4.693359375),
+						["Sliding"] = false,
+						["Hide"] = true,
+						["FireDelay"] = 0,
+						["DieTime"] = 1,
+						["Color1"] = Vector(36, 36, 36),
+						["ClassName"] = "particles",
+						["3D"] = true,
+						["Spread"] = 0,
+						["EditorExpand"] = true,
+						["ParticleAngle"] = Angle(-90, 0, 0),
+						["StartSize"] = -1,
+						["Lighting"] = false,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "proxy",
+				["UniqueID"] = "826094292",
+				["AffectChildren"] = true,
+				["Expression"] = "floor((min(8.5,timeex()))/8.5)",
+				["VariableName"] = "Hide",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "https://www.dropbox.com/s/754kl3m4f3jqid3/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%2014.mp3?dl=0",
+						["ClassName"] = "webaudio",
+						["UniqueID"] = "3463803843",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["ClassName"] = "command",
+										["UniqueID"] = "3373252521",
+										["String"] = "ulx unfreeze *",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["ClassName"] = "command",
+										["UniqueID"] = "2478999945",
+										["String"] = "phys_timescale 1",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["ClassName"] = "command",
+										["UniqueID"] = "1992044744",
+										["String"] = "ai_disabled 0",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "proxy",
+								["UniqueID"] = "2220985518",
+								["Expression"] = "(floor((min(2,timeex()))/2)*(-2))+2",
+								["EditorExpand"] = true,
+								["VariableName"] = "Hide",
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "998539728",
+						["AffectChildren"] = true,
+						["Expression"] = "(floor((min(1.8,timeex()))/1.8)*(-1.8))+1.8",
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["UniqueID"] = "3937717982",
+				["AffectChildren"] = true,
+				["Expression"] = "(floor((min(7,timeex()))/7)*(-7))+7",
+				["ClassName"] = "proxy",
+				["VariableName"] = "Hide",
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["ClassName"] = "command",
+						["UniqueID"] = "723167326",
+						["String"] = "ulx unfreeze \"Kaonashi\"",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Velocity"] = 1,
+								["UniqueID"] = "1486856723",
+								["DieTime"] = 0.8,
+								["Position"] = Vector(-0.3671875, 0.0076904296875, 47.7265625),
+								["Hide"] = true,
+								["FireDelay"] = 1,
+								["Angles"] = Angle(-89.56517791748, -179.99998474121, -180),
+								["EndSize"] = 100,
+								["ClassName"] = "particles",
+								["Lighting"] = false,
+								["Material"] = "particle/Particle_Ring_Wave_Additive",
+								["EditorExpand"] = true,
+								["Bone"] = "",
+								["StartSize"] = 500,
+								["Gravity"] = Vector(0, 0, 0),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Velocity"] = 1,
+								["UniqueID"] = "1104783713",
+								["DieTime"] = 0.8,
+								["Position"] = Vector(-0.3671875, 0.0076904296875, 47.7265625),
+								["Hide"] = true,
+								["FireDelay"] = 1,
+								["Angles"] = Angle(-89.56517791748, -179.99998474121, -180),
+								["EndSize"] = 100,
+								["ClassName"] = "particles",
+								["Lighting"] = false,
+								["Material"] = "particle/Particle_Ring_Wave_Additive",
+								["EditorExpand"] = true,
+								["Bone"] = "",
+								["StartSize"] = 250,
+								["Gravity"] = Vector(0, 0, 0),
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["UniqueID"] = "1496783491",
+										["ParticleAngleVelocity"] = Vector(0, 0, 0),
+										["EndSize"] = 0,
+										["Material"] = "particle/warp5_warp",
+										["EndAlpha"] = -0.2,
+										["Position"] = Vector(0.005859375, -72.247802734375, -0.00146484375),
+										["Color1"] = Vector(141, 66, 228),
+										["FireDelay"] = 0,
+										["DieTime"] = 0.5,
+										["Color2"] = Vector(232, 0, 255),
+										["ClassName"] = "particles",
+										["EditorExpand"] = true,
+										["Angles"] = Angle(-4.0887753129937e-006, 20.0862159729, 7.8547178418376e-005),
+										["Hide"] = true,
+										["ParticleAngle"] = Angle(-90, 0, 0),
+										["StartSize"] = 2000,
+										["Lighting"] = false,
+									},
+								},
+							},
+							["self"] = {
+								["Model"] = "models/pac/default.mdl",
+								["ClassName"] = "model",
+								["Position"] = Vector(-5.9287109375, -2.978271484375, 55.509765625),
+								["Size"] = 0,
+								["EditorExpand"] = true,
+								["Hide"] = true,
+								["Name"] = "사라진다",
+								["UniqueID"] = "3782724528",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Velocity"] = 1,
+								["UniqueID"] = "4003675525",
+								["DieTime"] = 0.8,
+								["Position"] = Vector(-0.3671875, 0.0076904296875, 47.7265625),
+								["Hide"] = true,
+								["FireDelay"] = 1,
+								["Angles"] = Angle(-89.56517791748, -179.99998474121, -180),
+								["EndSize"] = 100,
+								["ClassName"] = "particles",
+								["Lighting"] = false,
+								["Material"] = "particle/Particle_Ring_Wave_Additive",
+								["EditorExpand"] = true,
+								["Bone"] = "",
+								["StartSize"] = 1000,
+								["Gravity"] = Vector(0, 0, 0),
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "2453777088",
+						["AffectChildren"] = true,
+						["Expression"] = "floor((min(10,timeex()))/0.15)",
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "proxy",
+				["UniqueID"] = "1699455691",
+				["AffectChildren"] = true,
+				["Expression"] = "(floor((min(0.5,timeex()))/0.5)*(-0.5))+0.5",
+				["VariableName"] = "Hide",
+			},
+		},
+		[7] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "proxy",
+										["UniqueID"] = "957808827",
+										["Expression"] = "hsv_to_color((time()*50)%360.1,1)",
+										["VelocityRoughness"] = 0,
+										["Hide"] = true,
+										["EditorExpand"] = true,
+										["VariableName"] = "Color1",
+									},
+								},
+							},
+							["self"] = {
+								["Velocity"] = 1,
+								["UniqueID"] = "444536806",
+								["ParticleAngleVelocity"] = Vector(0, 0, 0),
+								["EndSize"] = 10000,
+								["Material"] = "particle/warp5_warp",
+								["EndAlpha"] = -0.2,
+								["Position"] = Vector(0.005859375, -72.247802734375, -0.00146484375),
+								["DieTime"] = 1,
+								["Color1"] = Vector(0, 62, 255),
+								["FireDelay"] = 0,
+								["Color2"] = Vector(232, 0, 255),
+								["3D"] = true,
+								["ClassName"] = "particles",
+								["EditorExpand"] = true,
+								["Angles"] = Angle(-4.0887753129937e-006, 20.0862159729, 7.8547178418376e-005),
+								["Hide"] = true,
+								["ParticleAngle"] = Angle(-90, 0, 0),
+								["StartSize"] = 0,
+								["Lighting"] = false,
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "proxy",
+										["UniqueID"] = "1857222350",
+										["Expression"] = "hsv_to_color((time()*50)%360.1,1)",
+										["VelocityRoughness"] = 0,
+										["Hide"] = true,
+										["EditorExpand"] = true,
+										["VariableName"] = "Color1",
+									},
+								},
+							},
+							["self"] = {
+								["Velocity"] = 1,
+								["UniqueID"] = "1858634250",
+								["ParticleAngleVelocity"] = Vector(0, 0, 0),
+								["EndSize"] = 10000,
+								["Material"] = "particle/warp5_warp",
+								["Color2"] = Vector(232, 0, 255),
+								["Position"] = Vector(0.005859375, -72.247802734375, -0.00146484375),
+								["Color1"] = Vector(0, 62, 255),
+								["FireDelay"] = 0,
+								["DieTime"] = 1,
+								["ClassName"] = "particles",
+								["EditorExpand"] = true,
+								["EndAlpha"] = -0.2,
+								["Angles"] = Angle(-4.0887753129937e-006, 20.0862159729, 7.8547178418376e-005),
+								["Hide"] = true,
+								["StartSize"] = 0,
+								["Lighting"] = false,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "3972545949",
+						["EditorExpand"] = true,
+						["Size"] = 0,
+						["Hide"] = true,
+						["Model"] = "models/pac/default.mdl",
+						["Position"] = Vector(-5.9287109375, -2.978271484375, 55.509765625),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "proxy",
+				["UniqueID"] = "4055043229",
+				["AffectChildren"] = true,
+				["Expression"] = "floor((min(10,timeex()))/0.01)",
+				["VariableName"] = "Hide",
+			},
+		},
+		[8] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["DieTime"] = 1,
+										["UniqueID"] = "4104384348",
+										["Color2"] = Vector(232, 0, 255),
+										["Position"] = Vector(0.005859375, -72.247802734375, -0.00146484375),
+										["ParticleAngleVelocity"] = Vector(0, 0, 0),
+										["FireDelay"] = 0,
+										["Color1"] = Vector(61, 59, 59),
+										["EndSize"] = 0,
+										["ClassName"] = "particles",
+										["Lighting"] = false,
+										["Material"] = "particle/warp5_warp",
+										["StartSize"] = 10000,
+										["Angles"] = Angle(-4.0887753129937e-006, 20.0862159729, 7.8547178418376e-005),
+										["EndAlpha"] = -0.2,
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["UniqueID"] = "1638932866",
+										["3D"] = true,
+										["EndSize"] = 0,
+										["Material"] = "particle/warp5_warp",
+										["EndAlpha"] = -0.2,
+										["Position"] = Vector(0.005859375, -72.247802734375, -0.00146484375),
+										["Color1"] = Vector(61, 60, 60),
+										["FireDelay"] = 0,
+										["DieTime"] = 1,
+										["Color2"] = Vector(232, 0, 255),
+										["ClassName"] = "particles",
+										["EditorExpand"] = true,
+										["Angles"] = Angle(-4.0887753129937e-006, 20.0862159729, 7.8547178418376e-005),
+										["ParticleAngle"] = Angle(-90, 0, 0),
+										["Lighting"] = false,
+										["StartSize"] = 10000,
+										["ParticleAngleVelocity"] = Vector(0, 0, 0),
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "4241928413",
+								["Position"] = Vector(-5.9287109375, -2.978271484375, 55.509765625),
+								["Size"] = 0,
+								["Model"] = "models/pac/default.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Velocity"] = 1,
+								["UniqueID"] = "2178107509",
+								["DieTime"] = 0.6,
+								["Lighting"] = false,
+								["FireDelay"] = 1,
+								["Position"] = Vector(-0.3671875, 0.0076904296875, 47.7265625),
+								["EndSize"] = 500,
+								["ClassName"] = "particles",
+								["Angles"] = Angle(-89.56517791748, -179.99998474121, -180),
+								["Material"] = "particle/Particle_Ring_Wave_Additive",
+								["EditorExpand"] = true,
+								["Bone"] = "",
+								["StartSize"] = 50,
+								["Gravity"] = Vector(0, 0, 0),
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["Frequency"] = 100,
+								["Duration"] = 1,
+								["Radius"] = 5000,
+								["UniqueID"] = "2903875229",
+								["Amplitude"] = 200,
+								["ClassName"] = "shake",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Velocity"] = 1,
+								["UniqueID"] = "1836316402",
+								["DieTime"] = 0.6,
+								["Position"] = Vector(-0.3671875, 0.0076904296875, 47.7265625),
+								["Hide"] = true,
+								["FireDelay"] = 1,
+								["Angles"] = Angle(-89.56517791748, -179.99998474121, -180),
+								["EndSize"] = 1000,
+								["ClassName"] = "particles",
+								["Lighting"] = false,
+								["Material"] = "particle/Particle_Ring_Wave_Additive",
+								["EditorExpand"] = true,
+								["Bone"] = "",
+								["StartSize"] = 50,
+								["Gravity"] = Vector(0, 0, 0),
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Velocity"] = 1,
+								["UniqueID"] = "749923437",
+								["DieTime"] = 0.6,
+								["Position"] = Vector(-0.3671875, 0.0076904296875, 47.7265625),
+								["Hide"] = true,
+								["FireDelay"] = 1,
+								["Angles"] = Angle(-89.56517791748, -179.99998474121, -180),
+								["EndSize"] = 250,
+								["ClassName"] = "particles",
+								["Lighting"] = false,
+								["Material"] = "particle/Particle_Ring_Wave_Additive",
+								["EditorExpand"] = true,
+								["Bone"] = "",
+								["StartSize"] = 50,
+								["Gravity"] = Vector(0, 0, 0),
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "63273625",
+						["AffectChildren"] = true,
+						["Expression"] = "floor((min(10,timeex()))/0.01)",
+						["Hide"] = true,
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "197252296",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2745327816",
+		["ClassName"] = "group",
+		["Name"] = "시간정지 5초",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(56.290466308594, 30.258117675781, 70.8603515625),
+				["Physical"] = true,
+				["Sticky"] = true,
+				["ClassName"] = "projectile",
+				["Bone"] = "",
+				["UniqueID"] = "518647755",
+				["OutfitPartUID"] = "2749053188",
+				["Damage"] = 80,
+				["EyeAngles"] = true,
+				["Gravity"] = false,
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "524453250",
+				["Physical"] = true,
+				["Sticky"] = true,
+				["Bone"] = "",
+				["ClassName"] = "projectile",
+				["Position"] = Vector(51.17919921875, 21.5810546875, 66.1455078125),
+				["OutfitPartName"] = "칼날",
+				["OutfitPartUID"] = "1972286662",
+				["Damage"] = 80,
+				["EyeAngles"] = true,
+				["Gravity"] = false,
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(33.436218261719, 30.076293945313, 60.6162109375),
+				["Physical"] = true,
+				["Sticky"] = true,
+				["ClassName"] = "projectile",
+				["Bone"] = "",
+				["UniqueID"] = "1616145110",
+				["OutfitPartUID"] = "3621639662",
+				["Damage"] = 80,
+				["EyeAngles"] = true,
+				["Gravity"] = false,
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "animation",
+				["UniqueID"] = "3718396085",
+				["SequenceName"] = "pose_standing_02",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(36.621154785156, 31.63037109375, 71.1162109375),
+				["Physical"] = true,
+				["Sticky"] = true,
+				["ClassName"] = "projectile",
+				["Bone"] = "",
+				["UniqueID"] = "2422006565",
+				["OutfitPartUID"] = "3621639662",
+				["Damage"] = 80,
+				["EyeAngles"] = true,
+				["Gravity"] = false,
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(37.50634765625, 13.76806640625, 62.3935546875),
+				["Physical"] = true,
+				["Sticky"] = true,
+				["ClassName"] = "projectile",
+				["Bone"] = "",
+				["UniqueID"] = "2703541866",
+				["OutfitPartUID"] = "2749053188",
+				["Damage"] = 80,
+				["EyeAngles"] = true,
+				["Gravity"] = false,
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(52.9013671875, 24.862976074219, 64.751953125),
+				["Physical"] = true,
+				["Sticky"] = true,
+				["ClassName"] = "projectile",
+				["Bone"] = "",
+				["UniqueID"] = "1447286830",
+				["OutfitPartUID"] = "3621639662",
+				["Damage"] = 80,
+				["EyeAngles"] = true,
+				["Gravity"] = false,
+			},
+		},
+		[8] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "camera",
+				["UniqueID"] = "1874981294",
+				["Position"] = Vector(-3.052734375, 72.36376953125, -36.793884277344),
+			},
+		},
+		[9] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(-27.857940673828, 2.97509765625, -28.3681640625),
+						["Angles"] = Angle(76.525032043457, 13.371030807495, -6.2266802787781),
+						["UniqueID"] = "3738111649",
+						["TintColor"] = Vector(255, 255, 255),
+						["EditorExpand"] = true,
+						["Hide"] = true,
+						["Model"] = "models/weapons/w_knife_t.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "2993232116",
+				["Hide"] = true,
+				["Name"] = "칼날",
+				["EditorExpand"] = true,
+				["Size"] = 0,
+				["Position"] = Vector(49.063842773438, 0.000946044921875, 47.830078125),
+				["Angles"] = Angle(0, -12.576236724854, 0),
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[10] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Arguments"] = "h",
+				["Invert"] = true,
+				["RootOwner"] = false,
+				["Event"] = "button",
+				["UniqueID"] = "2946649639",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+		[11] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "1573519260",
+				["Physical"] = true,
+				["Sticky"] = true,
+				["Bone"] = "",
+				["EditorExpand"] = true,
+				["Position"] = Vector(46.702026367188, 20.759826660156, 61.3828125),
+				["ClassName"] = "projectile",
+				["OutfitPartUID"] = "2749053188",
+				["Damage"] = 80,
+				["EyeAngles"] = true,
+				["Gravity"] = false,
+			},
+		},
+		[12] = {
+			["children"] = {
+			},
+			["self"] = {
+				["URL"] = "https://www.dropbox.com/s/v504ilpyjs49n3n/checkmate.txt?dl=0",
+				["ClassName"] = "custom_animation",
+				["AnimationType"] = "stance",
+				["UniqueID"] = "2235962061",
+			},
+		},
+		[13] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "3701355907",
+				["Physical"] = true,
+				["Sticky"] = true,
+				["Bone"] = "",
+				["EditorExpand"] = true,
+				["Position"] = Vector(40.086608886719, 27.784545898438, 56.703125),
+				["ClassName"] = "projectile",
+				["OutfitPartUID"] = "2749053188",
+				["Damage"] = 80,
+				["EyeAngles"] = true,
+				["Gravity"] = false,
+			},
+		},
+		[14] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1477852348",
+				["EditorExpand"] = true,
+			},
+		},
+		[15] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(39.62158203125, 40.33740234375, 47.3173828125),
+				["Physical"] = true,
+				["Sticky"] = true,
+				["ClassName"] = "projectile",
+				["Bone"] = "",
+				["UniqueID"] = "1211609474",
+				["OutfitPartUID"] = "2749053188",
+				["Damage"] = 80,
+				["EyeAngles"] = true,
+				["Gravity"] = false,
+			},
+		},
+		[16] = {
+			["children"] = {
+			},
+			["self"] = {
+				["URL"] = "https://www.dropbox.com/s/8eujfmh7tzddx1i/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%2027.mp3?dl=0",
+				["ClassName"] = "webaudio",
+				["UniqueID"] = "3149702362",
+				["EditorExpand"] = true,
+			},
+		},
+		[17] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "2321753382",
+				["Physical"] = true,
+				["Bone"] = "",
+				["Sticky"] = true,
+				["Position"] = Vector(30.277099609375, 10.498413085938, 55.90625),
+				["EditorExpand"] = true,
+				["Damage"] = 80,
+				["ClassName"] = "projectile",
+				["OutfitPartUID"] = "1972286662",
+				["OutfitPartName"] = "칼날",
+				["EyeAngles"] = true,
+				["Gravity"] = false,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "835057261",
+		["Name"] = "체크메이트다",
+	},
+},
+[4] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Arguments"] = "30",
+				["Invert"] = true,
+				["UniqueID"] = "4243246342",
+				["Event"] = "owner_health",
+				["Operator"] = "equal or below",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "animation",
+				["UniqueID"] = "2763983166",
+				["SequenceName"] = "pose_standing_02",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "4208003917",
+						["EditorExpand"] = true,
+						["EndLength"] = 20,
+						["PositionSpread"] = 1.2,
+						["FireDelay"] = 0,
+						["Position"] = Vector(2.7412109375, -0.5504150390625, 0.849365234375),
+						["EndSize"] = 5,
+						["ClassName"] = "particles",
+						["Color1"] = Vector(0, 0, 0),
+						["Lighting"] = false,
+						["Material"] = "particle/smokesprites_0008",
+						["Angles"] = Angle(56.806831359863, -79.87996673584, -103.20845031738),
+						["DieTime"] = 0.3,
+						["Gravity"] = Vector(0, 0, 0),
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["EditorExpand"] = true,
+						["UniqueID"] = "2743642219",
+						["EndLength"] = 20,
+						["Lighting"] = false,
+						["PositionSpread"] = 1.2,
+						["FireDelay"] = 0,
+						["Position"] = Vector(4.1689453125, 1.3363037109375, 1.070068359375),
+						["EndSize"] = 5,
+						["ClassName"] = "particles",
+						["Color1"] = Vector(131, 0, 0),
+						["Spread"] = 0.3,
+						["Material"] = "particle/smokesprites_0008",
+						["Angles"] = Angle(57.341655731201, -74.867500305176, -99.000244140625),
+						["DieTime"] = 0.3,
+						["Gravity"] = Vector(0, 0, 0),
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "3746521298",
+						["Angles"] = Angle(43.69376373291, -117.21144866943, -132.51097106934),
+						["EndLength"] = 20,
+						["PositionSpread"] = 1.2,
+						["FireDelay"] = 0,
+						["Color1"] = Vector(175, 0, 0),
+						["EndSize"] = 5,
+						["ClassName"] = "particles",
+						["Position"] = Vector(4.01171875, 1.6678466796875, 0.846923828125),
+						["Spread"] = 0.3,
+						["Lighting"] = false,
+						["Material"] = "particle/smokesprites_0011",
+						["DieTime"] = 0.3,
+						["Gravity"] = Vector(0, 0, 0),
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2046910963",
+						["PositionSpread"] = 10,
+						["FireDelay"] = 0.7,
+						["Color1"] = Vector(81, 20, 20),
+						["EndSize"] = 10,
+						["ClassName"] = "particles",
+						["Position"] = Vector(4.94921875, -0.189453125, 1.401123046875),
+						["Spread"] = 0,
+						["Lighting"] = false,
+						["Material"] = "particle/smokesprites_0011",
+						["Angles"] = Angle(1.9624056816101, -170.35632324219, -179.51045227051),
+						["Gravity"] = Vector(0, 0, -100000),
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "2224662483",
+						["Angles"] = Angle(43.69376373291, -117.21144866943, -132.51097106934),
+						["PositionSpread"] = 1.2,
+						["FireDelay"] = 0,
+						["EndLength"] = 10,
+						["EndSize"] = 5,
+						["ClassName"] = "particles",
+						["Position"] = Vector(2.9599609375, -0.378662109375, -1.36181640625),
+						["Color1"] = Vector(25, 20, 20),
+						["Lighting"] = false,
+						["Material"] = "particle/smokesprites_0011",
+						["DieTime"] = 0.3,
+						["Gravity"] = Vector(0, 0, 0),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "660093098",
+				["EditorExpand"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["URL"] = "https://www.dropbox.com/s/fi2nnsbza3b6ar1/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%2092.mp3?dl=0",
+				["ClassName"] = "webaudio",
+				["UniqueID"] = "3206683637",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "custom_animation",
+				["UniqueID"] = "3526954527",
+				["URL"] = "https://www.dropbox.com/s/th1rcsac5iex5l4/no%20health.txt?dl=0",
+				["AnimationType"] = "stance",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2663939354",
+		["Name"] = "체력고갈",
+	},
+},
+[5] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Velocity"] = 1,
+														["UniqueID"] = "2918579096",
+														["EndLength"] = 100,
+														["Material"] = "particle/particle_smokegrenade1",
+														["Bone"] = "",
+														["Gravity"] = Vector(0, 0, 0),
+														["Position"] = Vector(1.8134155273438, -3.514404296875, 40.107421875),
+														["Hide"] = true,
+														["FireDelay"] = 0,
+														["DieTime"] = 0.3,
+														["Angles"] = Angle(-88.074836730957, 6.9889618316665e-005, 5.9089170463267e-006),
+														["ClassName"] = "particles",
+														["Spread"] = 5.75,
+														["PositionSpread"] = 2.7,
+														["Lighting"] = false,
+														["StartSize"] = 0,
+														["Color1"] = Vector(78, 75, 250),
+													},
+												},
+												[2] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Velocity"] = 1,
+														["DieTime"] = 0.5,
+														["UniqueID"] = "2333706922",
+														["Material"] = "particle/Particle_Ring_Sharp_Additive",
+														["Position"] = Vector(0, 0, 36),
+														["Hide"] = true,
+														["FireDelay"] = 0.7,
+														["EditorExpand"] = true,
+														["EndSize"] = 60,
+														["ClassName"] = "particles",
+														["Lighting"] = false,
+														["Spread"] = 0,
+														["StartAlpha"] = 55,
+														["Bone"] = "",
+														["StartSize"] = 0,
+														["Gravity"] = Vector(0, 0, 0),
+													},
+												},
+												[3] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Velocity"] = 1,
+														["UniqueID"] = "3418638490",
+														["EndLength"] = 100,
+														["EndSize"] = 1,
+														["Material"] = "trails/smoke",
+														["Bone"] = "",
+														["NumberParticles"] = 20,
+														["Gravity"] = Vector(0, 0, 0),
+														["DieTime"] = 0.4,
+														["Color1"] = Vector(0, 0, 0),
+														["FireDelay"] = 0.05,
+														["Color2"] = Vector(0, 0, 0),
+														["Hide"] = true,
+														["Angles"] = Angle(-90, 0, 0),
+														["Lighting"] = false,
+														["Spread"] = 0,
+														["EditorExpand"] = true,
+														["ClassName"] = "particles",
+														["StartSize"] = 1,
+														["PositionSpread"] = 7,
+													},
+												},
+												[4] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Velocity"] = 10,
+														["UniqueID"] = "1104948364",
+														["EndSize"] = 10,
+														["Material"] = "sprites/glow04_noz",
+														["Bone"] = "",
+														["NumberParticles"] = 10,
+														["Gravity"] = Vector(0, 0, 0),
+														["Position"] = Vector(0.0009765625, 0.0010986328125, 38.39453125),
+														["Lighting"] = false,
+														["FireDelay"] = 0.7,
+														["Hide"] = true,
+														["EditorExpand"] = true,
+														["Color2"] = Vector(0, 0, 0),
+														["Spread"] = 20,
+														["Angles"] = Angle(-90, 0, 0),
+														["ClassName"] = "particles",
+														["DieTime"] = 0.5,
+														["Color1"] = Vector(255, 0, 242),
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "1228995838",
+												["Hide"] = true,
+												["Name"] = "effect",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["UniqueID"] = "195182387",
+										["AffectChildren"] = true,
+										["Expression"] = "floor((min(0.1,timeex()))/0.1)",
+										["ClassName"] = "proxy",
+										["VariableName"] = "Hide",
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "3455428028",
+								["AffectChildren"] = true,
+								["Expression"] = "(floor((min(0,timeex()))/0)*(-0))+0",
+								["ClassName"] = "proxy",
+								["VariableName"] = "Hide",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Arguments"] = "r",
+												["UniqueID"] = "1159018426",
+												["Event"] = "button",
+												["ClassName"] = "event",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["Walk"] = "swimming_all",
+										["UniqueID"] = "2830836783",
+										["Jump"] = "swimming_all",
+										["SwimIdle"] = "pose_standing_02",
+										["Run"] = "swimming_all",
+										["ClassName"] = "holdtype",
+										["Swim"] = "pose_standing_02",
+										["CrouchWalk"] = "pose_standing_02",
+										["CrouchIdle"] = "pose_standing_02",
+										["StandIdle"] = "pose_standing_02",
+										["Sitting"] = "pose_standing_02",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "2893944039",
+								["EditorExpand"] = true,
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["URL"] = "https://www.dropbox.com/s/bmv3j7g54bch99h/stand%20naogo.txt?dl=0",
+										["ClassName"] = "custom_animation",
+										["AnimationType"] = "stance",
+										["UniqueID"] = "3236630705",
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "custom_animation",
+														["UniqueID"] = "742776631",
+														["URL"] = "https://www.dropbox.com/s/14n1340pmf0e2bd/THE%20WORLD%20pose.txt?dl=0",
+														["AnimationType"] = "stance",
+														["EditorExpand"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["ClassName"] = "event",
+												["UniqueID"] = "1219154060",
+												["Event"] = "speed",
+												["Operator"] = "equal",
+												["EditorExpand"] = true,
+												["Invert"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "1419204208",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "event",
+								["UniqueID"] = "1195671609",
+								["Event"] = "is_flashlight_on",
+								["EditorExpand"] = true,
+								["Invert"] = true,
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Velocity"] = 1,
+								["DieTime"] = 0.3,
+								["UniqueID"] = "3222777134",
+								["EndLength"] = 200,
+								["Lighting"] = false,
+								["PositionSpread"] = 0.9,
+								["FireDelay"] = 0,
+								["Position"] = Vector(-8.49609375, 1.1302490234375, -3.40625),
+								["Color1"] = Vector(255, 191, 0),
+								["ClassName"] = "particles",
+								["Angles"] = Angle(-88.074836730957, 6.9889618316665e-005, 5.9089170463267e-006),
+								["Spread"] = 0.35,
+								["Material"] = "particle/particle_smokegrenade",
+								["Bone"] = "",
+								["StartSize"] = 20,
+								["Gravity"] = Vector(0, 0, 0),
+							},
+						},
+						[5] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "group",
+												["UniqueID"] = "388742148",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "2145620243",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "2416965780",
+								["EditorExpand"] = true,
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://www.dropbox.com/s/gbpklus54sswqy6/zaz%20warudo.MP3?dl=0",
+								["ClassName"] = "webaudio",
+								["UniqueID"] = "3093041000",
+								["EditorExpand"] = true,
+							},
+						},
+						[7] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "3557743176",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "741852509",
+						["Model"] = "models/player/dio/world.mdl",
+						["Fullbright"] = true,
+						["Name"] = "Player",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "2655054824",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "STAND",
+				["ClassName"] = "group",
+				["UniqueID"] = "3494950673",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "1883406764",
+		["Name"] = "THE WORLD",
+	},
+},
+[6] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "94489665",
+								["Fullbright"] = true,
+								["Material"] = "https://dl.dropboxusercontent.com/s/dc2tc682abbpm12/ntxr002.png?dl=0",
+								["Size"] = 0.35,
+								["Angles"] = Angle(86.739128112793, -109.11642456055, -105.54623413086),
+								["ClassName"] = "model",
+								["Bone"] = "eyes",
+								["Model"] = "https://www.dropbox.com/s/wp2yb7fgtszy695/%EB%88%88.obj?dl=0",
+								["Position"] = Vector(6.1627197265625, -62.440063476563, -7.021484375),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Event"] = "is_flashlight_on",
+								["EditorExpand"] = true,
+								["UniqueID"] = "4188571612",
+								["ClassName"] = "event",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Walk"] = "walk_all",
+								["UniqueID"] = "483419437",
+								["Jump"] = "pose_standing_02",
+								["Run"] = "run_all_02",
+								["ClassName"] = "holdtype",
+								["Air"] = "swimming_all",
+								["CrouchWalk"] = "walk_all",
+								["Noclip"] = "pose_standing_02",
+								["StandIdle"] = "pose_standing_02",
+								["EditorExpand"] = true,
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+								["UniqueID"] = "3576791842",
+								["ClassName"] = "model",
+								["Position"] = Vector(-67.4599609375, -15.396728515625, 2.0421142578125),
+								["Fullbright"] = true,
+								["Model"] = "https://www.dropbox.com/s/kdkp3ltf3mr5gf3/3%EB%B6%80%EB%89%B4%EB%89%B4.obj?dl=0",
+								["Angles"] = Angle(84.918067932129, -96.336967468262, -110.76733398438),
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "14995854",
+								["Fullbright"] = true,
+								["Material"] = "https://dl.dropboxusercontent.com/s/dc2tc682abbpm12/ntxr002.png?dl=0",
+								["Size"] = 0.35,
+								["Angles"] = Angle(86.739128112793, -109.11642456055, -105.54623413086),
+								["ClassName"] = "model",
+								["Bone"] = "eyes",
+								["Model"] = "https://www.dropbox.com/s/wp2yb7fgtszy695/%EB%88%88.obj?dl=0",
+								["Position"] = Vector(6.0267333984375, -64.793823242188, -6.97265625),
+							},
+						},
+						[6] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "event",
+										["UniqueID"] = "2338073565",
+										["Event"] = "is_in_noclip",
+										["EditorExpand"] = true,
+										["Invert"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Velocity"] = 1,
+										["UniqueID"] = "13431745",
+										["EndLength"] = 200,
+										["EndSize"] = 50,
+										["Material"] = "particle/particle_smokegrenade",
+										["Bone"] = "",
+										["Gravity"] = Vector(0, 0, 0),
+										["Position"] = Vector(-0.130859375, 1.12548828125, -7.5205078125),
+										["Lighting"] = false,
+										["FireDelay"] = 0,
+										["ClassName"] = "particles",
+										["DieTime"] = 0.3,
+										["Spread"] = 0.35,
+										["Color1"] = Vector(255, 191, 0),
+										["Angles"] = Angle(-88.074836730957, 6.9889618316665e-005, 5.9089170463267e-006),
+										["StartSize"] = 50,
+										["PositionSpread"] = 0.9,
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "2505858140",
+								["EditorExpand"] = true,
+							},
+						},
+						[7] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["UniqueID"] = "1645916691",
+										["Bone"] = "hair 05",
+										["Size"] = 0,
+										["ClassName"] = "bone",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "bone",
+										["UniqueID"] = "4213532190",
+										["Size"] = 0,
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Size"] = 0,
+										["Bone"] = "hair 1",
+										["UniqueID"] = "1506201508",
+										["ClassName"] = "bone",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["UniqueID"] = "2469518237",
+										["Bone"] = "hair 4",
+										["Size"] = 0,
+										["ClassName"] = "bone",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "796574206",
+								["EditorExpand"] = true,
+							},
+						},
+						[8] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "2200539393",
+								["Fullbright"] = true,
+								["Material"] = "https://dl.dropboxusercontent.com/s/5w1eacsgb7ocyol/ntxr000.png?dl=0",
+								["Size"] = 0.95,
+								["Angles"] = Angle(-2.1944651962258e-006, 90.386100769043, 6.4116403564185e-007),
+								["ClassName"] = "model",
+								["Bone"] = "chest",
+								["Model"] = "https://www.dropbox.com/s/efc3699d2mrqih4/3%EB%B6%80%20%EC%9E%AC%ED%82%B7.obj?dl=0",
+								["Position"] = Vector(-3.2327880859375, -0.0604248046875, -55.203125),
+							},
+						},
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "2258434987",
+						["Model"] = "models/player/dio/dio1.mdl",
+						["Fullbright"] = true,
+						["Name"] = "기본",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "custom_animation",
+												["UniqueID"] = "2365927527",
+												["URL"] = "https://www.dropbox.com/s/bcq13phq7j4bvv2/DIO%20pose.txt?dl=0",
+												["AnimationType"] = "stance",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "event",
+										["UniqueID"] = "2711633936",
+										["Event"] = "speed",
+										["Operator"] = "equal",
+										["EditorExpand"] = true,
+										["Invert"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Event"] = "is_flashlight_on",
+								["EditorExpand"] = true,
+								["UniqueID"] = "477640742",
+								["ClassName"] = "event",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "718655886",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "dio brando",
+				["ClassName"] = "group",
+				["UniqueID"] = "1691207280",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2726372081",
+		["Name"] = "DIO",
+	},
+},
+[7] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "animation",
+				["UniqueID"] = "3416135671",
+				["SequenceName"] = "pose_standing_02",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "event",
+								["UniqueID"] = "723338835",
+								["Event"] = "timer",
+								["Arguments"] = "0.01@@0.01",
+								["Invert"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["DamageType"] = "blast",
+						["UniqueID"] = "4051710673",
+						["Physical"] = true,
+						["Sticky"] = true,
+						["LifeTime"] = 0.2,
+						["ClassName"] = "projectile",
+						["Bone"] = "right hand",
+						["Spread"] = 0.6,
+						["EditorExpand"] = true,
+						["Damage"] = 10000,
+						["EyeAngles"] = true,
+						["Gravity"] = false,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "damage",
+				["ClassName"] = "group",
+				["UniqueID"] = "715161225",
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "https://www.dropbox.com/s/6cx6naw26h21zxp/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%2042.mp3?dl=0",
+						["ClassName"] = "webaudio",
+						["UniqueID"] = "876603542",
+						["EditorExpand"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "custom_animation",
+						["UniqueID"] = "4163781087",
+						["URL"] = "https://www.dropbox.com/s/w87x2fbhowrdgvf/this%20is%20the%20world.txt?dl=0",
+						["AnimationType"] = "stance",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "e",
+				["Invert"] = true,
+				["Event"] = "button",
+				["UniqueID"] = "488686062",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2932299665",
+		["Name"] = "이것이더월드다 공격",
+	},
+},
+[8] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["UniqueID"] = "3602252724",
+				["Hide"] = true,
+				["Bone"] = "",
+				["Position"] = Vector(-106.09875488281, -0.00041961669921875, 90),
+				["ClassName"] = "camera",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2231003248",
+		["Name"] = "3인칭",
+	},
+},
+[9] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "custom_animation",
+				["UniqueID"] = "3008977992",
+				["URL"] = "https://www.dropbox.com/s/407umru0xk1fuqk/rush%20remake.txt?dl=0",
+				["AnimationType"] = "stance",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "animation",
+						["UniqueID"] = "3838411618",
+						["SequenceName"] = "pose_standing_02",
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "r",
+				["Invert"] = true,
+				["Event"] = "button",
+				["UniqueID"] = "2925141529",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(8.2816040958278e-005, -85.910270690918, 1.3873822354071e-005),
+										["ClassName"] = "clip",
+										["UniqueID"] = "405165851",
+										["Position"] = Vector(-11.4736328125, -0.01806640625, 0.003570556640625),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3082465862",
+								["BlurSpacing"] = 5,
+								["Fullbright"] = true,
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Angles"] = Angle(-5.8787484169006, 88.149620056152, -46.209163665771),
+								["BlurLength"] = 2,
+								["Bone"] = "",
+								["Model"] = "models/player/dio/worldarms.mdl",
+								["Position"] = Vector(80.820068359375, 6.240234375, -41.0166015625),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Expression"] = "sin(time()*31)^1*16",
+								["ClassName"] = "proxy",
+								["UniqueID"] = "1478500473",
+								["VariableName"] = "Position",
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(-11.707601547241, -15.0361328125, 57.0078125),
+						["Angles"] = Angle(-0.13245728611946, 3.7289009094238, 2.2600874900818),
+						["UniqueID"] = "1934885646",
+						["Size"] = 0,
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(8.2816040958278e-005, -85.910270690918, 1.3873822354071e-005),
+										["UniqueID"] = "675770224",
+										["EditorExpand"] = true,
+										["Position"] = Vector(-11.4736328125, -0.01806640625, 0.003570556640625),
+										["ClassName"] = "clip",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "2045186347",
+								["BlurSpacing"] = 5,
+								["Fullbright"] = true,
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Angles"] = Angle(-5.8787484169006, 88.149620056152, -46.209163665771),
+								["BlurLength"] = 2,
+								["Bone"] = "",
+								["Model"] = "models/player/dio/worldarms.mdl",
+								["Position"] = Vector(106.12158203125, 7.6650390625, -56.59765625),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Expression"] = "sin(time()*47)^1*13",
+								["ClassName"] = "proxy",
+								["UniqueID"] = "3108893416",
+								["VariableName"] = "Position",
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(-8.184196472168, 0.5616455078125, 96.7216796875),
+						["Angles"] = Angle(25.24107170105, -11.413293838501, 0),
+						["UniqueID"] = "1421659369",
+						["Size"] = 0,
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "proxy",
+								["UniqueID"] = "2126370552",
+								["Expression"] = "sin(time()*59)^1*21",
+								["EditorExpand"] = true,
+								["VariableName"] = "Position",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(8.2816040958278e-005, -85.910270690918, 1.3873822354071e-005),
+										["ClassName"] = "clip",
+										["UniqueID"] = "1809198398",
+										["Position"] = Vector(-11.4736328125, -0.01806640625, 0.003570556640625),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "2263824042",
+								["BlurSpacing"] = 5,
+								["Fullbright"] = true,
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Angles"] = Angle(-5.8787484169006, 88.149620056152, -46.209163665771),
+								["BlurLength"] = 2,
+								["Bone"] = "",
+								["Model"] = "models/player/dio/worldarms.mdl",
+								["Position"] = Vector(91.878173828125, 5.29541015625, -29.3955078125),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(-10.955745697021, 6.522216796875, 49.1650390625),
+						["Angles"] = Angle(3.3491489887238, -11.41329574585, 0),
+						["UniqueID"] = "1202182755",
+						["Size"] = 0,
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[4] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Expression"] = "sin(time()*60)^1*20",
+								["ClassName"] = "proxy",
+								["UniqueID"] = "273814722",
+								["VariableName"] = "Position",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(8.2816040958278e-005, -85.910270690918, 1.3873822354071e-005),
+										["ClassName"] = "clip",
+										["UniqueID"] = "1930267106",
+										["Position"] = Vector(-11.4736328125, -0.01806640625, 0.003570556640625),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "2350835705",
+								["BlurSpacing"] = 5,
+								["Fullbright"] = true,
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Angles"] = Angle(-5.8787484169006, 88.149620056152, -46.209163665771),
+								["BlurLength"] = 2,
+								["Bone"] = "",
+								["Model"] = "models/player/dio/worldarms.mdl",
+								["Position"] = Vector(78.60888671875, 3.520263671875, -19.6171875),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(2.6733331680298, 5.7880859375, 44.5224609375),
+						["Angles"] = Angle(-4.8504095077515, -11.413283348083, 0),
+						["UniqueID"] = "3410990021",
+						["Size"] = 0,
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[5] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "proxy",
+								["UniqueID"] = "3851562007",
+								["Expression"] = "sin(time()*39)^1*14",
+								["EditorExpand"] = true,
+								["VariableName"] = "Position",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(8.2816040958278e-005, -85.910270690918, 1.3873822354071e-005),
+										["ClassName"] = "clip",
+										["UniqueID"] = "3304734910",
+										["Position"] = Vector(-11.4736328125, -0.01806640625, 0.003570556640625),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3849090959",
+								["Position"] = Vector(88.5048828125, 5.512451171875, -23.9091796875),
+								["EditorExpand"] = true,
+								["Fullbright"] = true,
+								["ClassName"] = "model",
+								["BlurLength"] = 2,
+								["Bone"] = "",
+								["Model"] = "models/player/dio/worldarms.mdl",
+								["Angles"] = Angle(4.9009199142456, 76.9755859375, -46.113288879395),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(-13.965777397156, -21.316162109375, 30.1552734375),
+						["Angles"] = Angle(-19.415662765503, -4.5597043037415, 0),
+						["UniqueID"] = "1036591088",
+						["Size"] = 0,
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[6] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(8.2816040958278e-005, -85.910270690918, 1.3873822354071e-005),
+										["ClassName"] = "clip",
+										["UniqueID"] = "1273255455",
+										["Position"] = Vector(-11.4736328125, -0.01806640625, 0.003570556640625),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3413414386",
+								["BlurSpacing"] = 5,
+								["Fullbright"] = true,
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Angles"] = Angle(-5.8787484169006, 88.149620056152, -46.209163665771),
+								["BlurLength"] = 2,
+								["Bone"] = "",
+								["Model"] = "models/player/dio/worldarms.mdl",
+								["Position"] = Vector(98.8310546875, -7.07080078125, -31.2841796875),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Expression"] = "sin(time()*40)^1*20",
+								["ClassName"] = "proxy",
+								["UniqueID"] = "2233966317",
+								["VariableName"] = "Position",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "4041180850",
+						["BlurSpacing"] = 5,
+						["Position"] = Vector(-16.358774185181, 10.501708984375, 40.68359375),
+						["EditorExpand"] = true,
+						["Size"] = 0,
+						["ClassName"] = "model",
+						["BlurLength"] = 2,
+						["Bone"] = "",
+						["Model"] = "models/pac/default.mdl",
+						["Angles"] = Angle(-6.7024354934692, -11.413281440735, 0),
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "left",
+				["ClassName"] = "group",
+				["UniqueID"] = "1401018972",
+				["EditorExpand"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Expression"] = "sin(time()*63)^1*18",
+								["ClassName"] = "proxy",
+								["UniqueID"] = "1606815879",
+								["VariableName"] = "Position",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.5367926607723e-005, 90.738891601563, -5.2400358981686e-005),
+										["UniqueID"] = "494394437",
+										["EditorExpand"] = true,
+										["Position"] = Vector(-8.3408203125, -0.00048828125, -0.00054931640625),
+										["ClassName"] = "clip",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "1341239318",
+								["BlurSpacing"] = 5,
+								["Fullbright"] = true,
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Angles"] = Angle(-22.203355789185, -101.48971557617, 38.754550933838),
+								["BlurLength"] = 2,
+								["Bone"] = "",
+								["Model"] = "models/player/dio/worldarms.mdl",
+								["Position"] = Vector(101.76220703125, -38.665100097656, 20.7919921875),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(14.732906341553, -6.815185546875, -12.2158203125),
+						["Angles"] = Angle(-16.79811668396, 18.823427200317, 0),
+						["UniqueID"] = "2823499766",
+						["Size"] = 0,
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.5367926607723e-005, 90.738891601563, -5.2400358981686e-005),
+										["ClassName"] = "clip",
+										["UniqueID"] = "1494912672",
+										["Position"] = Vector(-8.3408203125, -0.00048828125, -0.00054931640625),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "1872924721",
+								["BlurSpacing"] = 5,
+								["Fullbright"] = true,
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Angles"] = Angle(6.9454779624939, -102.9927520752, 20.990339279175),
+								["BlurLength"] = 2,
+								["Bone"] = "",
+								["Model"] = "models/player/dio/worldarms.mdl",
+								["Position"] = Vector(81.56982421875, 27.960205078125, 14.064453125),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Expression"] = "sin(time()*43)^1*18",
+								["ClassName"] = "proxy",
+								["UniqueID"] = "2437719024",
+								["VariableName"] = "Position",
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(15.966934204102, -21.352783203125, -27.63671875),
+						["Angles"] = Angle(-10.599547386169, 10.48664188385, 0),
+						["UniqueID"] = "2446076065",
+						["Size"] = 0,
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "proxy",
+								["UniqueID"] = "3740823668",
+								["Expression"] = "sin(time()*26)^1*17",
+								["EditorExpand"] = true,
+								["VariableName"] = "Position",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.5367926607723e-005, 90.738891601563, -5.2400358981686e-005),
+										["ClassName"] = "clip",
+										["UniqueID"] = "893468105",
+										["Position"] = Vector(-8.3408203125, -0.00048828125, -0.00054931640625),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "653935905",
+								["BlurSpacing"] = 5,
+								["Fullbright"] = true,
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Angles"] = Angle(6.9454779624939, -102.9927520752, 49.01375579834),
+								["BlurLength"] = 2,
+								["Bone"] = "",
+								["Model"] = "models/player/dio/worldarms.mdl",
+								["Position"] = Vector(72.388671875, 3.80908203125, 0.7568359375),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(15.102590560913, -25.943115234375, 23.9287109375),
+						["Angles"] = Angle(18.106908798218, 18.823429107666, 0),
+						["UniqueID"] = "2087764412",
+						["Size"] = 0,
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[4] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "proxy",
+								["UniqueID"] = "2717706345",
+								["Expression"] = "sin(time()*73)^1*11",
+								["EditorExpand"] = true,
+								["VariableName"] = "Position",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.5367926607723e-005, 90.738891601563, -5.2400358981686e-005),
+										["UniqueID"] = "3665330471",
+										["EditorExpand"] = true,
+										["Position"] = Vector(-8.3408203125, -0.00048828125, -0.00054931640625),
+										["ClassName"] = "clip",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3154727929",
+								["BlurSpacing"] = 5,
+								["Fullbright"] = true,
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Angles"] = Angle(-22.24080657959, -102.31964874268, 39.704856872559),
+								["BlurLength"] = 2,
+								["Bone"] = "",
+								["Model"] = "models/player/dio/worldarms.mdl",
+								["Position"] = Vector(104.82080078125, -46.30078125, 19.2548828125),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(4.4133629798889, 8.090087890625, -12.986328125),
+						["Angles"] = Angle(-16.79811668396, 18.823427200317, 0),
+						["UniqueID"] = "3126181984",
+						["Size"] = 0,
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[5] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Expression"] = "sin(time()*40)^1*25",
+								["ClassName"] = "proxy",
+								["UniqueID"] = "1213898498",
+								["VariableName"] = "Position",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.5367926607723e-005, 90.738891601563, -5.2400358981686e-005),
+										["UniqueID"] = "1447092195",
+										["EditorExpand"] = true,
+										["Position"] = Vector(-8.3408203125, -0.00048828125, -0.00054931640625),
+										["ClassName"] = "clip",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3938044375",
+								["BlurSpacing"] = 5,
+								["Fullbright"] = true,
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Angles"] = Angle(6.9454779624939, -102.9927520752, 49.01375579834),
+								["BlurLength"] = 2,
+								["Bone"] = "",
+								["Model"] = "models/player/dio/worldarms.mdl",
+								["Position"] = Vector(103.96337890625, 4.096923828125, 31.40234375),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(-20.448469161987, -28.790649414063, 2.216796875),
+						["Angles"] = Angle(1.9704291820526, 18.823427200317, 0),
+						["UniqueID"] = "292235850",
+						["Size"] = 0,
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[6] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "proxy",
+								["UniqueID"] = "111304236",
+								["Expression"] = "sin(time()*53)^1*14",
+								["EditorExpand"] = true,
+								["VariableName"] = "Position",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.5367926607723e-005, 90.738891601563, -5.2400358981686e-005),
+										["UniqueID"] = "3006870779",
+										["EditorExpand"] = true,
+										["Position"] = Vector(-8.3408203125, -0.00048828125, -0.00054931640625),
+										["ClassName"] = "clip",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "4121411504",
+								["BlurSpacing"] = 5,
+								["Fullbright"] = true,
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Angles"] = Angle(11.403164863586, -76.367897033691, 36.244876861572),
+								["BlurLength"] = 2,
+								["Bone"] = "",
+								["Model"] = "models/player/dio/worldarms.mdl",
+								["Position"] = Vector(85.2900390625, 0.68896484375, 5.93896484375),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(13.969457626343, -1.153564453125, -15.2880859375),
+						["Angles"] = Angle(-16.79811668396, 18.823427200317, 0),
+						["UniqueID"] = "2379020118",
+						["Size"] = 0,
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "right",
+				["ClassName"] = "group",
+				["UniqueID"] = "2496847644",
+				["EditorExpand"] = true,
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(10.16912651062, 6.6664977073669, 1.9949027299881),
+				["Position"] = Vector(3.8721923828125, -21.994079589844, -5.8173828125),
+				["UniqueID"] = "3127118829",
+				["Bone"] = "",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["URL"] = "https://www.dropbox.com/s/xfwypexyzonpyb5/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%2003.mp3?dl=0",
+				["ClassName"] = "webaudio",
+				["UniqueID"] = "136456819",
+				["Loop"] = true,
+			},
+		},
+		[7] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "0.2@@0.2",
+								["UniqueID"] = "2270768884",
+								["Event"] = "timer",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["DamageType"] = "nevergib",
+						["UniqueID"] = "3802868545",
+						["Speed"] = 2,
+						["BulletImpact"] = true,
+						["Physical"] = true,
+						["Sticky"] = true,
+						["LifeTime"] = 0.04,
+						["ClassName"] = "projectile",
+						["Radius"] = 10,
+						["Spread"] = 0.15,
+						["EditorExpand"] = true,
+						["Damage"] = 45,
+						["EyeAngles"] = true,
+						["Gravity"] = false,
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "0.2@@0.2",
+								["UniqueID"] = "275438998",
+								["Event"] = "timer",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["DamageType"] = "nevergib",
+						["UniqueID"] = "1211788942",
+						["Speed"] = 2,
+						["BulletImpact"] = true,
+						["Physical"] = true,
+						["Sticky"] = true,
+						["LifeTime"] = 0.04,
+						["ClassName"] = "projectile",
+						["Radius"] = 10,
+						["Spread"] = 0.15,
+						["EditorExpand"] = true,
+						["Damage"] = 45,
+						["EyeAngles"] = true,
+						["Gravity"] = false,
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Arguments"] = "0.2@@0.2",
+								["UniqueID"] = "2388337526",
+								["Event"] = "timer",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["DamageType"] = "nevergib",
+						["UniqueID"] = "18432073",
+						["Speed"] = 2,
+						["BulletImpact"] = true,
+						["Physical"] = true,
+						["Sticky"] = true,
+						["LifeTime"] = 0.04,
+						["ClassName"] = "projectile",
+						["Radius"] = 10,
+						["Spread"] = 0.15,
+						["EditorExpand"] = true,
+						["Damage"] = 45,
+						["EyeAngles"] = true,
+						["Gravity"] = false,
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "데미지",
+				["ClassName"] = "group",
+				["UniqueID"] = "2911862712",
+				["EditorExpand"] = true,
+			},
+		},
+		[8] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 160,
+						["UniqueID"] = "1428535636",
+						["DieTime"] = 0.2,
+						["Material"] = "particle/Particle_Ring_Wave_AddNoFog",
+						["Color1"] = Vector(96, 96, 96),
+						["FireDelay"] = 0.1,
+						["Position"] = Vector(62.291259765625, -1.8699951171875, 54.9189453125),
+						["EndSize"] = 50,
+						["ClassName"] = "particles",
+						["Angles"] = Angle(2.0335595607758, -6.5611343383789, -0.071592107415199),
+						["Spread"] = 0,
+						["EditorExpand"] = true,
+						["Bone"] = "",
+						["StartSize"] = 5,
+						["Gravity"] = Vector(0, 0, 0),
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "2429374243",
+						["DieTime"] = 0.3,
+						["EndLength"] = 150,
+						["PositionSpread"] = 27.8,
+						["FireDelay"] = 0,
+						["Material"] = "particle/particle_smokegrenade",
+						["Position"] = Vector(51.67919921875, -2.1167144775391, 54.6484375),
+						["ClassName"] = "particles",
+						["EditorExpand"] = true,
+						["Spread"] = 1.5,
+						["Angles"] = Angle(-1.1019921302795, -4.7909269332886, 0.092355541884899),
+						["Bone"] = "",
+						["StartSize"] = 20,
+						["Gravity"] = Vector(0, 0, 0),
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "4190152619",
+						["3D"] = true,
+						["EndSize"] = 10,
+						["Material"] = "particle/Particle_Ring_Wave_AddNoFog",
+						["Bone"] = "",
+						["Gravity"] = Vector(0, 0, 0),
+						["Position"] = Vector(101.373046875, 5.7119445800781, 61.4638671875),
+						["PositionSpread"] = 20,
+						["FireDelay"] = 0,
+						["ClassName"] = "particles",
+						["DieTime"] = 0.2,
+						["Spread"] = 0,
+						["Angles"] = Angle(-83.087875366211, 5.6256504058838, 77.013870239258),
+						["EditorExpand"] = true,
+						["StartSize"] = 5,
+						["Color1"] = Vector(252, 252, 252),
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["DieTime"] = 0.3,
+						["UniqueID"] = "4208700161",
+						["EndLength"] = 300,
+						["Material"] = "particle/particle_smokegrenade",
+						["Lighting"] = false,
+						["FireDelay"] = 0,
+						["Position"] = Vector(16.810806274414, -2.2174072265625, 10.041015625),
+						["Color1"] = Vector(255, 191, 0),
+						["ClassName"] = "particles",
+						["EditorExpand"] = true,
+						["Spread"] = 0.5,
+						["Angles"] = Angle(-62.745002746582, 8.0166282714345e-005, 0),
+						["Bone"] = "",
+						["StartSize"] = 20,
+						["Gravity"] = Vector(0, 0, 0),
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "이팩트",
+				["ClassName"] = "group",
+				["UniqueID"] = "799885576",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "1993794144",
+		["Name"] = "무다러쉬",
+	},
+},
+[10] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "2567889869",
+						["Event"] = "is_flashlight_on",
+						["EditorExpand"] = true,
+						["Invert"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "event",
+								["UniqueID"] = "2042563081",
+								["Event"] = "is_flashlight_on",
+								["EditorExpand"] = true,
+								["Invert"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Name"] = "자세",
+						["ClassName"] = "group",
+						["UniqueID"] = "1275740575",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(0, 0.20472128689289, 0),
+				["Position"] = Vector(29.459350585938, 21.722045898438, 19.0625),
+				["UniqueID"] = "2786685120",
+				["Bone"] = "",
+				["ClassName"] = "bone",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["HideEntity"] = true,
+				["UniqueID"] = "3179244432",
+				["ClassName"] = "entity",
+				["DrawWeapon"] = false,
+				["Skin"] = 1,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "서기",
+		["ClassName"] = "group",
+		["UniqueID"] = "2106853578",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[11] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["UniqueID"] = "4089476317",
+				["Hide"] = true,
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "393134234",
+						["ParticleAngleVelocity"] = Vector(0, 0, 0),
+						["EndSize"] = -1,
+						["Material"] = "particle/warp3_warp_NoZ",
+						["Color2"] = Vector(0, 0, 0),
+						["Gravity"] = Vector(0, 0, 0),
+						["Collide"] = false,
+						["Sliding"] = false,
+						["Lighting"] = false,
+						["FireDelay"] = 0,
+						["ClassName"] = "particles",
+						["Spread"] = 0,
+						["DieTime"] = 0.2,
+						["EditorExpand"] = true,
+						["StartSize"] = 0,
+						["Color1"] = Vector(0, 0, 0),
+					},
+				},
+			},
+			["self"] = {
+				["URL"] = "https://www.dropbox.com/s/llyher5jb6wjipy/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%2026.mp3?dl=0",
+				["ClassName"] = "webaudio",
+				["UniqueID"] = "3434974285",
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "command",
+				["UniqueID"] = "3415371203",
+				["String"] = "ulx teleport \"Kaonashi\"",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "282876585",
+				["Event"] = "button",
+				["Arguments"] = "g",
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "사라졌다!!",
+		["ClassName"] = "group",
+		["UniqueID"] = "3908062677",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[12] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "https://www.dropbox.com/s/hfah75xdvpbqcho/last%20one.txt?dl=0",
+						["ClassName"] = "custom_animation",
+						["AnimationType"] = "stance",
+						["UniqueID"] = "239088872",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2436664793",
+						["Physical"] = true,
+						["Sticky"] = true,
+						["Bone"] = "",
+						["ClassName"] = "projectile",
+						["Position"] = Vector(6.3683166503906, -0.006591796875, 35.12890625),
+						["OutfitPartName"] = "칼날",
+						["OutfitPartUID"] = "1972286662",
+						["Damage"] = 1000,
+						["EyeAngles"] = true,
+						["Gravity"] = false,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Arguments"] = "x",
+						["Invert"] = true,
+						["RootOwner"] = false,
+						["Event"] = "button",
+						["UniqueID"] = "3766012215",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "animation",
+						["UniqueID"] = "4191230600",
+						["SequenceName"] = "pose_standing_02",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "https://www.dropbox.com/s/4wh371trb6kztrk/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%2045.mp3?dl=0",
+						["ClassName"] = "webaudio",
+						["UniqueID"] = "2460515130",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "721218289",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(-27.857940673828, 2.97509765625, -28.3681640625),
+								["Angles"] = Angle(76.525032043457, 13.371030807495, -6.2266802787781),
+								["UniqueID"] = "2385502698",
+								["TintColor"] = Vector(255, 255, 255),
+								["EditorExpand"] = true,
+								["Hide"] = true,
+								["Model"] = "models/weapons/w_knife_t.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "1972286662",
+						["Hide"] = true,
+						["Name"] = "칼날",
+						["EditorExpand"] = true,
+						["Size"] = 0,
+						["Position"] = Vector(49.063842773438, 0.000946044921875, 47.830078125),
+						["Angles"] = Angle(0, -12.576236724854, 0),
+						["Bone"] = "",
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "3620358753",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "마지막 한자루더",
+		["ClassName"] = "group",
+		["UniqueID"] = "2037693267",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
+[13] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "animation",
+				["UniqueID"] = "2528381475",
+				["SequenceName"] = "pose_standing_02",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "2284418729",
+						["Event"] = "timer",
+						["Arguments"] = "0.2@@0.2",
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["DamageType"] = "heal",
+				["UniqueID"] = "750675716",
+				["Position"] = Vector(-61.254425048828, 1.7193298339844, 52.193359375),
+				["Physical"] = true,
+				["DamageRadius"] = 100,
+				["Bone"] = "",
+				["Mass"] = 10,
+				["ClassName"] = "projectile",
+				["EditorExpand"] = true,
+				["Radius"] = 0,
+				["OutfitPartUID"] = "984071067",
+				["Damage"] = 5,
+				["CollideWithOwner"] = true,
+				["Gravity"] = false,
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Arguments"] = "n",
+				["Invert"] = true,
+				["Event"] = "button",
+				["UniqueID"] = "342941809",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Velocity"] = 1,
+				["UniqueID"] = "1325506548",
+				["EndLength"] = 50,
+				["EndSize"] = 25,
+				["Material"] = "particle/smokesprites_0015",
+				["Bone"] = "right hand",
+				["Gravity"] = Vector(0, 0, 0),
+				["Position"] = Vector(-0.1318359375, -0.5615234375, -0.00439453125),
+				["Lighting"] = false,
+				["FireDelay"] = 0,
+				["DieTime"] = 0.3,
+				["Angles"] = Angle(-3.0735849577468e-005, -13.258052825928, 4.2688683606684e-005),
+				["StartLength"] = 10,
+				["Spread"] = 2.8,
+				["PositionSpread"] = 1.2,
+				["ClassName"] = "particles",
+				["StartSize"] = 10,
+				["Color1"] = Vector(161, 0, 0),
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "327600525",
+						["Event"] = "timer",
+						["Arguments"] = "0.2@@0.2",
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["DamageType"] = "poison",
+				["Bone"] = "",
+				["UniqueID"] = "1514511150",
+				["Mass"] = 10,
+				["EditorExpand"] = true,
+				["Physical"] = true,
+				["Position"] = Vector(-61.254425048828, 1.7193298339844, 52.193359375),
+				["Sticky"] = true,
+				["LifeTime"] = 0.2,
+				["ClassName"] = "projectile",
+				["DamageRadius"] = 100,
+				["Radius"] = 0,
+				["OutfitPartUID"] = "2720097957",
+				["Damage"] = 70,
+				["EyeAngles"] = true,
+				["Gravity"] = false,
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["URL"] = "https://www.dropbox.com/s/qj22hxo7896dqn9/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%2094.mp3?dl=0",
+				["ClassName"] = "webaudio",
+				["UniqueID"] = "791596200",
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "custom_animation",
+				["Data"] = "{\"Type\":2,\"FrameData\":[{\"FrameRate\":20,\"BoneInfo\":{\"ValveBiped.Bip01_R_Calf\":{\"RU\":19.8699,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":-0.0001,\"RF\":25.4381},\"ValveBiped.Bip01_R_Thigh\":{\"RU\":-8.017799999999999,\"MU\":0.229,\"MF\":-1.8606,\"MR\":-0.5273,\"RR\":5.9627,\"RF\":0.823},\"ValveBiped.Bip01_L_Hand\":{\"RU\":-30.8278,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":4.0445,\"RF\":-2.4102},\"ValveBiped.Bip01_Head1\":{\"RU\":7.5666,\"MU\":1.4507,\"MF\":-0.2754,\"MR\":-0.4087,\"RR\":-10.371,\"RF\":-36.4231},\"ValveBiped.Bip01_L_UpperArm\":{\"RU\":-2.5069,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":3.6148,\"RF\":-50.059},\"ValveBiped.Bip01_Pelvis\":{\"RU\":0.0004,\"MU\":-3.5808,\"RR\":85.2542,\"MR\":-0.1318,\"MF\":-2.3993,\"RF\":0.0006},\"ValveBiped.Bip01_L_Forearm\":{\"RU\":14.7346,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":-11.9729,\"RF\":24.1711},\"ValveBiped.Bip01_R_UpperArm\":{\"RU\":34.7531,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":57.8614,\"RF\":67.22669999999999},\"ValveBiped.Bip01_L_Calf\":{\"RU\":20.0696,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":5.3165,\"RF\":21.7696},\"ValveBiped.Bip01_Spine1\":{\"RU\":12.628,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0.0001,\"RF\":0},\"ValveBiped.Bip01_R_Forearm\":{\"RU\":53.6421,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":14.3406,\"RF\":3.2608},\"ValveBiped.Bip01_Spine4\":{\"RU\":14.2849,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0.0001,\"RF\":-0.0001},\"ValveBiped.Bip01_Spine\":{\"RU\":-4.6251,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":0,\"RF\":0.0001},\"ValveBiped.Bip01_L_Thigh\":{\"RU\":9.7959,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":-22.7348,\"RF\":0.0005},\"ValveBiped.Bip01_R_Hand\":{\"RU\":18.4163,\"MU\":0,\"MF\":0,\"MR\":0,\"RR\":-35.6968,\"RF\":-0.3612}}},{\"FrameRate\":20,\"BoneInfo\":{\"ValveBiped.Bip01_R_Calf\":{\"RU\":19.8699,\"MU\":0,\"RR\":-0.0001,\"MR\":0,\"MF\":0,\"RF\":25.4381},\"ValveBiped.Bip01_R_Thigh\":{\"RU\":-8.017799999999999,\"MU\":0.229,\"RR\":5.9627,\"MR\":-0.5273,\"MF\":-1.8606,\"RF\":0.823},\"ValveBiped.Bip01_R_Hand\":{\"RU\":18.4163,\"MU\":0,\"RR\":-35.6968,\"MR\":0,\"MF\":0,\"RF\":-0.3612},\"ValveBiped.Bip01_Head1\":{\"RU\":7.5666,\"MU\":1.4507,\"RR\":-10.371,\"MR\":-0.4087,\"MF\":-0.2754,\"RF\":-36.4231},\"ValveBiped.Bip01_L_Thigh\":{\"RU\":9.7959,\"MU\":0,\"RR\":-22.7348,\"MR\":0,\"MF\":0,\"RF\":0.0005},\"ValveBiped.Bip01_Spine\":{\"RU\":-4.6251,\"MU\":0,\"RR\":0,\"MR\":0,\"MF\":0,\"RF\":0.0001},\"ValveBiped.Bip01_L_Forearm\":{\"RU\":14.7346,\"MU\":0,\"RR\":-11.9729,\"MR\":0,\"MF\":0,\"RF\":24.1711},\"ValveBiped.Bip01_R_UpperArm\":{\"RU\":34.7531,\"MU\":0,\"RR\":57.8614,\"MR\":0,\"MF\":0,\"RF\":67.22669999999999},\"ValveBiped.Bip01_L_Calf\":{\"RU\":20.0696,\"MU\":0,\"RR\":5.3165,\"MR\":0,\"MF\":0,\"RF\":21.7696},\"ValveBiped.Bip01_Spine1\":{\"RU\":12.628,\"MU\":0,\"RR\":0.0001,\"MR\":0,\"MF\":0,\"RF\":0},\"ValveBiped.Bip01_R_Forearm\":{\"RU\":56.8559,\"MU\":0,\"RR\":14.1418,\"MR\":0,\"MF\":0,\"RF\":4.0516},\"ValveBiped.Bip01_Spine4\":{\"RU\":14.2849,\"MU\":0,\"RR\":0.0001,\"MR\":0,\"MF\":0,\"RF\":-0.0001},\"ValveBiped.Bip01_Pelvis\":{\"RU\":0.0004,\"MU\":-3.5808,\"MF\":-2.3993,\"MR\":-0.1318,\"RR\":85.2542,\"RF\":0.0006},\"ValveBiped.Bip01_L_UpperArm\":{\"RU\":-2.5069,\"MU\":0,\"RR\":3.6148,\"MR\":0,\"MF\":0,\"RF\":-50.059},\"ValveBiped.Bip01_L_Hand\":{\"RU\":-30.8278,\"MU\":0,\"RR\":4.0445,\"MR\":0,\"MF\":0,\"RF\":-2.4102}}}],\"RestartFrame\":2}",
+				["UniqueID"] = "4095201283",
+				["AnimationType"] = "stance",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "피흡",
+		["ClassName"] = "group",
+		["UniqueID"] = "1426580299",
+		["EditorExpand"] = true,
+	},
+},
+[14] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["ClassName"] = "animation",
+						["UniqueID"] = "739119402",
+						["SequenceName"] = "pose_standing_02",
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "b",
+				["Invert"] = true,
+				["Event"] = "button",
+				["UniqueID"] = "584219651",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["URL"] = "https://www.dropbox.com/s/j7s1vh4dp472vz4/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%2089.mp3?dl=0",
+				["ClassName"] = "webaudio",
+				["UniqueID"] = "3764603858",
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "custom_animation",
+				["UniqueID"] = "819859518",
+				["URL"] = "https://www.dropbox.com/s/92szpbfuwkfj5wq/sign%20kill.txt?dl=0",
+				["AnimationType"] = "stance",
+				["EditorExpand"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "1170356816",
+						["EndLength"] = 50,
+						["Material"] = "particle/rain",
+						["Bone"] = "",
+						["Gravity"] = Vector(0, 0, 0),
+						["Position"] = Vector(104.86083984375, 8.58544921875, 3.951171875),
+						["DieTime"] = 0.2,
+						["Color1"] = Vector(0, 0, 0),
+						["FireDelay"] = 0,
+						["Hide"] = true,
+						["Lighting"] = false,
+						["EditorExpand"] = true,
+						["StartLength"] = 20,
+						["Spread"] = 0.35,
+						["Angles"] = Angle(-88.074836730957, 6.9889618316665e-005, 5.9089170463267e-006),
+						["ClassName"] = "particles",
+						["StartSize"] = 20,
+						["PositionSpread"] = 0.9,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["DamageType"] = "alwaysgib",
+						["UniqueID"] = "1037158996",
+						["Speed"] = 2,
+						["Hide"] = true,
+						["Sticky"] = true,
+						["LifeTime"] = 0.04,
+						["ClassName"] = "projectile",
+						["Physical"] = true,
+						["EditorExpand"] = true,
+						["Damage"] = 200,
+						["EyeAngles"] = true,
+						["Gravity"] = false,
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 1,
+						["UniqueID"] = "2546594607",
+						["EndLength"] = 50,
+						["Material"] = "particle/rain",
+						["Bone"] = "",
+						["Gravity"] = Vector(0, 0, 0),
+						["Position"] = Vector(104.86474609375, 14.5439453125, 3.951171875),
+						["Color1"] = Vector(255, 0, 0),
+						["FireDelay"] = 0,
+						["DieTime"] = 0.2,
+						["Lighting"] = false,
+						["Angles"] = Angle(-88.074836730957, 6.9889618316665e-005, 5.9089170463267e-006),
+						["StartLength"] = 20,
+						["Spread"] = 0.35,
+						["PositionSpread"] = 0.9,
+						["ClassName"] = "particles",
+						["StartSize"] = 20,
+						["Hide"] = true,
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 50,
+						["DieTime"] = 0.2,
+						["UniqueID"] = "3765192811",
+						["Material"] = "particle/smokesprites_0004",
+						["Position"] = Vector(104.93017578125, 11.96435546875, 0),
+						["Hide"] = true,
+						["FireDelay"] = 0,
+						["Color1"] = Vector(185, 0, 0),
+						["EndSize"] = 0,
+						["ClassName"] = "particles",
+						["StartLength"] = 30,
+						["Spread"] = 1,
+						["Lighting"] = false,
+						["Bone"] = "",
+						["StartSize"] = 10,
+						["Angles"] = Angle(-88.881385803223, -6.8333492890815e-006, 0),
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 50,
+						["UniqueID"] = "862714212",
+						["EndSize"] = 0,
+						["Material"] = "particle/smokesprites_0003",
+						["Bone"] = "",
+						["Position"] = Vector(106.3818359375, 13.4677734375, 5.962890625),
+						["Lighting"] = false,
+						["FireDelay"] = 0,
+						["DieTime"] = 0.2,
+						["Angles"] = Angle(-88.881385803223, -6.8333492890815e-006, 0),
+						["EditorExpand"] = true,
+						["StartLength"] = 30,
+						["Spread"] = 1,
+						["Hide"] = true,
+						["ClassName"] = "particles",
+						["StartSize"] = 10,
+						["Color1"] = Vector(0, 0, 0),
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Velocity"] = 100,
+						["UniqueID"] = "4005804618",
+						["EndLength"] = 40,
+						["EndSize"] = 10,
+						["Material"] = "trails/laser",
+						["Bone"] = "",
+						["Gravity"] = Vector(0, 0, -1000),
+						["Position"] = Vector(107.35400390625, 11.083984375, 7.64453125),
+						["Color1"] = Vector(255, 0, 0),
+						["FireDelay"] = 0,
+						["DieTime"] = 0.2,
+						["Lighting"] = false,
+						["Angles"] = Angle(-88.881385803223, -6.8333492890815e-006, 0),
+						["StartLength"] = 30,
+						["Spread"] = 1.5,
+						["EditorExpand"] = true,
+						["ClassName"] = "particles",
+						["StartSize"] = 10,
+						["Hide"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["UniqueID"] = "1346972864",
+				["AffectChildren"] = true,
+				["Expression"] = "(floor((min(1.2,timeex()))/1.2)*(-1.2))+1.2",
+				["ClassName"] = "proxy",
+				["VariableName"] = "Hide",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Position"] = Vector(-0.6845703125, -37.6640625, -10.5751953125),
+						["EditorExpand"] = true,
+						["Size"] = 0.775,
+						["Bone"] = "",
+						["Model"] = "models/props_c17/signpole001.mdl",
+						["UniqueID"] = "3465033407",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Position"] = Vector(0.00244140625, -36.939453125, 83.68359375),
+						["Size"] = 0.9,
+						["Bone"] = "",
+						["Model"] = "models/props_c17/streetsign002b.mdl",
+						["UniqueID"] = "1625457813",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0.24547056853771, 85.020523071289, 2.8151261806488),
+						["UniqueID"] = "3196285580",
+						["Position"] = Vector(0.68115234375, -36.71240234375, 67.6904296875),
+						["Size"] = 0.125,
+						["Bone"] = "",
+						["Model"] = "models/props_medical/street_sign003.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(-4.1708984375, -37.945556640625, -6.2607421875),
+				["Angles"] = Angle(-27.617906570435, -16.42328453064, -176.45747375488),
+				["UniqueID"] = "1436754228",
+				["Size"] = 0,
+				["EditorExpand"] = true,
+				["Bone"] = "right hand",
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2325244638",
+		["Name"] = "확인사살",
+	},
+},

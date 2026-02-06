@@ -1,0 +1,479 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.417854309082, 179.99952697754, -179.99952697754),
+						["UniqueID"] = "2496653990",
+						["Position"] = Vector(115.08300018311, -18.371000289917, 0.80699998140335),
+						["Bone"] = "",
+						["Model"] = "models/player/dio/worldarms.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "sin(time()*37)^1*37",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2050538495",
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(-27.135213851929, 34.542236328125, 28.1484375),
+				["EditorExpand"] = true,
+				["Size"] = 0,
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "1553985061",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.417854309082, 179.99952697754, -179.99952697754),
+						["UniqueID"] = "1237760000",
+						["Position"] = Vector(115.08300018311, -18.371000289917, 0.80699998140335),
+						["Bone"] = "",
+						["Model"] = "models/player/dio/worldarms.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "sin(time()*62)^1*62",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2800155291",
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(-61.87508392334, 3.9765625, 70.384765625),
+				["EditorExpand"] = true,
+				["Size"] = 0,
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "1296785163",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.417854309082, 179.99952697754, -179.99952697754),
+						["UniqueID"] = "1237760000",
+						["Position"] = Vector(115.08300018311, -18.371000289917, 0.80699998140335),
+						["Bone"] = "",
+						["Model"] = "models/player/dio/worldarms.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "sin(time()*25)^1*27",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2800155291",
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(19.574333190918, 14.713134765625, 23.6923828125),
+				["EditorExpand"] = true,
+				["Size"] = 0,
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "1296785163",
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.417854309082, 179.99952697754, -179.99952697754),
+						["UniqueID"] = "1237760000",
+						["Position"] = Vector(112.60998535156, -57.70849609375, -5.2958984375),
+						["Bone"] = "",
+						["Model"] = "models/player/dio/worldarms.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "sin(time()*25)^1*40",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2800155291",
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(28.999011993408, 34.542236328125, 28.1484375),
+				["EditorExpand"] = true,
+				["Size"] = 0,
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "1296785163",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.417854309082, 179.99952697754, -179.99952697754),
+						["UniqueID"] = "1237760000",
+						["Position"] = Vector(115.08300018311, -18.371000289917, 0.80699998140335),
+						["Bone"] = "",
+						["Model"] = "models/player/dio/worldarms.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "sin(time()*75)^1*58",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2800155291",
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(37.744609832764, 8.46337890625, 43.6904296875),
+				["EditorExpand"] = true,
+				["Size"] = 0,
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "1296785163",
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.417854309082, 179.99952697754, -179.99952697754),
+						["UniqueID"] = "1237760000",
+						["Position"] = Vector(115.08300018311, -18.371000289917, 0.80699998140335),
+						["Bone"] = "",
+						["Model"] = "models/player/dio/worldarms.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "sin(time()*19)^1*40",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2800155291",
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(27.728645324707, 0, 61.814998626709),
+				["EditorExpand"] = true,
+				["Size"] = 0,
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "1296785163",
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["URL"] = "https://www.dropbox.com/s/rs6tpahrr1c7y5i/muda%20rush.txt?dl=0",
+				["ClassName"] = "custom_animation",
+				["UniqueID"] = "3008977992",
+			},
+		},
+		[8] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.417854309082, 179.99952697754, -179.99952697754),
+						["UniqueID"] = "1237760000",
+						["Position"] = Vector(107.18273925781, -2.570556640625, 3.4072265625),
+						["Bone"] = "",
+						["Model"] = "models/player/dio/worldarms.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "sin(time()*100)^1*46",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2800155291",
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(-4.7022433280945, 0, 47.71484375),
+				["EditorExpand"] = true,
+				["Size"] = 0,
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "1296785163",
+			},
+		},
+		[9] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.417854309082, 179.99952697754, -179.99952697754),
+						["UniqueID"] = "1237760000",
+						["Position"] = Vector(106.93334960938, -0.964111328125, 5.498046875),
+						["Bone"] = "",
+						["Model"] = "models/player/dio/worldarms.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "sin(time()*28)^1*28",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2800155291",
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(-0.80271816253662, 0, 61.814998626709),
+				["EditorExpand"] = true,
+				["Size"] = 0,
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "1296785163",
+			},
+		},
+		[10] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.417854309082, 179.99952697754, -179.99952697754),
+						["UniqueID"] = "1237760000",
+						["Position"] = Vector(115.08300018311, -18.371000289917, 0.80699998140335),
+						["Bone"] = "",
+						["Model"] = "models/player/dio/worldarms.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "sin(time()*29)^1*50",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2800155291",
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(-36.38952255249, 1.442138671875, 33.5546875),
+				["EditorExpand"] = true,
+				["Size"] = 0,
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "1296785163",
+			},
+		},
+		[11] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "2925141529",
+				["Event"] = "button",
+				["Arguments"] = "r",
+				["Invert"] = true,
+			},
+		},
+		[12] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.417854309082, 179.99952697754, -179.99952697754),
+						["UniqueID"] = "1237760000",
+						["Position"] = Vector(115.08300018311, -18.371000289917, 0.80699998140335),
+						["Bone"] = "",
+						["Model"] = "models/player/dio/worldarms.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "sin(time()*37)^1*37",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2800155291",
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(-4.3814797401428, 26.062255859375, 37.2607421875),
+				["EditorExpand"] = true,
+				["Size"] = 0,
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "1296785163",
+			},
+		},
+		[13] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.417854309082, 179.99952697754, -179.99952697754),
+						["UniqueID"] = "1237760000",
+						["Position"] = Vector(115.08300018311, -18.371000289917, 0.80699998140335),
+						["Bone"] = "",
+						["Model"] = "models/player/dio/worldarms.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "sin(time()*37)^1*37",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2800155291",
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(-4.3814797401428, 34.347900390625, 48.1708984375),
+				["EditorExpand"] = true,
+				["Size"] = 0,
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "1296785163",
+			},
+		},
+		[14] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.417854309082, 179.99952697754, -179.99952697754),
+						["UniqueID"] = "1237760000",
+						["Position"] = Vector(85.855590820313, -14.8740234375, 30.6943359375),
+						["Bone"] = "",
+						["Model"] = "models/player/dio/worldarms.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "sin(time()*45)^1*30",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2800155291",
+						["VariableName"] = "Position",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(0.7635595202446, 34.542236328125, 28.1484375),
+				["EditorExpand"] = true,
+				["Size"] = 0,
+				["Bone"] = "",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "1296785163",
+			},
+		},
+		[15] = {
+			["children"] = {
+			},
+			["self"] = {
+				["URL"] = "https://www.dropbox.com/s/57lytqmm07n2lih/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%85%B9%EC%9D%8C%2004.mp3?dl=0",
+				["ClassName"] = "webaudio",
+				["UniqueID"] = "136456819",
+				["Loop"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2412025809",
+		["EditorExpand"] = true,
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "animation",
+				["UniqueID"] = "2353415310",
+				["SequenceName"] = "idle_physgun",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "574322715",
+		["ClassName"] = "group",
+		["Name"] = "내 의상",
+		["Description"] = "나에게 파트를 추가하세요!",
+	},
+},
