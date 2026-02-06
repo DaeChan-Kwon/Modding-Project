@@ -13,7 +13,8 @@
 ## 📹 Video 1
 - 제작 시기 : 중학교 3학년
 - 캐릭터 : 흰수염(원피스)
-- 🔗 링크: [https://www.youtube.com/watch?v=XXXX](https://youtu.be/Y2ZXJlPve1E)
+- 🔗 링크: [![YouTube Video](https://img.youtube.com/vi/Y2ZXJlPve1E/0.jpg)](https://youtu.be/Y2ZXJlPve1E)
+
 ---
 
 ## 📹 Video 2
